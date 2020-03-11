@@ -70,63 +70,63 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
 # Hong Kong Channels
 
-#EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://pull.scphsd.com/live/b3edd0268ef497113c895c4c101e54c0/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158389892911310&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 
-#EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://m.567it.com/jade.m3u8
 
-#EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
-#EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
-#EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
-#EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
 http://pull.scphsd.com/live/82ef3da910314de88e1e7d0428ba6cf5/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158389892911310&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 
-#EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
 http://pull.scphsd.com/live/f8d845d48fc50225de9fce143f2f300c/playlist.m3u8?wsSession=c4808692808c4b6b643aa704-158389918106031&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 
-#EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://stream.guihet.com/tv/116.php?id=12
 
-#EXTINF:-1 logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
+#EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/chunklist_b712704.m3u8
 
-#EXTINF:-1 logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
+#EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 
-#EXTINF:-1 logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" group-title="HONG KONG",TVB 星河
+#EXTINF:-1 tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" group-title="HONG KONG",TVB 星河
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/HK_open_tv_logo.jpg/200px-HK_open_tv_logo.jpg" tvg-id="5f5afc9eb373927c74da38bfc3e658e9" group-title="HONG KONG",有線電視第1台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/HK_open_tv_logo.jpg/200px-HK_open_tv_logo.jpg" tvg-id="5f5afc9eb373927c74da38bfc3e658e9" group-title="HONG KONG",有線電視第1台
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
+#EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
-#EXTINF:-1 logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
+#EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
 http://pull.scphsd.com/live/a3cb43c2c79a1d5a68a14/playlist.m3u8
 
-#EXTINF:-1 logo="http://rthk.hk/about/dtt/images/logo_tv31.jpg" group-title="HONG KONG",香港电视31台
+#EXTINF:-1 tvg-logo="http://rthk.hk/about/dtt/images/logo_tv31.jpg" group-title="HONG KONG",香港电视31台
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1 logo="http://rthk.hk/about/dtt/images/logo_tv32.jpg" group-title="HONG KONG",香港电视32台
+#EXTINF:-1 tvg-logo="http://rthk.hk/about/dtt/images/logo_tv32.jpg" group-title="HONG KONG",香港电视32台
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",鳳凰香港
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",鳳凰香港
 http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 
-#EXTINF:-1 logo="http://www.combostv.hk/upfile/2018/10/19/20181019184018_300.png" group-title="HONG KONG",星空衛視
+#EXTINF:-1 tvg-logo="http://www.combostv.hk/upfile/2018/10/19/20181019184018_300.png" group-title="HONG KONG",星空衛視
 http://stream.guihet.com/tv/116.php?id=233
 
-#EXTINF:-1 logo="http://www.combostv.hk/upfile/2018/10/19/20181019184018_300.png" group-title="HONG KONG",星空衛視
+#EXTINF:-1 tvg-logo="http://www.combostv.hk/upfile/2018/10/19/20181019184018_300.png" group-title="HONG KONG",星空衛視
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 # Japan Channels
