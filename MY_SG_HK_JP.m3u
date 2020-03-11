@@ -71,7 +71,7 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 # Hong Kong Channels
 
 #EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://pull.scphsd.com/live/b71btc9e83d80b3b1c2g6d9d98ac8/playlist.m3u8
+http://pull.scphsd.com/live/b3edd0268ef497113c895c4c101e54c0/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158389892911310&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 
 #EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://m.567it.com/jade.m3u8
@@ -86,10 +86,10 @@ http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=
 http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
 #EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
-http://pull.scphsd.com/live/a7a2734ba1a9a0ca7a142817f2/playlist.m3u8
+http://pull.scphsd.com/live/82ef3da910314de88e1e7d0428ba6cf5/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158389892911310&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 
 #EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
-http://pull.scphsd.com/live/c1f25b13221a3c91a0b7621a7/playlist.m3u8
+http://pull.scphsd.com/live/f8d845d48fc50225de9fce143f2f300c/playlist.m3u8?wsSession=c4808692808c4b6b643aa704-158389918106031&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 
 #EXTINF:-1 logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
