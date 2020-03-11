@@ -165,7 +165,7 @@ http://203.162.235.41:16903
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 # http://203.162.235.41:16902
 
-#EXTINF:-1 tvg-logo="https://freeetv.com/images/01_logo/nhk_world_japan.jpg" group-title="JAPAN", NHK华语视界
+#EXTINF:-1 tvg-logo="https://images.toutiaosg.com/storage/jp/e1a767943a1706d43203d4217f0efff0.jpeg" group-title="JAPAN", NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9XnxyHYD/2000px-NHK-Educational-TV-logo-svg.png" group-title="JAPAN",NHK Eテレ
