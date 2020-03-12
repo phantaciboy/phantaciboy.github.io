@@ -24,13 +24,13 @@
     <display-name lang="en">TVB 星河</display-name>
     <url>http://www.starhubgo.com</url>
   </channel>
-  <channel id="now Hong Kong">
-    <display-name lang="en">ViuTV</display-name>
-    <url>http://www.nowtv.now.com</url>
-  </channel>
   <channel id="01 有線電視第1台">
     <display-name lang="zh">有線電視第1台</display-name>
     <url>http://www.epg.i-cable.com</url>
+  </channel>
+  <channel id="ViuTV">
+    <display-name lang="en">ViuTV</display-name>
+    <url>http://www.nowtv.now.com</url>
   </channel>
   <channel id="NHK World-Japan (707)">
     <display-name lang="zh">NHK World Japan</display-name>
@@ -5410,1557 +5410,23 @@
     <category lang="en">Drama Series</category>
     <category lang="en">Family</category>
   </programme>
-  <programme start="20200312010000 +0800" stop="20200312013000 +0800" channel="now Hong Kong">
-    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E3</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200312013000 +0800" stop="20200312030000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200312030000 +0800" stop="20200312035500 +0800" channel="now Hong Kong">
-    <title lang="en">Invest Smarter E4</title>
-    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312035500 +0800" stop="20200312040000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200312040000 +0800" stop="20200312043000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast Noon News/ Show Flat</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312043000 +0800" stop="20200312050000 +0800" channel="now Hong Kong">
-    <title lang="en">ULTRAMAN R/B E4</title>
-    <sub-title lang="en">光輝的勝利紀念球</sub-title>
-    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200312050000 +0800" stop="20200312053000 +0800" channel="now Hong Kong">
-    <title lang="en">We Bare Bears S2 E4</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200312053000 +0800" stop="20200312063000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E4</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312063000 +0800" stop="20200312070000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E4</title>
-    <sub-title lang="en">肝臟</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312070000 +0800" stop="20200312080000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200312080000 +0800" stop="20200312083000 +0800" channel="now Hong Kong">
-    <title lang="en">Tamagotchi S6 E18</title>
-    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200312083000 +0800" stop="20200312090000 +0800" channel="now Hong Kong">
-    <title lang="en">The Layton Detective Agency E19</title>
-    <sub-title lang="en">害怕孤單的幽靈</sub-title>
-    <desc lang="en">雷頓神秘偵探社~卡托莉的解謎檔案~動畫全集講述雷頓的女兒卡托莉艾露與會說話的狗夏洛、助手諾亞一起經營雷頓偵探社, 解決發生在倫敦的各種不可思議的事件。雖然這份工作最初的目的是尋找父親的下落, 但由於異想天開的思考解開了各種謎題成為話題, 各種各樣的委託也隨之而來。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200312090000 +0800" stop="20200312093000 +0800" channel="now Hong Kong">
-    <title lang="en">DISNEY'S LILO &amp; STITCH E10</title>
-    <desc lang="en">五歲女孩莉蘿在姐姐的幫助下收留了一隻流浪狗, 她給這隻狗起名叫史迪仔, 並希望史迪仔能夠給自己的生活增添一份樂趣。但是莉蘿萬萬沒有想到的是, 史迪仔並不是可憐的流浪狗, 而是來自外星球的長著六支腳的危險分子, 只是在流放中偷跑到地球上來的!為了在地球上隱藏身份, 史迪仔只能“忍辱偷生”, 把自己的兩隻腳藏起來, 讓自己看起來像是一隻狗, 在和莉蘿相處的日子裡, 小女孩的善良單純讓她和史迪仔成了形影不離的好夥伴。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20200312093000 +0800" stop="20200312100000 +0800" channel="now Hong Kong">
-    <title lang="en">Joyous Alliance - We Can Do It E11</title>
-    <desc lang="en">每集都會講述不同種類的功夫和武術, 一起接觸功夫, 理解背後當中文化、歷史、知識, 放眼世界!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200312100000 +0800" stop="20200312102500 +0800" channel="now Hong Kong">
-    <title lang="en">News Cast at 6</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312102500 +0800" stop="20200312103000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200312103000 +0800" stop="20200312110000 +0800" channel="now Hong Kong">
-    <title lang="en">Hong Kong Stories - Taste of Home E5</title>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200312110000 +0800" stop="20200312113000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast News Cast at 7</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312113000 +0800" stop="20200312120000 +0800" channel="now Hong Kong">
-    <title lang="en">BioEm Presents: WARS E28</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200312120000 +0800" stop="20200312123000 +0800" channel="now Hong Kong">
-    <title lang="en">QUEEN E4</title>
-    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Japanese</category>
-  </programme>
-  <programme start="20200312123000 +0800" stop="20200312133000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: The Secret Life of My Secretary E21</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-  </programme>
-  <programme start="20200312133000 +0800" stop="20200312143000 +0800" channel="now Hong Kong">
-    <title lang="en">King To Nin Jiom Presents: Leap Day E9</title>
-    <desc lang="en">張麗紗Yeesa (吳海昕 飾) , 2月29日出生的平凡少女。2017年, Yeesa於2月28日為自己慶祝生日, 在11時59分一刻, 竟然穿越時空, 來到天寒地凍的北海道, 過程中遇上和她未來命脈相連的兩個男人－馬智浩Ryan (徐天佑 飾) 與余家聰 (劉俊謙 飾) , 兩個香港男生都不約而同地聲稱與她相識。24小時過去, Yeesa穿越回到香港, 現實卻只過了一秒鐘。Yeesa發現自己的穿越能力不由自主, 而她竟然在現實裡重新認識Ryan及家聰......命運的齒輪在靜靜地轉動著......(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Asian</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312143000 +0800" stop="20200312150000 +0800" channel="now Hong Kong">
-    <title lang="en">Happy Half Hour E9[Live]</title>
-    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312150000 +0800" stop="20200312153000 +0800" channel="now Hong Kong">
-    <title lang="en">Travel with King Kong &amp; the Beauties E9</title>
-    <sub-title lang="en">免排隊食人氣海膽飯</sub-title>
-    <desc lang="en">築地場內市場搬咗咋, 但係場外仲有好多餐廳喺度排晒長龍, 今集我哋就分享一個免排隊就食到人氣海膽飯嘅方法俾大家!另外再去一個職人市集, 入面嘅店主每個都好有特色, 小心荷包出血呀。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312153000 +0800" stop="20200312160000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - Helmet Intercom E204</title>
-    <sub-title lang="en">旅遊記者 (I)</sub-title>
-    <desc lang="en">平時睇旅遊文章, 都係介紹最新嘅食玩買超筍攻略, 但風光背後, 其實一班旅遊記者, 都係一個個行走嘅「試伏器」。「X星級景點」原來係山寨版荔園?山清水秀嘅景點原來係「魚塘x洗腳池」?以為旅遊局安排得嘅都係好嘢?集中營式住宿、深山原始酒店、遲到幾個鐘嘅冇影旅遊巴, 仲有其他意想不到嘅伏味濃行程, 分分鐘令記者們集體瀨嘢!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312160000 +0800" stop="20200312162500 +0800" channel="now Hong Kong">
-    <title lang="en">Re: Zero - Starting Life in Another World E23</title>
-    <desc lang="en">高中生菜月昴在回家的途中突然被召喚到異世界, 並隨即遭遇到強盜的襲擊。這時, 一名神祕銀髮美少女和貓精靈拯救了他。以報恩為名義, 昴自告奮勇要幫助少女找東西。然而, 好不容易才掌握到線索, 昴和少女卻被不明人士攻擊而殞命。 本來應該就這樣結束, 但回過神來, 昴卻發現自己置身在第一次被召喚到這個異世界時所在的位置。「死亡回歸」──無力的少年得到的唯一能力, 是死後時間會倒轉回到開始那一刻。跨越無數絕望, 從死亡的命運中開拓未來!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20200312162500 +0800" stop="20200312163000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200312163000 +0800" stop="20200312170000 +0800" channel="now Hong Kong">
-    <title lang="en">BioEm Presents: WARS E28</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200312170000 +0800" stop="20200312181500 +0800" channel="now Hong Kong">
-    <title lang="en">Sketch E9</title>
-    <sub-title lang="en">終需一別</sub-title>
-    <desc lang="en">東秀猜測有人正在模仿道振的處事手法, 東秀在找這個男人的時候, 找到一個找白優真的人, 離真相越來越近。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312181500 +0800" stop="20200312183000 +0800" channel="now Hong Kong">
-    <title lang="en">Girls' Talk - Cooking Girls -清湯鮑魚貢梨滑蛋河</title>
-    <desc lang="en">「一年之計在於食」!年頭食得好, 今年包你執到寶!所以廚師Derek今次請你食個鮑魚滑蛋河!咦?!點計個炒河入面會加個貢梨呢?主意多多嘅Derek梗係有解釋啦!記住睇實點煮啦!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-  </programme>
-  <programme start="20200312183000 +0800" stop="20200312190000 +0800" channel="now Hong Kong">
-    <title lang="en">Late News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200312190000 +0800" stop="20200312200000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: The Secret Life of My Secretary E21</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-  </programme>
-  <programme start="20200312200000 +0800" stop="20200312203000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - Helmet Intercom E204</title>
-    <sub-title lang="en">旅遊記者 (I)</sub-title>
-    <desc lang="en">平時睇旅遊文章, 都係介紹最新嘅食玩買超筍攻略, 但風光背後, 其實一班旅遊記者, 都係一個個行走嘅「試伏器」。「X星級景點」原來係山寨版荔園?山清水秀嘅景點原來係「魚塘x洗腳池」?以為旅遊局安排得嘅都係好嘢?集中營式住宿、深山原始酒店、遲到幾個鐘嘅冇影旅遊巴, 仲有其他意想不到嘅伏味濃行程, 分分鐘令記者們集體瀨嘢!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312203000 +0800" stop="20200312213000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E4</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312213000 +0800" stop="20200312220000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E4</title>
-    <sub-title lang="en">肝臟</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200312220000 +0800" stop="20200313010000 +0800" channel="now Hong Kong">
-    <title lang="en">Morning News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200313010000 +0800" stop="20200313013000 +0800" channel="now Hong Kong">
-    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E4</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200313013000 +0800" stop="20200313030000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200313030000 +0800" stop="20200313035500 +0800" channel="now Hong Kong">
-    <title lang="en">Invest Smarter E5</title>
-    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200313035500 +0800" stop="20200313040000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200313040000 +0800" stop="20200313043000 +0800" channel="now Hong Kong">
-    <title lang="en">Noon News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200313043000 +0800" stop="20200313050000 +0800" channel="now Hong Kong">
-    <title lang="en">ULTRAMAN R/B E5</title>
-    <sub-title lang="en">再見了, 伊卡洛斯</sub-title>
-    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200313050000 +0800" stop="20200313053000 +0800" channel="now Hong Kong">
-    <title lang="en">We Bare Bears S2 E5</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200313053000 +0800" stop="20200313063000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E5</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313063000 +0800" stop="20200313070000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E5</title>
-    <sub-title lang="en">免疫力</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200313070000 +0800" stop="20200313080000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200313080000 +0800" stop="20200313083000 +0800" channel="now Hong Kong">
-    <title lang="en">Tamagotchi S6 E19</title>
-    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200313083000 +0800" stop="20200313090000 +0800" channel="now Hong Kong">
-    <title lang="en">The Layton Detective Agency E20</title>
-    <sub-title lang="en">雷頓教授與秘寶雷利克斯</sub-title>
-    <desc lang="en">雷頓神秘偵探社~卡托莉的解謎檔案~動畫全集講述雷頓的女兒卡托莉艾露與會說話的狗夏洛、助手諾亞一起經營雷頓偵探社, 解決發生在倫敦的各種不可思議的事件。雖然這份工作最初的目的是尋找父親的下落, 但由於異想天開的思考解開了各種謎題成為話題, 各種各樣的委託也隨之而來。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200313090000 +0800" stop="20200313093000 +0800" channel="now Hong Kong">
-    <title lang="en">DISNEY'S LILO &amp; STITCH E11</title>
-    <desc lang="en">五歲女孩莉蘿在姐姐的幫助下收留了一隻流浪狗, 她給這隻狗起名叫史迪仔, 並希望史迪仔能夠給自己的生活增添一份樂趣。但是莉蘿萬萬沒有想到的是, 史迪仔並不是可憐的流浪狗, 而是來自外星球的長著六支腳的危險分子, 只是在流放中偷跑到地球上來的!為了在地球上隱藏身份, 史迪仔只能“忍辱偷生”, 把自己的兩隻腳藏起來, 讓自己看起來像是一隻狗, 在和莉蘿相處的日子裡, 小女孩的善良單純讓她和史迪仔成了形影不離的好夥伴。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20200313093000 +0800" stop="20200313100000 +0800" channel="now Hong Kong">
-    <title lang="en">Joyous Alliance - Magic Express E11</title>
-    <desc lang="en">《魔術宅急便》邀請專業魔術師, 為大家介紹各種魔術效果、教大家自製魔術道具和魔術表演技巧。為自己和別人帶來歡樂。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200313100000 +0800" stop="20200313102500 +0800" channel="now Hong Kong">
-    <title lang="en">News Cast at 6</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200313102500 +0800" stop="20200313103000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200313103000 +0800" stop="20200313110000 +0800" channel="now Hong Kong">
-    <title lang="en">Police Magazine E129</title>
-    <desc lang="en">自一九七三啟播之「警訊」, 一直秉承宣揚滅罪訊息的宗旨: 以戲劇形式, 將匪徒各式各樣的犯罪手法重現觀眾眼前；披露最新罪案趨勢, 提高市民的警覺性。此外, 節目內亦會介紹警隊各部門以及其最新動態, 藉此加深市民對警隊的認識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Crime</category>
-  </programme>
-  <programme start="20200313110000 +0800" stop="20200313113000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast News Cast at 7</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200313113000 +0800" stop="20200313120000 +0800" channel="now Hong Kong">
-    <title lang="en">BioEm Presents: WARS E29</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200313120000 +0800" stop="20200313123000 +0800" channel="now Hong Kong">
-    <title lang="en">QUEEN E5</title>
-    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Japanese</category>
-  </programme>
-  <programme start="20200313123000 +0800" stop="20200313133000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: He is Psychometric E1</title>
-    <sub-title lang="en">觸物知往</sub-title>
-    <desc lang="en">11年前, 李安經歷了一場火災, 那意外帶走了他的父母, 但卻令他有了「觸物知往」的能力, 只要觸碰到他人就能讀取這個人的過往, 但他卻無法自由控制這能力...(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313133000 +0800" stop="20200313143000 +0800" channel="now Hong Kong">
-    <title lang="en">King To Nin Jiom Presents: Leap Day E10</title>
-    <desc lang="en">張麗紗Yeesa (吳海昕 飾) , 2月29日出生的平凡少女。2017年, Yeesa於2月28日為自己慶祝生日, 在11時59分一刻, 竟然穿越時空, 來到天寒地凍的北海道, 過程中遇上和她未來命脈相連的兩個男人－馬智浩Ryan (徐天佑 飾) 與余家聰 (劉俊謙 飾) , 兩個香港男生都不約而同地聲稱與她相識。24小時過去, Yeesa穿越回到香港, 現實卻只過了一秒鐘。Yeesa發現自己的穿越能力不由自主, 而她竟然在現實裡重新認識Ryan及家聰......命運的齒輪在靜靜地轉動著......(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Asian</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313143000 +0800" stop="20200313150000 +0800" channel="now Hong Kong">
-    <title lang="en">Happy Half Hour E10[Live]</title>
-    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313150000 +0800" stop="20200313153000 +0800" channel="now Hong Kong">
-    <title lang="en">Travel with King Kong &amp; the Beauties E10</title>
-    <sub-title lang="en">200蚊食到A5松阪牛壽喜燒</sub-title>
-    <desc lang="en">今集帶大家嚟到古董家居店, 金剛阿飄的故事重現......「有故事的人」Yoshi帶大家去搵有成200年幾歷史日本木櫃、傢俱、油燈等等, 竟然係你估唔到咁平嘅價錢就買到!高CP 貼士陸續有來!三大和牛之一嘅A5松阪牛壽喜燒喺舖頭食唔洗200蚊就食到, 仲平過齋買同份量嘅松阪牛!記得睇今集抄貼士啦!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313153000 +0800" stop="20200313160000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - One Beside You 3 E130</title>
-    <sub-title lang="en">全民撞鬼總決賽</sub-title>
-    <desc lang="en">全民撞鬼總決賽, 三位參加者爭奪獎金戰, 難度升級!司徒法基師傅在廢村鎖定靈氣最盛的地方, 讓參加者在裡面找尋及拍下人型紙公仔, 之後, 他們再以碟仙方式問支票藏身那裡, 期間有人被靈體騷擾, 有人更險被鬼上身!最後碟仙有給予參加者提示, 結果更令鬼王潘紹聰直呼不可思議!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313160000 +0800" stop="20200313162500 +0800" channel="now Hong Kong">
-    <title lang="en">Tokyo Ghoul : re E16</title>
-    <desc lang="en">混跡於大眾之間, 吞食人類的血肉。披著人類外皮, 卻與人類迥然不同的存在...“喰種”。驅逐並研究“喰種”的「CCG」, 為了實現某一命題, 新設立了一個實驗體集團。──其名為「Qs」。並非「正常人」的他們, 與佐佐木琲世一等搜查官一起在“東京”面對的東西究竟是──!?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <rating>
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20200313162500 +0800" stop="20200313163000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200313163000 +0800" stop="20200313170000 +0800" channel="now Hong Kong">
-    <title lang="en">BioEm Presents: WARS E29</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200313170000 +0800" stop="20200313183000 +0800" channel="now Hong Kong">
-    <title lang="en">Crime Scene Season 2 E11</title>
-    <desc lang="en">是韓國的推理型綜藝節目, 以神祕殺人事件為背景。參與者既要擺脫兇手嫌疑, 又要一起找出真正的兇手。一開場來賓會一起進入兇殺案第一現場, 所有來賓變成嫌疑人, 而其中有一個是犯人。為求逼真, 嫌疑人各自會一份資料, 讓找證據或辯論時, 能順利應對或透過對話找出新證據。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313183000 +0800" stop="20200313190000 +0800" channel="now Hong Kong">
-    <title lang="en">Late News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200313190000 +0800" stop="20200313200000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: He is Psychometric E1</title>
-    <sub-title lang="en">觸物知往</sub-title>
-    <desc lang="en">11年前, 李安經歷了一場火災, 那意外帶走了他的父母, 但卻令他有了「觸物知往」的能力, 只要觸碰到他人就能讀取這個人的過往, 但他卻無法自由控制這能力...(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313200000 +0800" stop="20200313203000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - One Beside You 3 E130</title>
-    <sub-title lang="en">全民撞鬼總決賽</sub-title>
-    <desc lang="en">全民撞鬼總決賽, 三位參加者爭奪獎金戰, 難度升級!司徒法基師傅在廢村鎖定靈氣最盛的地方, 讓參加者在裡面找尋及拍下人型紙公仔, 之後, 他們再以碟仙方式問支票藏身那裡, 期間有人被靈體騷擾, 有人更險被鬼上身!最後碟仙有給予參加者提示, 結果更令鬼王潘紹聰直呼不可思議!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313203000 +0800" stop="20200313213000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E5</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200313213000 +0800" stop="20200313220000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E5</title>
-    <sub-title lang="en">免疫力</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200313220000 +0800" stop="20200314000000 +0800" channel="now Hong Kong">
-    <title lang="en">Morning News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200314000000 +0800" stop="20200314003000 +0800" channel="now Hong Kong">
-    <title lang="en">Golden Age Diary 2 E18</title>
-    <desc lang="en">本節目以長者日記的方式, 在每個章節裡介紹不同長者背後的精采生活, 如長者旅行團、銀髮義工、高齡學藝。亦甚至, 探討年輕一代如何建立不同的渠道與長者接觸, 如透過與長者合作, 以社區導賞的方式, 帶領觀眾認識香港歷史。又或, 發掘隱藏的長者精英, 讓各路耆英高手互相學習。透過本節目, 希望帶出關注長者的訊息, 讓社會不同人士打破對老年的印象和限制, 為將來的我們, 舖墊共融的未來。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20200314003000 +0800" stop="20200314010000 +0800" channel="now Hong Kong">
-    <title lang="en">Welcome to Secondary School E5</title>
-    <desc lang="en">內容講述學校如何幫助剛升中的同學, 學校在學習與及配套中, 如何令中一新生適應新校園的生活。我們搜羅香港各區中學, 希望大眾透過節目了解不同學校的方針, 宏觀地認識香港的中學。讓家長和同學了解更多後, 務求做到家長與學校合作, 一同用心培育孩子成長。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200314010000 +0800" stop="20200314013000 +0800" channel="now Hong Kong">
-    <title lang="en">Time Bokan The Villains' Strike Back E10</title>
-    <desc lang="en">工作於24世紀的教科書出版社“歷史天國社”的畢瑪喬、茲夫亞基、鈴木, 三人其實是阻礙時空管理局 (JKK) 進行歷史調查的壞蛋組織“惡黨”。在與時夫和JKK隊員可蓮的歷史攻防戰結束後, 惡黨經歷著說長不長, 說短不短的停職休假 (事實上是無薪假) 而毫無收入, 在某日他們接到神秘老闆所下達的新任務!那就是....『將歷史偉人們所持有的“帝納水晶”蒐集起來!』在老闆的無理要求下, 悲慘社員遵照指令前往各時代, 惡黨想盡各種策略奪取帝納水晶。壞蛋三人組的超時空逆襲任務現在再次開始!!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200314013000 +0800" stop="20200314020000 +0800" channel="now Hong Kong">
-    <title lang="en">Ben and Holly's Little Kingdom S1 E11</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200314020000 +0800" stop="20200314023000 +0800" channel="now Hong Kong">
-    <title lang="en">Kemono Friends E1</title>
-    <desc lang="en">加帕里公園是匯集了全世界野生動物的巨大公園, 內有莽原、雨林、沙漠、雪山等各種地形, 棲息了包括現生種、滅絕種或傳說中的各種動物。這些動物受到神秘物質砂之星影響而變成了動物女孩, 其外表與生態雖保有部分原本的動物特徵, 但彼此之間的關係較類似人類, 她們都以加帕里饅頭為食, 因此不存在原本的食性。此外, 公園中還有神秘怪物天藍怪, 這是對加帕利公園造成威脅的敵人。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200314023000 +0800" stop="20200314030000 +0800" channel="now Hong Kong">
-    <title lang="en">Station Stories</title>
-    <desc lang="en">車每駛進一站, 就有一個故事!從台北出發, 發掘火車與台灣千絲萬縷的關係與故事。一座城市, 如何因鐵路而興起?一個破城, 如何因鐵路而再生?離鄉的人, 如何跟著路軌重返家鄉?進城的人, 能否走出自己的軌跡?台灣是一個充滿故事的地方, 由清朝至日治到現代, 台灣的火車貫穿南北, 穿梭大城與靜鄉。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200314030000 +0800" stop="20200314035500 +0800" channel="now Hong Kong">
-    <title lang="en">Chef Nic E5</title>
-    <sub-title lang="en">香港篇 - 陳偉霆/小S</sub-title>
-    <desc lang="en">對於謝霆鋒來講, 香港是他的家, 但是有很多人, 就好像深水埗的獨居老人們, 他們一直渴望著更多的交流和溝通。本期霆鋒在幫助明哥送盒飯的行動中, 感受到了自己從未見過的一些人的生存狀態。於是本來的一次比賽, 被一眾人暖心的舉動塗抹上一層溫暖的亮色。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200314035500 +0800" stop="20200314040000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200314040000 +0800" stop="20200314043000 +0800" channel="now Hong Kong">
-    <title lang="en">Noon News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200314043000 +0800" stop="20200314053000 +0800" channel="now Hong Kong">
-    <title lang="en">Takeshis Medical Check-up Show E164</title>
-    <sub-title lang="en">血管</sub-title>
-    <desc lang="en">用情境劇來表現一些病症的發生, 一些大家很少留意的症狀, 但可能是某種嚴重疾病的先兆。再請該疾病領域的醫師, 進行解說及分析, 說明情境劇內發生的事情, 可能已經在實際生活中發生了, 並教觀眾如何做簡單的自我檢測, 內容沒有艱深的醫學報導, 戲劇表現生活化。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200314053000 +0800" stop="20200314063000 +0800" channel="now Hong Kong">
-    <title lang="en">Woo Sang Design Presents: Chill Club E19</title>
-    <sub-title lang="en">嘉賓: 吳浩康、李靖筠</sub-title>
-    <desc lang="en">有一些情歌, 男士們聽起上來特別有共嗚。故此, 今集「Chill Club」的主題就是「男人情歌」, 更邀請到吳浩康唱出他的「男人情歌」, 如︰先入為主、擇日失戀等等。新歌推介方面, 今集邀請到李靖筠唱出《第三顆行星》。而「黃劍文音樂實驗室」, 今次黃劍文會利用結他及二胡彈奏《我們的》。今集「當年金曲榜」, 將會以「10年前的金曲」作主題, 就讓觀眾重溫當年金曲!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20200314063000 +0800" stop="20200314073000 +0800" channel="now Hong Kong">
-    <title lang="en">Barter Game E7 ?</title>
-    <sub-title lang="en">什麼是生活態度呢</sub-title>
-    <desc lang="en">環境是否會令人放下身段呢?小齊和edmond為了換取有瓦遮頭, 執垃圾、洗厠所, 從中有什麼感受呢?二汶、Thor去到汶萊水上村, 他們對於鄰舍關係會有什麼新睇法呢?Eric和心悠深入基層社區, 探訪古巴鎖匠, 了解他縱使生活缺乏, 但對生活仍充滿熱誠。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-  </programme>
-  <programme start="20200314073000 +0800" stop="20200314080000 +0800" channel="now Hong Kong">
-    <title lang="en">Rise of the Teenage Mutant Ninja Turtles E13</title>
-    <desc lang="en">強勢回歸!忍者龜又回來啦, 他們這次有全新的超威能力!跟著拉斐爾、李奧、多納、米開使用全新武器、打擊突變種, 揭開藏在紐約市底下的秘密城市!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200314080000 +0800" stop="20200314081500 +0800" channel="now Hong Kong">
-    <title lang="en">Oreca Battle E4</title>
-    <desc lang="en">年輕的奧雷卡。有一天, 一個神秘的寶藏箱, 有權力召喚怪物進入這個領域出現。他的名字是潘朵拉。當他們在一起遇到無數的爭鬥, 火和他的妖怪之間的友誼增長。然而, 大火和他的怪獸很快捲入了一場與惡魔國王奧雷卡的戰鬥, 威脅著世界的和平與和諧。一個從未見過的奧雷卡戰役即將展開!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200314081500 +0800" stop="20200314083000 +0800" channel="now Hong Kong">
-    <title lang="en">Dragon Collection E4</title>
-    <desc lang="en">通過意外的轉折, 一個普通的小學生, 發現自己在世界上的 '龍集' 遊戲。這是一個叫做 '龍地球' 的世界, 那裡的神、人和怪獸並排存在。那些漫遊這個世界的人使用一本神奇的書, 稱為放魔法書, 和卡片召喚怪物, 並尋找擁有龍的力量的寶藏被稱為龍收藏。儘管他的困惑, 阿寬成為一個戰士, 並與他在那裡會見的朋友, 開始他的冒險成為傳奇龍大師!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200314083000 +0800" stop="20200314090000 +0800" channel="now Hong Kong">
-    <title lang="en">Transformers Cyberverse Season 1 E7</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200314090000 +0800" stop="20200314093000 +0800" channel="now Hong Kong">
-    <title lang="en">My Little Pony: Friendship is Magic S9 E3</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200314093000 +0800" stop="20200314100000 +0800" channel="now Hong Kong">
-    <title lang="en">Pets and Family E50</title>
-    <desc lang="en">飼養小寵物是很多小朋友的願望, 歐美有不少研究早已證明飼養寵物, 可以為兒童生理及心理健康帶來正面的效果。包括透過與寵物的互動, 讓小朋友有較多的運動機會, 生活得更健康, 並且可以培養他們的責任心、同理心、尊重生命等態度。另一方面對於弱勢社群的兒童, 寵物可以擔任最好的聆聽者與陪伴者, 協助他們接觸人群, 衝破心理障礙。而對於傷健的小朋友, 動物不懂歧視, 在互動相處中, 小朋友毋須害怕、焦慮或不安, 寵物可以幫助他們應付日常生活或在治療過程中提供支援及力量, 如治療犬、服務犬等便是典型例子。節目透過講解如何飼養適合香港實際環境的寵物、俾到小朋友去了解各種寵物的飼養方法, 各種寵物的特性, 從而達到認識不同寵物的飼養知識。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200314100000 +0800" stop="20200314102500 +0800" channel="now Hong Kong">
-    <title lang="en">News Cast at 6</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200314102500 +0800" stop="20200314103000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200314103000 +0800" stop="20200314110000 +0800" channel="now Hong Kong">
-    <title lang="en">Now Forum E333</title>
-    <desc lang="en">《大鳴大放》是一個30分鐘的時事討論節目, 識英雄重英雄, 請來各界重磅名人, 拋出論點, 言無不盡, 深入討論時事, 跨越維港神州, 宏觀全世界。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Interview</category>
-  </programme>
-  <programme start="20200314110000 +0800" stop="20200314113000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast News Cast at 7</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200314113000 +0800" stop="20200314120000 +0800" channel="now Hong Kong">
-    <title lang="en">Medicine Online E202</title>
-    <sub-title lang="en">創傷之後</sub-title>
-    <desc lang="en">上年年中開始, 香港出現一連串反修例示威, 每人或多或少都透過屏幕看到、甚至親身經歷暴力場面。前線義務急救員Dick, 這大半年以來見證了大大小小的衝突, 沒想到這些創傷, 原來一點一滴地侵蝕他的情緒, 令他患上創傷後遺症。今集《杏林在線》會聽聽他的故事, 並跟大家了解這些患者可以如何走出陰霾。.(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200314120000 +0800" stop="20200314123000 +0800" channel="now Hong Kong">
-    <title lang="en">ETC Presents: Brickspert S2 E15</title>
-    <sub-title lang="en">新款油漆</sub-title>
-    <desc lang="en">設計師Henry Lam特意營造寫意、光猛與潔淨的氣息, 為家居塑造一個充滿悠閒舒適的環境。設計師阿豐與強尼, 帶觀眾認識新款油漆, 猶如天然大理石的花紋與手感。麥sir與嘉倩今次教大家修理門鉸, 原來只須簡單步驟, 你我都一樣做得到!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20200314123000 +0800" stop="20200314143000 +0800" channel="now Hong Kong">
-    <title lang="en">YES UA Presets: The Detective 2</title>
-    <desc lang="en">這是發生在泰國的故事。亞探 (郭富城 飾) 離開警局後, 成為一名私家偵探。童年好友風澤帶著一批照片出現, 亞探驚呆了。他望著眼前一幅幅謀殺現場的圖片, 罪犯到底想告訴些什麼?在他還來不及思考的時候, 第二宗、第三宗案件接連發生。亞探深陷案情之中: 死於家中的男人；慘死於垃圾堆中的女人；死因不明的妙齡少女......(n)</desc>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200314143000 +0800" stop="20200314170000 +0800" channel="now Hong Kong">
-    <title lang="en">Premier League 19/20 -Norwich City v Southampton[Live]</title>
-    <desc lang="en">英格蘭超級足球聯賽, 全球最受歡迎頂級足球聯賽!每年, 透過各大平台收看英超足球直播的球迷數以億計；每場球賽,  皆是球迷們焦點所在!2019年, viuTV決定向全港球迷「派福利」, 每月免費直播英超賽事。除此之外, 更會為大家落足心機炮製全新英超前奏節目, 務求要全港球迷, 同步投入免費足球狂熱!(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">PL</category>
-    <category lang="en">Soccer</category>
-    <category lang="en">match</category>
-  </programme>
-  <programme start="20200314170000 +0800" stop="20200314183000 +0800" channel="now Hong Kong">
-    <title lang="en">THE QUEEN OF D.n.A E10</title>
-    <sub-title lang="en">8強爭奪賽 – 海外篇 (1)</sub-title>
-    <desc lang="en">水底攝影結果公佈, 《美選D.n.A》十強正式誕生, 海外受訓隨即展開。　天使組到日本東京受訓, 站在潮流頂端的國度, 學做不一樣的天使......　魔鬼組到充滿魔鬼氣息的泰國芭堤雅, 在活色生香的環境, 如何散發誘人的感染力......(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200314183000 +0800" stop="20200314190000 +0800" channel="now Hong Kong">
-    <title lang="en">Interviu -張婉婷 / 謝利</title>
-    <desc lang="en">張婉婷導演第一齣拍的電影《非法移民》已為她帶來香港電影金像獎最佳導演, 她大談當年如何拿到資金拍到這部電影。其後她找來周潤發拍攝《秋天的童話》, 大讚對方相當專業, 在嘈吵的環境中可以交足功課。另外她又分享洪金寶合作電影的難忘事, 為何大哥大看到她寫的字條後會馬上撕掉呢?旅遊達人謝利跟拍檔在逆市開茶飲店, 他們主打健康茶飲, 坊間這麼多茶飲店, 他們又如何吸引更多顧客。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-  </programme>
-  <programme start="20200314190000 +0800" stop="20200314193000 +0800" channel="now Hong Kong">
-    <title lang="en">Station Stories</title>
-    <desc lang="en">車每駛進一站, 就有一個故事!從台北出發, 發掘火車與台灣千絲萬縷的關係與故事。一座城市, 如何因鐵路而興起?一個破城, 如何因鐵路而再生?離鄉的人, 如何跟著路軌重返家鄉?進城的人, 能否走出自己的軌跡?台灣是一個充滿故事的地方, 由清朝至日治到現代, 台灣的火車貫穿南北, 穿梭大城與靜鄉。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200314193000 +0800" stop="20200314200000 +0800" channel="now Hong Kong">
-    <title lang="en">Alleys in Taipei E5</title>
-    <sub-title lang="en">赤峰街</sub-title>
-    <desc lang="en">赤峰街有「打鐵街」之稱, 靠近台北捷運中山、雙連站, 昔日以汽車零件及音響店著名。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200314200000 +0800" stop="20200314203000 +0800" channel="now Hong Kong">
-    <title lang="en">Designers in Hong Kong E19</title>
-    <desc lang="en">設計就是解決生活上的問題, 令生活更好。香港, 一個生活上充滿問題的城市, 自然孕育出很多本土設計師, 擁有自己獨特的設計, 設計的層面非常廣闊, 有平面設計、網頁設計、建築、生活用品、傢俬、居室、工業、包裝、時裝等等, 而香港的設計師也有自己的一套風格和哲學。從香港設計師和他們的作品中, 實際上反映的就是香港人生活上的方方面面。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20200314203000 +0800" stop="20200314210000 +0800" channel="now Hong Kong">
-    <title lang="en">Art Hospitality Group E26</title>
-    <desc lang="en">藝術能夠帶給我們無盡的視野、無窮的思維、無限的靈感。不過, 藝術對於好多人來說, 都是深奧和沉悶, 遙不可及的!為了令藝術變得易明普及化, 「藝術團睇」就肩負起這個重任, 每星期為大家介紹一個藝術展覽, 由博物館之名家畫展、到商場貼地之土炮藝術、或校園藝術系學生之作品, 「藝術團睇」都不會放過。節目更會請來專家或者藝術創作者用最平易近人的方法為觀眾解構每件作品!(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Art</category>
-  </programme>
-  <programme start="20200314210000 +0800" stop="20200314213000 +0800" channel="now Hong Kong">
-    <title lang="en">Golden Age Diary 2 E18</title>
-    <desc lang="en">本節目以長者日記的方式, 在每個章節裡介紹不同長者背後的精采生活, 如長者旅行團、銀髮義工、高齡學藝。亦甚至, 探討年輕一代如何建立不同的渠道與長者接觸, 如透過與長者合作, 以社區導賞的方式, 帶領觀眾認識香港歷史。又或, 發掘隱藏的長者精英, 讓各路耆英高手互相學習。透過本節目, 希望帶出關注長者的訊息, 讓社會不同人士打破對老年的印象和限制, 為將來的我們, 舖墊共融的未來。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20200314213000 +0800" stop="20200314220000 +0800" channel="now Hong Kong">
-    <title lang="en">Put Your Hands Up S2 E7</title>
-    <desc lang="en">上一輯「舉高雙手」, Beatboxer主持dR. X黃浩邦穿梭香港各地, 拜訪新生代嘅本地表演藝術工作者, 喺交談之間認識佢地嘅背景同心路歷程。鍾意接受新挑戰嘅dR. X, 除咗跟呢班「前輩」偷師學下嘢, 每集更加即席同嘉賓們大搞Crossover, 擦出好多意想不到嘅藝術火花!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20200314220000 +0800" stop="20200315000000 +0800" channel="now Hong Kong">
-    <title lang="en">Morning News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200315000000 +0800" stop="20200315003000 +0800" channel="now Hong Kong">
-    <title lang="en">Senior Hobbies S2 E9</title>
-    <desc lang="en">貼身追蹤有不同興趣的長者, 看看這個興趣是從何時、何地、何種心情開始, 了解後更容易體驗他們在參予中的樂趣, 使得觀眾也能感受, 而更可能被吸引著而成為其中一份子。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20200315003000 +0800" stop="20200315010000 +0800" channel="now Hong Kong">
-    <title lang="en">Start From Hotspring E5</title>
-    <sub-title lang="en">最地道的溫泉蛋</sub-title>
-    <desc lang="en">這一集走訪奧飛驒溫泉鄉的其中一個溫泉, 名為山水。它的溫泉水來自褔地溫泉, 這裡除了優美的山林境色, 最令人欣賞的是職員的親切。兩位主持深入海底水世界, 與超過500種魚類還有企鵝明星玩遊戲! 兩位更近距離接觸巨大鯨鯊及海豚, 觀看海豚訓練過程。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200315010000 +0800" stop="20200315013000 +0800" channel="now Hong Kong">
-    <title lang="en">Alleys in Taipei E5</title>
-    <sub-title lang="en">赤峰街</sub-title>
-    <desc lang="en">赤峰街有「打鐵街」之稱, 靠近台北捷運中山、雙連站, 昔日以汽車零件及音響店著名。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200315013000 +0800" stop="20200315020000 +0800" channel="now Hong Kong">
-    <title lang="en">Spin Fighters 4 E22</title>
-    <sub-title lang="en">追查蒙面人</sub-title>
-    <desc lang="en">科菲, 一個想要實現他父親的旋轉戰鬥機戰鬥夢想的青少年, 已經報名參加了旋轉戰鬥機比賽。帶著對旋轉戰鬥機的熱愛, 他結識了約克、謝雅和其他朋友, 甚至得到了旋轉戰鬥機的發明者--奇特博士的認可。然而, 旋轉戰鬥機戰鬥的圈子突然發生變化。芬恩, 高音冠軍, 突然退休, 偽裝成蒙面人, 在旋轉戰鬥機比賽中偷偷地製造麻煩。在朋友的說明下, 科菲看穿了芬恩的陰謀。依靠他們對旋轉戰鬥機的深深的愛和信心, 科菲擊敗了芬恩, 解開了芬恩和惡魔大師之間的結。最後, 科菲和他的旋轉戰鬥機朋友憤怒的風暴, 回到旋轉戰鬥機戰鬥, 並不斷執行他們深深的愛和信念的旋轉戰鬥機。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200315020000 +0800" stop="20200315023000 +0800" channel="now Hong Kong">
-    <title lang="en">Mind Blowing Breakthroughs S2 E13</title>
-    <sub-title lang="en">生態系統</sub-title>
-    <desc lang="en">舞台上正在舉行美麗的蝴蝶展。然而, 突然之間, 每隻蝴蝶開始飛走。一些仙女告訴傻眼男爵, 蝴蝶飛到了森林裡, 因為發光的花朵開了。男爵, 貝蒂和孩子們都去森林尋找發光的花朵。在那裡, 他們遇見了優雅地演奏大提琴的音樂家兼生態學家Theodor Wilhelm Engelmann。為了識別花朵, 他們一起出發找到它。經過很多困難之後, 隊伍終於找到了發光的花朵, 但很快就失望了, 因為一隻兔子正在啃食它。他們試圖找到兔子, 以便他們至少可以獲得花的種子。然而, 在兔子失蹤的地方, 狐貍出現了。原來, 狐貍吃了兔子。雖然蒙克豪森處於恐慌之中, 但生態學家查爾斯·埃爾頓 (Charles Elton) 進入並鼓勵男爵說, 吃花的兔子和吃兔子的狐貍都是食物鏈的一部分, 這是完全自然的。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200315023000 +0800" stop="20200315030000 +0800" channel="now Hong Kong">
-    <title lang="en">Steven Universe S2 E7</title>
-    <desc lang="en">地球受到四位擁有魔法的「水晶寶石人」的保護排除邪惡威脅。四位主角是石榴 (Garnet) 、紫晶 (Amethyst) 、珍珠 (Pearl) 及史蒂芬 (Steven) , 史蒂芬繼承了與人類結婚的母親玫瑰水晶的寶石。故事便圍繞在史蒂芬探索自己寶石能力的期間, 與其他寶石人相處的冒險日子。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200315030000 +0800" stop="20200315033000 +0800" channel="now Hong Kong">
-    <title lang="en">MUCHAMITASU E3</title>
-    <sub-title lang="en">空中拍攝影像</sub-title>
-    <desc lang="en">科學發達與人類生活息息相關, 節目介紹實用科學知識, 由日本新進女子組合彩虹章魚燒的五位美少女, 與主持人一起進行趣怪新穎的科學小實驗, 發揮好奇心與學習精神, 在平凡中找尋竅妙的科學原理。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Science</category>
-  </programme>
-  <programme start="20200315033000 +0800" stop="20200315035500 +0800" channel="now Hong Kong">
-    <title lang="en">Life of Devout Believer E3</title>
-    <sub-title lang="en">回教</sub-title>
-    <desc lang="en">每一種宗教都有自家的教條律例, 佛教如素, 天主教十誡, 伊斯蘭教(回教)每日五次禮拜, 猶太教要食Kosher食品等...不同律例從幾百至幾千年前開始沿用至今, 有幾多可以在現今社會實行, 又有幾多信徒可以堅守?主持人會去拜訪各種宗教家庭, 之後在自己日常生活當中去體驗各種不同宗教的律例, 了解究竟活在現今世代, 人們可否成為一位不折不扣的虔誠教徒。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-  </programme>
-  <programme start="20200315035500 +0800" stop="20200315040000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200315040000 +0800" stop="20200315043000 +0800" channel="now Hong Kong">
-    <title lang="en">Noon News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200315043000 +0800" stop="20200315050000 +0800" channel="now Hong Kong">
-    <title lang="en">Put Your Hands Up S2 E8</title>
-    <desc lang="en">上一輯「舉高雙手」, Beatboxer主持dR. X黃浩邦穿梭香港各地, 拜訪新生代嘅本地表演藝術工作者, 喺交談之間認識佢地嘅背景同心路歷程。鍾意接受新挑戰嘅dR. X, 除咗跟呢班「前輩」偷師學下嘢, 每集更加即席同嘉賓們大搞Crossover, 擦出好多意想不到嘅藝術火花!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20200315050000 +0800" stop="20200315053000 +0800" channel="now Hong Kong">
-    <title lang="en">Designers in Hong Kong E20</title>
-    <desc lang="en">設計就是解決生活上的問題, 令生活更好。香港, 一個生活上充滿問題的城市, 自然孕育出很多本土設計師, 擁有自己獨特的設計, 設計的層面非常廣闊, 有平面設計、網頁設計、建築、生活用品、傢俬、居室、工業、包裝、時裝等等, 而香港的設計師也有自己的一套風格和哲學。從香港設計師和他們的作品中, 實際上反映的就是香港人生活上的方方面面。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200315053000 +0800" stop="20200315060000 +0800" channel="now Hong Kong">
-    <title lang="en">Sound and Vision S2 E1</title>
-    <sub-title lang="en">亡記</sub-title>
-    <desc lang="en">《亡記》, 榮獲最佳微電影製作大獎銀獎以及男主角銅獎, 男主角李晧軒以及調色師簡宏業將會分享拍攝過程的點滴以及創作心得。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200315060000 +0800" stop="20200315063000 +0800" channel="now Hong Kong">
-    <title lang="en">Travel in Darkness E15</title>
-    <sub-title lang="en">泰國篇 (II)</sub-title>
-    <desc lang="en">繼上回完成水上活動後, Yancy和芷媛於今集挑戰燒槍, 而Yancy更要嘗試蒙著雙眼燒槍!二人也會到訪一間精品店, 店內包羅萬有, 令他們回憶起童年回憶。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200315063000 +0800" stop="20200315071500 +0800" channel="now Hong Kong">
-    <title lang="en">Good Night Show King Maker E5</title>
-    <desc lang="en">31號娃娃臉Mr Jan唱國語歌, 甚得劉美君及卓韻芝歡心, 32號Ian笑容夠cute, 自彈自唱迷死台前幕後, 35號翻版陳嘉樂Karson青靚白淨, 演出水準穩定, 37號蕭家浩唱出低音版好心分手, 有如自殺式演出...(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game</category>
-  </programme>
-  <programme start="20200315071500 +0800" stop="20200315080000 +0800" channel="now Hong Kong">
-    <title lang="en">Good Night Show King Maker E6</title>
-    <desc lang="en">38號Tiger跳舞發出無限光芒, 引起心美尖叫, 40號細貓在韓國做了多年練習生, 專程返港參賽, 決心入行, 得導師及評判欣賞, 43號校草里奧仔表現失準痛哭, 獲導師劉美君安慰。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Game</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200315080000 +0800" stop="20200315081500 +0800" channel="now Hong Kong">
-    <title lang="en">Oreca Battle E5</title>
-    <desc lang="en">年輕的奧雷卡。有一天, 一個神秘的寶藏箱, 有權力召喚怪物進入這個領域出現。他的名字是潘朵拉。當他們在一起遇到無數的爭鬥, 火和他的妖怪之間的友誼增長。然而, 大火和他的怪獸很快捲入了一場與惡魔國王奧雷卡的戰鬥, 威脅著世界的和平與和諧。一個從未見過的奧雷卡戰役即將展開!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200315081500 +0800" stop="20200315083000 +0800" channel="now Hong Kong">
-    <title lang="en">Dragon Collection E5</title>
-    <desc lang="en">通過意外的轉折, 一個普通的小學生, 發現自己在世界上的 '龍集' 遊戲。這是一個叫做 '龍地球' 的世界, 那裡的神、人和怪獸並排存在。那些漫遊這個世界的人使用一本神奇的書, 稱為放魔法書, 和卡片召喚怪物, 並尋找擁有龍的力量的寶藏被稱為龍收藏。儘管他的困惑, 阿寬成為一個戰士, 並與他在那裡會見的朋友, 開始他的冒險成為傳奇龍大師!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200315083000 +0800" stop="20200315090000 +0800" channel="now Hong Kong">
-    <title lang="en">Moominvalley S1 E13</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200315090000 +0800" stop="20200315093000 +0800" channel="now Hong Kong">
-    <title lang="en">Bar Hunter E12</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200315093000 +0800" stop="20200315100000 +0800" channel="now Hong Kong">
-    <title lang="en">Big World in Tiny Eyes E25</title>
-    <desc lang="en">由小記者開編採會開始, 看他們如何定下採訪目標、搜集資料、設定問題等等, 而採訪過程就會跟受訪者一天的日程, 除了專訪之外, 也看他一天的工作是怎樣的。訪問完後, 每位小記者會給受訪者一句評語。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200315100000 +0800" stop="20200315102500 +0800" channel="now Hong Kong">
-    <title lang="en">News Cast at 6</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200315102500 +0800" stop="20200315103000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200315103000 +0800" stop="20200315110000 +0800" channel="now Hong Kong">
-    <title lang="en">Now Forum E334</title>
-    <desc lang="en">《大鳴大放》是一個30分鐘的時事討論節目, 識英雄重英雄, 請來各界重磅名人, 拋出論點, 言無不盡, 深入討論時事, 跨越維港神州, 宏觀全世界。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Interview</category>
-  </programme>
-  <programme start="20200315110000 +0800" stop="20200315113000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast News Cast at 7</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200315113000 +0800" stop="20200315120000 +0800" channel="now Hong Kong">
-    <title lang="en">now Report E202</title>
-    <sub-title lang="en">疫流學生/奧運選手長大了</sub-title>
-    <desc lang="en">本港學校停課抗疫, 學生經歷不一樣的學年。中學文憑試安排一改再改, 應屆考生的溫習計劃大失預算；應屆大學畢業生要適應網上學習, 在市道慘淡的環境下又要面對求職失利；連醫科生的臨床教學也被迫暫停。疫症蔓延時, 學生能否逆流而上, 安心學習?2016年, 何詩蓓初次踏足奧運舞台。過去四年, 她在國際游泳賽事大放異彩, 更順利取得今屆兩項奧運資格, 成為香港在東京奧運奪牌的希望。究竟這四年的訓練為她帶來怎樣的改變呢?(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current</category>
-  </programme>
-  <programme start="20200315120000 +0800" stop="20200315123000 +0800" channel="now Hong Kong">
-    <title lang="en">Interviu -應智越 / 寶珮如</title>
-    <desc lang="en">注意!InterViu不是Interview, 而是一個具有ViuTV特色的人物專訪節目, 提供一個平台讓藝人及名人抒發心聲, 與觀眾分享近況。主持人會與嘉賓作互動, 打破一問一答單調形式, 著重趣味輕鬆, 以節奏明快取勝, 配合每集不同主題, 展現不一樣的訪談節目風格。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-  </programme>
-  <programme start="20200315123000 +0800" stop="20200315133000 +0800" channel="now Hong Kong">
-    <title lang="en">Takeshis Medical Check-up Show E165</title>
-    <desc lang="en">用情境劇來表現一些病症的發生, 一些大家很少留意的症狀, 但可能是某種嚴重疾病的先兆。再請該疾病領域的醫師, 進行解說及分析, 說明情境劇內發生的事情, 可能已經在實際生活中發生了, 並教觀眾如何做簡單的自我檢測, 內容沒有艱深的醫學報導, 戲劇表現生活化。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200315133000 +0800" stop="20200315143000 +0800" channel="now Hong Kong">
-    <title lang="en">Woo Sang Design Presents: Chill Club E20</title>
-    <sub-title lang="en">嘉賓: 鄧健泓、蘇慧恩</sub-title>
-    <desc lang="en">今集《Chill Club》邀請到鄧健泓上來唱出「正東唱片」歌曲, 所以今集會以「正東唱片之夜」。鄧健泓會唱出《直上》、《朋友二號》, 更會聯同Joey哥合唱《叫飛機》等等膾炙人口的經典金曲。新歌推介方面, 今集邀請到蘇慧恩上來演唱新歌《一馬平川》。而「黃劍文音樂實驗室」邀請到樂團ETERNITY同劍文一同合唱《上帝早已預備》至於「當年金曲榜」, 將會重溫歷年第10-12星期的冠軍榜, 與觀眾重溫香港樂壇的當年經典!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20200315143000 +0800" stop="20200315150000 +0800" channel="now Hong Kong">
-    <title lang="en">Taiwan x Trekking E5</title>
-    <sub-title lang="en">清境農場</sub-title>
-    <desc lang="en">位於台灣南投縣仁愛鄉的清境農場, 海拔高達1700公尺, 對台灣人來說, 這裡也成為了夏天超知名的避暑勝地, 有小瑞士稱號。而青青草原近年來最熱們的活動, 就是這「牧羊人體驗」!!!戴上牛仔帽、穿上雨鞋, 阿妹要化身一日羊褓姆, 在這一大片草原裡, 將上百隻的羊, 全部趕到柵欄裡。騎馬逛清境你恐怕沒嘗過, 在充滿異國風情的草原山坡裡, 坐在馬背上前進, 阿妹覺得自己好像變成皇室貴族了, 最後, 清境農場最知名的雲南擺夷菜上桌, 歷史的因素, 讓這邊充滿了許多滇緬料理, 吃美食, 聽歷史, 真的很有趣!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200315150000 +0800" stop="20200315153000 +0800" channel="now Hong Kong">
-    <title lang="en">Finding Shaman E7</title>
-    <sub-title lang="en">可可豆 豈只是朱古力前身</sub-title>
-    <desc lang="en">可可豆對於城市人來說, 可能只是朱古力的原材料；但對於薩滿來說, 它是一種能人「直指內心」的神聖果實。在沒有加任何其他添加物的情況下, 可可豆汁配以薩滿音樂到底是如何令人窺探自己內心的秘密, 埋於內心深處的回憶?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200315153000 +0800" stop="20200315160000 +0800" channel="now Hong Kong">
-    <title lang="en">Crayon Shinchan E28</title>
-    <desc lang="en">臼井儀人漫畫作品。五歲小孩野原新之助 (小新) 百厭趣怪, 個性誇張自戀, 是最令人頭痛的小朋友。小新與父親廣志、母親美冴、妹妹小葵住在埼玉縣的春日部市, 最愛領著「雙葉幼稚園」的朋友你搞冒險, 在日常生活中製造無數瘋狂趣事。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-  </programme>
-  <programme start="20200315160000 +0800" stop="20200315165500 +0800" channel="now Hong Kong">
-    <title lang="en">Money vs Honey E6</title>
-    <sub-title lang="en">野外奪寶</sub-title>
-    <desc lang="en">野外, 最能夠考驗到情侶之間的合拍度、包容度。三對情侶今次要到人跡罕至的東龍島挑戰任務。他們要面對一連串考驗體能、智慧的難關。每隊只要成功渡過難關就獲得寶箱鎖匙一條, 只要憑藉所得的鎖匙成功開啓寶箱, 就能得到一筆隊時能逆轉賽果的獎金!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200315165500 +0800" stop="20200315170000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200315170000 +0800" stop="20200315180000 +0800" channel="now Hong Kong">
-    <title lang="en">Barter Game E7 ?</title>
-    <sub-title lang="en">什麼是生活態度呢</sub-title>
-    <desc lang="en">環境是否會令人放下身段呢?小齊和edmond為了換取有瓦遮頭, 執垃圾、洗厠所, 從中有什麼感受呢?二汶、Thor去到汶萊水上村, 他們對於鄰舍關係會有什麼新睇法呢?Eric和心悠深入基層社區, 探訪古巴鎖匠, 了解他縱使生活缺乏, 但對生活仍充滿熱誠。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-  </programme>
-  <programme start="20200315180000 +0800" stop="20200315183000 +0800" channel="now Hong Kong">
-    <title lang="en">Travel in Darkness E15</title>
-    <sub-title lang="en">泰國篇 (II)</sub-title>
-    <desc lang="en">繼上回完成水上活動後, Yancy和芷媛於今集挑戰燒槍, 而Yancy更要嘗試蒙著雙眼燒槍!二人也會到訪一間精品店, 店內包羅萬有, 令他們回憶起童年回憶。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200315183000 +0800" stop="20200315190000 +0800" channel="now Hong Kong">
-    <title lang="en">Life of Devout Believer E3</title>
-    <sub-title lang="en">回教</sub-title>
-    <desc lang="en">每一種宗教都有自家的教條律例, 佛教如素, 天主教十誡, 伊斯蘭教(回教)每日五次禮拜, 猶太教要食Kosher食品等...不同律例從幾百至幾千年前開始沿用至今, 有幾多可以在現今社會實行, 又有幾多信徒可以堅守?主持人會去拜訪各種宗教家庭, 之後在自己日常生活當中去體驗各種不同宗教的律例, 了解究竟活在現今世代, 人們可否成為一位不折不扣的虔誠教徒。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Reality</category>
-  </programme>
-  <programme start="20200315190000 +0800" stop="20200315200000 +0800" channel="now Hong Kong">
-    <title lang="en">Takeshis Medical Check-up Show E165</title>
-    <desc lang="en">用情境劇來表現一些病症的發生, 一些大家很少留意的症狀, 但可能是某種嚴重疾病的先兆。再請該疾病領域的醫師, 進行解說及分析, 說明情境劇內發生的事情, 可能已經在實際生活中發生了, 並教觀眾如何做簡單的自我檢測, 內容沒有艱深的醫學報導, 戲劇表現生活化。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200315200000 +0800" stop="20200315210000 +0800" channel="now Hong Kong">
-    <title lang="en">Home Sweet Home -張學友</title>
-    <desc lang="en">家庭主夫_家庭觀念甚重的學友, 會是一位嚴父嗎, 還是太太對女兒更嚴格?曾嗜杯中物的學友, 會為女兒灌輸怎樣的喝酒觀念?女兒揚言希望當歌手, 學友會出言鼓勵, 還是設法阻止?學友曾為女兒痛心得掉下男兒淚所為何事?(n)</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20200315210000 +0800" stop="20200315213000 +0800" channel="now Hong Kong">
-    <title lang="en">Senior Hobbies S2 E9</title>
-    <desc lang="en">貼身追蹤有不同興趣的長者, 看看這個興趣是從何時、何地、何種心情開始, 了解後更容易體驗他們在參予中的樂趣, 使得觀眾也能感受, 而更可能被吸引著而成為其中一份子。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Lifestyle</category>
-  </programme>
-  <programme start="20200315213000 +0800" stop="20200315220000 +0800" channel="now Hong Kong">
-    <title lang="en">Start From Hotspring E5</title>
-    <sub-title lang="en">最地道的溫泉蛋</sub-title>
-    <desc lang="en">這一集走訪奧飛驒溫泉鄉的其中一個溫泉, 名為山水。它的溫泉水來自褔地溫泉, 這裡除了優美的山林境色, 最令人欣賞的是職員的親切。兩位主持深入海底水世界, 與超過500種魚類還有企鵝明星玩遊戲! 兩位更近距離接觸巨大鯨鯊及海豚, 觀看海豚訓練過程。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200315220000 +0800" stop="20200316010000 +0800" channel="now Hong Kong">
-    <title lang="en">Morning News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200316010000 +0800" stop="20200316013000 +0800" channel="now Hong Kong">
-    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E5</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200316013000 +0800" stop="20200316030000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200316030000 +0800" stop="20200316035500 +0800" channel="now Hong Kong">
-    <title lang="en">Invest Smarter E6</title>
-    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200316035500 +0800" stop="20200316040000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200316040000 +0800" stop="20200316043000 +0800" channel="now Hong Kong">
-    <title lang="en">Noon News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200316043000 +0800" stop="20200316050000 +0800" channel="now Hong Kong">
-    <title lang="en">ULTRAMAN R/B E6</title>
-    <sub-title lang="en">宿敵, 大姐姐的必殺拳</sub-title>
-    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200316050000 +0800" stop="20200316053000 +0800" channel="now Hong Kong">
-    <title lang="en">We Bare Bears S2 E6</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200316053000 +0800" stop="20200316063000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E6</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316063000 +0800" stop="20200316070000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E6</title>
-    <sub-title lang="en">乾燥</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200316070000 +0800" stop="20200316080000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200316080000 +0800" stop="20200316083000 +0800" channel="now Hong Kong">
-    <title lang="en">Tamagotchi S6 E20</title>
-    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200316083000 +0800" stop="20200316090000 +0800" channel="now Hong Kong">
-    <title lang="en">Duel Masters 2018 Series E7</title>
-    <desc lang="en">《決鬥大師 2018》為地球文明而戰。用一張卡, 改變生物界嘅命運!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200316090000 +0800" stop="20200316093000 +0800" channel="now Hong Kong">
-    <title lang="en">Robocar Poli S3 E4</title>
-    <sub-title lang="en">特里的新朋友</sub-title>
-    <desc lang="en">在布魯姆鎮, 有一個改造汽車救援隊, 說明朋友克服他們的許多困難, 隨時隨地, 當他們處於危險之中。快速和勇敢的警車珀利, 強大的消防車羅伊, 善良和聰明的救護車安巴, 和機智的直升機海利是在路上說明朋友!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200316093000 +0800" stop="20200316100000 +0800" channel="now Hong Kong">
-    <title lang="en">Joyous Alliance - My Stage E12</title>
-    <desc lang="en">每集講解粵劇的知識的, 由唱、唸、做、打四方面講解傳統經典文化。為小朋友解開一切對粵劇的疑問, 認識傳統冷知識!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200316100000 +0800" stop="20200316102500 +0800" channel="now Hong Kong">
-    <title lang="en">News Cast at 6</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200316102500 +0800" stop="20200316103000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200316103000 +0800" stop="20200316110000 +0800" channel="now Hong Kong">
-    <title lang="en">Hong Kong Stories - Taste of Home E6</title>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200316110000 +0800" stop="20200316113000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast News Cast at 7</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200316113000 +0800" stop="20200316120000 +0800" channel="now Hong Kong">
-    <title lang="en">WARS E30</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200316120000 +0800" stop="20200316123000 +0800" channel="now Hong Kong">
-    <title lang="en">QUEEN E6</title>
-    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Japanese</category>
-  </programme>
-  <programme start="20200316123000 +0800" stop="20200316133000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: He is Psychometric E2</title>
-    <sub-title lang="en">找出真正的犯人</sub-title>
-    <desc lang="en">李安被老師一口咬定是偷試卷的學生, 要他退學。老師在課堂中奚落家境不好的學生, 還指責孤兒李安偷試卷。在仁因受不了老師的行為, 一時氣憤說要找出真正偷試卷的犯人, 誤打誤撞便和李安合作起來...(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316133000 +0800" stop="20200316143000 +0800" channel="now Hong Kong">
-    <title lang="en">Dr. Prisoner E1</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316143000 +0800" stop="20200316150000 +0800" channel="now Hong Kong">
-    <title lang="en">Happy Half Hour E11[Live]</title>
-    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316150000 +0800" stop="20200316153000 +0800" channel="now Hong Kong">
-    <title lang="en">Travel with King Kong &amp; the Beauties E11</title>
-    <desc lang="en">節目中由女主持帶大家到東京及附近一帶,四出發掘當地最抵玩、CP 值最高好去處為主軸。再由主持金剛去為眾多吃、喝、玩、樂的好地方作評價。觀眾既可以從中留意到高性價比的地點,跟隨節目建議, 方便日後制定自己行程。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316153000 +0800" stop="20200316160000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - Pak Pak Partner E46</title>
-    <desc lang="en">全新晚吹《啪啪 Partner》有一眾主持拍住嘉賓一齊同大家研究各類啪啪課題, 由內到外, 再由外到返內, 令你來回地獄再直達天堂!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-  </programme>
-  <programme start="20200316160000 +0800" stop="20200316162500 +0800" channel="now Hong Kong">
-    <title lang="en">Assassination Classroom S2 E20</title>
-    <desc lang="en">暑假強化集訓的暗殺之旅來到最後一天, 殺老師提議舉辦試膽活動, 其實是想進行湊成班對的下流計畫, 但遲遲不見成效, 反倒讓Bitch老師喜歡烏間老師一事曝光, 全班於是決定協助Bitch老師告白, 不過對象是死板的烏間老師, 計畫是否真能成功......?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316162500 +0800" stop="20200316163000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200316163000 +0800" stop="20200316170000 +0800" channel="now Hong Kong">
-    <title lang="en">WARS E30</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200316170000 +0800" stop="20200316181500 +0800" channel="now Hong Kong">
-    <title lang="en">Sketch E10</title>
-    <sub-title lang="en">別忘記從失誤中得到的教訓</sub-title>
-    <desc lang="en">白優真主動聯絡東秀, 想要借警察的手找到張泰俊的手冊。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316181500 +0800" stop="20200316183000 +0800" channel="now Hong Kong">
-    <title lang="en">Girls' Talk - Love -Me-Time</title>
-    <desc lang="en">雖說拍拖係兩個人嘅事, 但長期糖癡豆、缺乏私人空間, 好容易會令大家都透唔到氣。究竟點先可以Love Life Balance呢?今集Love Office嘅幾位研究員 Hailey、Vivian、家媛、Renee就會同大家一齊探討嚇呢個問題!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-  </programme>
-  <programme start="20200316183000 +0800" stop="20200316190000 +0800" channel="now Hong Kong">
-    <title lang="en">Late News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200316190000 +0800" stop="20200316200000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: He is Psychometric E2</title>
-    <sub-title lang="en">找出真正的犯人</sub-title>
-    <desc lang="en">李安被老師一口咬定是偷試卷的學生, 要他退學。老師在課堂中奚落家境不好的學生, 還指責孤兒李安偷試卷。在仁因受不了老師的行為, 一時氣憤說要找出真正偷試卷的犯人, 誤打誤撞便和李安合作起來...(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316200000 +0800" stop="20200316203000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - Pak Pak Partner E46</title>
-    <desc lang="en">全新晚吹《啪啪 Partner》有一眾主持拍住嘉賓一齊同大家研究各類啪啪課題, 由內到外, 再由外到返內, 令你來回地獄再直達天堂!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-  </programme>
-  <programme start="20200316203000 +0800" stop="20200316213000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E6</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200316213000 +0800" stop="20200316220000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E6</title>
-    <sub-title lang="en">乾燥</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200316220000 +0800" stop="20200317010000 +0800" channel="now Hong Kong">
-    <title lang="en">Morning News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200317010000 +0800" stop="20200317013000 +0800" channel="now Hong Kong">
-    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E6</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200317013000 +0800" stop="20200317030000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200317030000 +0800" stop="20200317035500 +0800" channel="now Hong Kong">
-    <title lang="en">Invest Smarter E7</title>
-    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200317035500 +0800" stop="20200317040000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200317040000 +0800" stop="20200317043000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC Noon News &amp; now Report</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200317043000 +0800" stop="20200317050000 +0800" channel="now Hong Kong">
-    <title lang="en">ULTRAMAN R/B E7</title>
-    <sub-title lang="en">失去資格的英雄</sub-title>
-    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200317050000 +0800" stop="20200317053000 +0800" channel="now Hong Kong">
-    <title lang="en">We Bare Bears S2 E7</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200317053000 +0800" stop="20200317063000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E7</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317063000 +0800" stop="20200317070000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E7</title>
-    <sub-title lang="en">發冷</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200317070000 +0800" stop="20200317080000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200317080000 +0800" stop="20200317083000 +0800" channel="now Hong Kong">
-    <title lang="en">Tamagotchi S6 E21</title>
-    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200317083000 +0800" stop="20200317090000 +0800" channel="now Hong Kong">
-    <title lang="en">Duel Masters 2018 Series E8</title>
-    <desc lang="en">《決鬥大師 2018》為地球文明而戰。用一張卡, 改變生物界嘅命運!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200317090000 +0800" stop="20200317093000 +0800" channel="now Hong Kong">
-    <title lang="en">Robocar Poli S3 E5</title>
-    <sub-title lang="en">孤獨的米奇</sub-title>
-    <desc lang="en">在布魯姆鎮, 有一個改造汽車救援隊, 說明朋友克服他們的許多困難, 隨時隨地, 當他們處於危險之中。快速和勇敢的警車珀利, 強大的消防車羅伊, 善良和聰明的救護車安巴, 和機智的直升機海利是在路上說明朋友!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200317093000 +0800" stop="20200317100000 +0800" channel="now Hong Kong">
-    <title lang="en">Joyous Alliance - Fun Facts about History E51</title>
-    <desc lang="en">每集將歷史事件演繹成有趣故事, 由一班飾演不同傳奇人物的主持及專家, 為小朋友講解中外的經典歷史故事, 一起接觸歷史, 明是非、別嫌疑、理解自己、放眼世界!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200317100000 +0800" stop="20200317102500 +0800" channel="now Hong Kong">
-    <title lang="en">News Cast at 6</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200317102500 +0800" stop="20200317103000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200317103000 +0800" stop="20200317110000 +0800" channel="now Hong Kong">
-    <title lang="en">Hong Kong Stories - Taste of Home E7</title>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200317110000 +0800" stop="20200317113000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast News Cast at 7</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200317113000 +0800" stop="20200317120000 +0800" channel="now Hong Kong">
-    <title lang="en">WARS E31</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200317120000 +0800" stop="20200317123000 +0800" channel="now Hong Kong">
-    <title lang="en">QUEEN E7</title>
-    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Japanese</category>
-  </programme>
-  <programme start="20200317123000 +0800" stop="20200317133000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: He is Psychometric E3</title>
-    <sub-title lang="en">只有你知道的秘密</sub-title>
-    <desc lang="en">李安知道了在仁身世的秘密, 在仁也得知李安擁有觸物知往的超能力, 二人互相約定要保守秘密。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317133000 +0800" stop="20200317143000 +0800" channel="now Hong Kong">
-    <title lang="en">Dr. Prisoner E2</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317143000 +0800" stop="20200317150000 +0800" channel="now Hong Kong">
-    <title lang="en">Happy Half Hour E12[Live]</title>
-    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317150000 +0800" stop="20200317153000 +0800" channel="now Hong Kong">
-    <title lang="en">Travel with King Kong &amp; the Beauties E12</title>
-    <desc lang="en">節目中由女主持帶大家到東京及附近一帶,四出發掘當地最抵玩、CP 值最高好去處為主軸。再由主持金剛去為眾多吃、喝、玩、樂的好地方作評價。觀眾既可以從中留意到高性價比的地點,跟隨節目建議, 方便日後制定自己行程。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200317153000 +0800" stop="20200317160000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - Crime E98</title>
-    <sub-title lang="en">打劫陰司路</sub-title>
-    <desc lang="en">1999年10月中, 柴灣哥連臣角火葬場揭發一個偷陪葬品犯罪集團, 一群殯儀從業員涉嫌長達8年時間, 串謀偷取靈柩中的先人遺物及將物品典當圖利。廉署經調查後拘捕共11名技工及主管。他們膽大包天, 下手的先人竟包括江湖大哥及名門之後。最終案中5人被判9-30個月不等, 成為殯儀界醜聞一宗。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317160000 +0800" stop="20200317162500 +0800" channel="now Hong Kong">
-    <title lang="en">Assassination Classroom S2 E21</title>
-    <desc lang="en">暑假強化集訓的暗殺之旅來到最後一天, 殺老師提議舉辦試膽活動, 其實是想進行湊成班對的下流計畫, 但遲遲不見成效, 反倒讓Bitch老師喜歡烏間老師一事曝光, 全班於是決定協助Bitch老師告白, 不過對象是死板的烏間老師, 計畫是否真能成功......?(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Animation</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317162500 +0800" stop="20200317163000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200317163000 +0800" stop="20200317170000 +0800" channel="now Hong Kong">
-    <title lang="en">WARS E31</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200317170000 +0800" stop="20200317181500 +0800" channel="now Hong Kong">
-    <title lang="en">Sketch E11</title>
-    <sub-title lang="en">改變未來的打算</sub-title>
-    <desc lang="en">白優真之後從警察手中搶去手冊, 並打算親自向張泰俊報仇。東秀等人從素描中得悉, 白優真拿槍指著張泰俊, 於是找到素描指的地方, 打算改變未來...暫時以第二幅素描找不到任何頭緒和情報, 所以在討論過後決定先找出姜道植的位置。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317181500 +0800" stop="20200317183000 +0800" channel="now Hong Kong">
-    <title lang="en">Girls' Talk - Go out -米水</title>
-    <desc lang="en">唔舒服就梗係睇醫生啦!巖!不過巖唔哂!除左睇醫生, 都仲有好多野可以做, 不如試下飲茶或者飲米水。無論係頭暈身㷫定係燥狂鬱悶, 飲茶同米水都可能幫到你!今集girls talk 派出所帶你去飲時尚茶飲, 唔舒服都唔一定睇醫生嘅!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-  </programme>
-  <programme start="20200317183000 +0800" stop="20200317190000 +0800" channel="now Hong Kong">
-    <title lang="en">Late News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200317190000 +0800" stop="20200317200000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: He is Psychometric E3</title>
-    <sub-title lang="en">只有你知道的秘密</sub-title>
-    <desc lang="en">李安知道了在仁身世的秘密, 在仁也得知李安擁有觸物知往的超能力, 二人互相約定要保守秘密。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317200000 +0800" stop="20200317203000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - Crime E98</title>
-    <sub-title lang="en">打劫陰司路</sub-title>
-    <desc lang="en">1999年10月中, 柴灣哥連臣角火葬場揭發一個偷陪葬品犯罪集團, 一群殯儀從業員涉嫌長達8年時間, 串謀偷取靈柩中的先人遺物及將物品典當圖利。廉署經調查後拘捕共11名技工及主管。他們膽大包天, 下手的先人竟包括江湖大哥及名門之後。最終案中5人被判9-30個月不等, 成為殯儀界醜聞一宗。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317203000 +0800" stop="20200317213000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E7</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200317213000 +0800" stop="20200317220000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E7</title>
-    <sub-title lang="en">發冷</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200317220000 +0800" stop="20200318010000 +0800" channel="now Hong Kong">
-    <title lang="en">Morning News</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200318010000 +0800" stop="20200318013000 +0800" channel="now Hong Kong">
-    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E7</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200318013000 +0800" stop="20200318030000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200318030000 +0800" stop="20200318035500 +0800" channel="now Hong Kong">
-    <title lang="en">Invest Smarter E8</title>
-    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200318035500 +0800" stop="20200318040000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200318040000 +0800" stop="20200318043000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast Noon News/ City Plan</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200318043000 +0800" stop="20200318050000 +0800" channel="now Hong Kong">
-    <title lang="en">ULTRAMAN R/B E8</title>
-    <sub-title lang="en">全世界都在等著我</sub-title>
-    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200318050000 +0800" stop="20200318053000 +0800" channel="now Hong Kong">
-    <title lang="en">We Bare Bears S2 E8</title>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200318053000 +0800" stop="20200318063000 +0800" channel="now Hong Kong">
-    <title lang="en">The Great Tempter (Repackaged) E8</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200318063000 +0800" stop="20200318070000 +0800" channel="now Hong Kong">
-    <title lang="en">Healthy Hour E8</title>
-    <sub-title lang="en">輕度認知障礙</sub-title>
-    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
-    <category lang="en">Knowledge</category>
-    <category lang="en">Health</category>
-  </programme>
-  <programme start="20200318070000 +0800" stop="20200318080000 +0800" channel="now Hong Kong">
-    <title lang="en">Trading Hour</title>
-    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Financialnews</category>
-  </programme>
-  <programme start="20200318080000 +0800" stop="20200318083000 +0800" channel="now Hong Kong">
-    <title lang="en">Tamagotchi S6 E22</title>
-    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200318083000 +0800" stop="20200318090000 +0800" channel="now Hong Kong">
-    <title lang="en">Duel Masters 2018 Series E9</title>
-    <desc lang="en">《決鬥大師 2018》為地球文明而戰。用一張卡, 改變生物界嘅命運!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200318090000 +0800" stop="20200318093000 +0800" channel="now Hong Kong">
-    <title lang="en">Robocar Poli S3 E6</title>
-    <sub-title lang="en">一起來繪畫</sub-title>
-    <desc lang="en">在布魯姆鎮, 有一個改造汽車救援隊, 說明朋友克服他們的許多困難, 隨時隨地, 當他們處於危險之中。快速和勇敢的警車珀利, 強大的消防車羅伊, 善良和聰明的救護車安巴, 和機智的直升機海利是在路上說明朋友!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Cartoon</category>
-  </programme>
-  <programme start="20200318093000 +0800" stop="20200318100000 +0800" channel="now Hong Kong">
-    <title lang="en">Joyous Alliance - Call Me Designer E12</title>
-    <desc lang="en">每集以不同風格時裝主題講述不同服飾的文化, 並以小朋友角度認識和設計服飾, 理解整個時裝文化!(n)</desc>
-    <category lang="en">Kids/Teenagers</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200318100000 +0800" stop="20200318102500 +0800" channel="now Hong Kong">
-    <title lang="en">News Cast at 6</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200318102500 +0800" stop="20200318103000 +0800" channel="now Hong Kong">
-    <title lang="en">Gimmick Easy (Ad Mag)</title>
-  </programme>
-  <programme start="20200318103000 +0800" stop="20200318110000 +0800" channel="now Hong Kong">
-    <title lang="en">Hong Kong Stories - Taste of Home E8</title>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200318110000 +0800" stop="20200318113000 +0800" channel="now Hong Kong">
-    <title lang="en">NNC simulcast News Cast at 7</title>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20200318113000 +0800" stop="20200318120000 +0800" channel="now Hong Kong">
-    <title lang="en">WARS E32</title>
-    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Others</category>
-  </programme>
-  <programme start="20200318120000 +0800" stop="20200318123000 +0800" channel="now Hong Kong">
-    <title lang="en">QUEEN E8</title>
-    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Japanese</category>
-  </programme>
-  <programme start="20200318123000 +0800" stop="20200318133000 +0800" channel="now Hong Kong">
-    <title lang="en">German Pool Presents: He is Psychometric E4</title>
-    <sub-title lang="en">心生好感</sub-title>
-    <desc lang="en">智秀和成模發現了韓民療養院火災案的犯人, 和當年永成大廈火災殺人案的犯人有關係。在仁在學校再次受到欺負, 被同學查出了她有個在坐監的父親, 李安不忍心看到在仁受委屈, 為她出頭, 在仁對他心生好感...(n)</desc>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200318133000 +0800" stop="20200318143000 +0800" channel="now Hong Kong">
-    <title lang="en">Dr. Prisoner E3</title>
-    <category lang="en">Series</category>
-    <category lang="en">Korean</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200318143000 +0800" stop="20200318150000 +0800" channel="now Hong Kong">
-    <title lang="en">Happy Half Hour E13[Live]</title>
-    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20200318150000 +0800" stop="20200318153000 +0800" channel="now Hong Kong">
-    <title lang="en">Travel with King Kong &amp; the Beauties E13</title>
-    <desc lang="en">節目中由女主持帶大家到東京及附近一帶,四出發掘當地最抵玩、CP 值最高好去處為主軸。再由主持金剛去為眾多吃、喝、玩、樂的好地方作評價。觀眾既可以從中留意到高性價比的地點,跟隨節目建議, 方便日後制定自己行程。.(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Travelogue</category>
-  </programme>
-  <programme start="20200318153000 +0800" stop="20200318160000 +0800" channel="now Hong Kong">
-    <title lang="en">Talker - Foodie Talkies E16</title>
-    <sub-title lang="en">灣仔</sub-title>
-    <desc lang="en">灣仔曾經是三位主持讀演藝學院時期的蒲點, 作為大師兄的梁祖堯為大家推介此區首選的Comfort Food竟然是飯?Babyjohn更大爆瘋傳演藝學院的奇人奇事, 殊不知梁祖堯是事發目擊者, 還爆出更多內情!(n)</desc>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talkshow</category>
-    <rating>
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20200312060000 +0800" stop="20200312063000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312063000 +0800" stop="20200312070000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312070000 +0800" stop="20200312090000 +0800" channel="01 有線電視第1台">
     <title lang="zh">Cable 早晨</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312090000 +0800" stop="20200312100000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開市埋位</title>
   </programme>
   <programme start="20200312100000 +0800" stop="20200312103000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200312103000 +0800" stop="20200312110000 +0800" channel="01 有線電視第1台">
     <title lang="zh">財經Facetime</title>
@@ -6973,12 +5439,13 @@
   </programme>
   <programme start="20200312123000 +0800" stop="20200312130000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312130000 +0800" stop="20200312140000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開市埋位</title>
   </programme>
   <programme start="20200312140000 +0800" stop="20200312143000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200312143000 +0800" stop="20200312144500 +0800" channel="01 有線電視第1台">
     <title lang="zh">講樓論市</title>
@@ -6996,7 +5463,7 @@
     <title lang="zh">夠鐘收市</title>
   </programme>
   <programme start="20200312160000 +0800" stop="20200312170000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200312170000 +0800" stop="20200312173000 +0800" channel="01 有線電視第1台">
     <title lang="zh">大行報告</title>
@@ -7009,33 +5476,50 @@
   </programme>
   <programme start="20200312183000 +0800" stop="20200312190000 +0800" channel="01 有線電視第1台">
     <title lang="zh">建築藝術大發現</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312190000 +0800" stop="20200312193000 +0800" channel="01 有線電視第1台">
     <title lang="zh">新聞最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312193000 +0800" stop="20200312200000 +0800" channel="01 有線電視第1台">
     <title lang="zh">新聞最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312200000 +0800" stop="20200312203000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">BioEm™ 貝達安沙士病毒剋星呈獻 : 全球戰疫</title>
+    <title lang="zh">BioEm™ 貝達安沙士病毒剋星呈獻:全球戰疫</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312203000 +0800" stop="20200312210000 +0800" channel="01 有線電視第1台">
     <title lang="zh">30分鐘大放餸</title>
+    <subtitles type="onscreen" />
   </programme>
-  <programme start="20200312210000 +0800" stop="20200312213000 +0800" channel="01 有線電視第1台">
+  <programme start="20200312210000 +0800" stop="20200312212500 +0800" channel="01 有線電視第1台">
     <title lang="zh">Fit 開有條路</title>
+    <subtitles type="onscreen" />
+  </programme>
+  <programme start="20200312212500 +0800" stop="20200312213000 +0800" channel="01 有線電視第1台">
+    <title lang="zh">德國孖人牌 ZWILLING Now 系列呈獻:日日有頭條</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312213000 +0800" stop="20200312222500 +0800" channel="01 有線電視第1台">
-    <title lang="zh">新封神演義[第44集]</title>
+    <title lang="zh">新封神演義 [第44集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200312222500 +0800" stop="20200312223000 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂即日鮮</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312223000 +0800" stop="20200312233000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開嚟見我</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200312233000 +0800" stop="20200313000000 +0800" channel="01 有線電視第1台">
     <title lang="zh">十一點半最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200313000000 +0800" stop="20200313001500 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂頭條 E-news Headline</title>
@@ -7045,27 +5529,45 @@
   </programme>
   <programme start="20200313003000 +0800" stop="20200313010000 +0800" channel="01 有線電視第1台">
     <title lang="zh">30分鐘大放餸</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200313010000 +0800" stop="20200313012500 +0800" channel="01 有線電視第1台">
     <title lang="zh">Fit 開有條路</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200313012500 +0800" stop="20200313013000 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂即日鮮</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200313013000 +0800" stop="20200313020000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">BioEm™ 貝達安沙士病毒剋星呈獻 : 全球戰疫</title>
+    <title lang="zh">BioEm™ 貝達安沙士病毒剋星呈獻:全球戰疫</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200313020000 +0800" stop="20200313030000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">新封神演義[第44集]</title>
+    <title lang="zh">新封神演義 [第44集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200313030000 +0800" stop="20200313040000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大力女都奉順[第12集]</title>
+    <title lang="zh">大力女都奉順 [第12集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200313040000 +0800" stop="20200313050000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開嚟見我</title>
+    <subtitles type="onscreen" />
   </programme>
-  <programme start="20200313050000 +0800" stop="20200313053000 +0800" channel="01 有線電視第1台">
+  <programme start="20200313050000 +0800" stop="20200313052500 +0800" channel="01 有線電視第1台">
     <title lang="zh">時尚旅遊</title>
+    <subtitles type="onscreen" />
+  </programme>
+  <programme start="20200313052500 +0800" stop="20200313053000 +0800" channel="01 有線電視第1台">
+    <title lang="zh">德國孖人牌 ZWILLING Now 系列呈獻:日日有頭條</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200313053000 +0800" stop="20200313054500 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂頭條 E-news Headline</title>
@@ -7596,18 +6098,21 @@
   </programme>
   <programme start="20200316060000 +0800" stop="20200316063000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316063000 +0800" stop="20200316070000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316070000 +0800" stop="20200316090000 +0800" channel="01 有線電視第1台">
     <title lang="zh">Cable 早晨</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316090000 +0800" stop="20200316100000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開市埋位</title>
   </programme>
   <programme start="20200316100000 +0800" stop="20200316103000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200316103000 +0800" stop="20200316110000 +0800" channel="01 有線電視第1台">
     <title lang="zh">財經Facetime</title>
@@ -7620,12 +6125,13 @@
   </programme>
   <programme start="20200316123000 +0800" stop="20200316130000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316130000 +0800" stop="20200316140000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開市埋位</title>
   </programme>
   <programme start="20200316140000 +0800" stop="20200316143000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200316143000 +0800" stop="20200316144500 +0800" channel="01 有線電視第1台">
     <title lang="zh">講樓論市</title>
@@ -7643,7 +6149,7 @@
     <title lang="zh">夠鐘收市</title>
   </programme>
   <programme start="20200316160000 +0800" stop="20200316170000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200316170000 +0800" stop="20200316173000 +0800" channel="01 有線電視第1台">
     <title lang="zh">大行報告</title>
@@ -7656,33 +6162,50 @@
   </programme>
   <programme start="20200316183000 +0800" stop="20200316190000 +0800" channel="01 有線電視第1台">
     <title lang="zh">挑機商雄</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316190000 +0800" stop="20200316193000 +0800" channel="01 有線電視第1台">
     <title lang="zh">新聞最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316193000 +0800" stop="20200316200000 +0800" channel="01 有線電視第1台">
     <title lang="zh">新聞最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316200000 +0800" stop="20200316203000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">好想去旅行 : 瀛遊全世界</title>
+    <title lang="zh">好想去旅行:瀛遊全世界</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316203000 +0800" stop="20200316210000 +0800" channel="01 有線電視第1台">
     <title lang="zh">30分鐘大放餸</title>
+    <subtitles type="onscreen" />
   </programme>
-  <programme start="20200316210000 +0800" stop="20200316213000 +0800" channel="01 有線電視第1台">
+  <programme start="20200316210000 +0800" stop="20200316212500 +0800" channel="01 有線電視第1台">
     <title lang="zh">Fit 開有條路</title>
+    <subtitles type="onscreen" />
+  </programme>
+  <programme start="20200316212500 +0800" stop="20200316213000 +0800" channel="01 有線電視第1台">
+    <title lang="zh">德國孖人牌 ZWILLING Now 系列呈獻:日日有頭條</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316213000 +0800" stop="20200316222500 +0800" channel="01 有線電視第1台">
-    <title lang="zh">新封神演義[第46集]</title>
+    <title lang="zh">新封神演義 [第46集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200316222500 +0800" stop="20200316223000 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂即日鮮</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316223000 +0800" stop="20200316233000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開嚟見我</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200316233000 +0800" stop="20200317000000 +0800" channel="01 有線電視第1台">
     <title lang="zh">十一點半最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200317000000 +0800" stop="20200317001500 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂頭條 E-news Headline</title>
@@ -7692,27 +6215,45 @@
   </programme>
   <programme start="20200317003000 +0800" stop="20200317010000 +0800" channel="01 有線電視第1台">
     <title lang="zh">30分鐘大放餸</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200317010000 +0800" stop="20200317012500 +0800" channel="01 有線電視第1台">
     <title lang="zh">Fit 開有條路</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200317012500 +0800" stop="20200317013000 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂即日鮮</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200317013000 +0800" stop="20200317020000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">好想去旅行 : 瀛遊全世界</title>
+    <title lang="zh">好想去旅行:瀛遊全世界</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200317020000 +0800" stop="20200317030000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">新封神演義[第46集]</title>
+    <title lang="zh">新封神演義 [第46集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200317030000 +0800" stop="20200317040000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大力女都奉順[第14集]</title>
+    <title lang="zh">大力女都奉順 [第14集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200317040000 +0800" stop="20200317050000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開嚟見我</title>
+    <subtitles type="onscreen" />
   </programme>
-  <programme start="20200317050000 +0800" stop="20200317053000 +0800" channel="01 有線電視第1台">
+  <programme start="20200317050000 +0800" stop="20200317052500 +0800" channel="01 有線電視第1台">
     <title lang="zh">時尚旅遊</title>
+    <subtitles type="onscreen" />
+  </programme>
+  <programme start="20200317052500 +0800" stop="20200317053000 +0800" channel="01 有線電視第1台">
+    <title lang="zh">德國孖人牌 ZWILLING Now 系列呈獻:日日有頭條</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200317053000 +0800" stop="20200317054500 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂頭條 E-news Headline</title>
@@ -7887,18 +6428,21 @@
   </programme>
   <programme start="20200318060000 +0800" stop="20200318063000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318063000 +0800" stop="20200318070000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318070000 +0800" stop="20200318090000 +0800" channel="01 有線電視第1台">
     <title lang="zh">Cable 早晨</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318090000 +0800" stop="20200318100000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開市埋位</title>
   </programme>
   <programme start="20200318100000 +0800" stop="20200318103000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200318103000 +0800" stop="20200318110000 +0800" channel="01 有線電視第1台">
     <title lang="zh">財經Facetime</title>
@@ -7911,12 +6455,13 @@
   </programme>
   <programme start="20200318123000 +0800" stop="20200318130000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318130000 +0800" stop="20200318140000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開市埋位</title>
   </programme>
   <programme start="20200318140000 +0800" stop="20200318143000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200318143000 +0800" stop="20200318144500 +0800" channel="01 有線電視第1台">
     <title lang="zh">講樓論市</title>
@@ -7934,7 +6479,7 @@
     <title lang="zh">夠鐘收市</title>
   </programme>
   <programme start="20200318160000 +0800" stop="20200318170000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200318170000 +0800" stop="20200318173000 +0800" channel="01 有線電視第1台">
     <title lang="zh">大行報告</title>
@@ -7947,33 +6492,1587 @@
   </programme>
   <programme start="20200318183000 +0800" stop="20200318190000 +0800" channel="01 有線電視第1台">
     <title lang="zh">建築藝術大發現</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318190000 +0800" stop="20200318193000 +0800" channel="01 有線電視第1台">
     <title lang="zh">新聞最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318193000 +0800" stop="20200318200000 +0800" channel="01 有線電視第1台">
     <title lang="zh">新聞最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318200000 +0800" stop="20200318203000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">好想去旅行 : Go Go 捷運 IV</title>
+    <title lang="zh">好想去旅行:Go Go 捷運 IV</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318203000 +0800" stop="20200318210000 +0800" channel="01 有線電視第1台">
     <title lang="zh">30分鐘大放餸</title>
+    <subtitles type="onscreen" />
   </programme>
-  <programme start="20200318210000 +0800" stop="20200318213000 +0800" channel="01 有線電視第1台">
+  <programme start="20200318210000 +0800" stop="20200318212500 +0800" channel="01 有線電視第1台">
     <title lang="zh">Fit 開有條路</title>
+    <subtitles type="onscreen" />
+  </programme>
+  <programme start="20200318212500 +0800" stop="20200318213000 +0800" channel="01 有線電視第1台">
+    <title lang="zh">德國孖人牌 ZWILLING Now 系列呈獻:日日有頭條</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318213000 +0800" stop="20200318222500 +0800" channel="01 有線電視第1台">
-    <title lang="zh">新封神演義[第48集]</title>
+    <title lang="zh">新封神演義 [第48集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200318222500 +0800" stop="20200318223000 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂即日鮮</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318223000 +0800" stop="20200318233000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開嚟見我</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318233000 +0800" stop="20200319000000 +0800" channel="01 有線電視第1台">
     <title lang="zh">十一點半最前線</title>
+    <subtitles type="onscreen" />
+  </programme>
+  <programme start="20200312010000 +0800" stop="20200312013000 +0800" channel="ViuTV">
+    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E3</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200312013000 +0800" stop="20200312030000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200312030000 +0800" stop="20200312035500 +0800" channel="ViuTV">
+    <title lang="en">Invest Smarter E4</title>
+    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200312035500 +0800" stop="20200312040000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200312040000 +0800" stop="20200312043000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast Noon News/ Show Flat</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200312043000 +0800" stop="20200312050000 +0800" channel="ViuTV">
+    <title lang="en">ULTRAMAN R/B E4</title>
+    <sub-title lang="en">光輝的勝利紀念球</sub-title>
+    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200312050000 +0800" stop="20200312053000 +0800" channel="ViuTV">
+    <title lang="en">We Bare Bears S2 E4</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200312053000 +0800" stop="20200312063000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E4</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312063000 +0800" stop="20200312070000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E4</title>
+    <sub-title lang="en">肝臟</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312070000 +0800" stop="20200312080000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200312080000 +0800" stop="20200312083000 +0800" channel="ViuTV">
+    <title lang="en">Tamagotchi S6 E18</title>
+    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200312083000 +0800" stop="20200312090000 +0800" channel="ViuTV">
+    <title lang="en">The Layton Detective Agency E19</title>
+    <sub-title lang="en">害怕孤單的幽靈</sub-title>
+    <desc lang="en">雷頓神秘偵探社~卡托莉的解謎檔案~動畫全集講述雷頓的女兒卡托莉艾露與會說話的狗夏洛、助手諾亞一起經營雷頓偵探社, 解決發生在倫敦的各種不可思議的事件。雖然這份工作最初的目的是尋找父親的下落, 但由於異想天開的思考解開了各種謎題成為話題, 各種各樣的委託也隨之而來。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200312090000 +0800" stop="20200312093000 +0800" channel="ViuTV">
+    <title lang="en">DISNEY'S LILO &amp; STITCH E10</title>
+    <desc lang="en">五歲女孩莉蘿在姐姐的幫助下收留了一隻流浪狗, 她給這隻狗起名叫史迪仔, 並希望史迪仔能夠給自己的生活增添一份樂趣。但是莉蘿萬萬沒有想到的是, 史迪仔並不是可憐的流浪狗, 而是來自外星球的長著六支腳的危險分子, 只是在流放中偷跑到地球上來的!為了在地球上隱藏身份, 史迪仔只能“忍辱偷生”, 把自己的兩隻腳藏起來, 讓自己看起來像是一隻狗, 在和莉蘿相處的日子裡, 小女孩的善良單純讓她和史迪仔成了形影不離的好夥伴。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20200312093000 +0800" stop="20200312100000 +0800" channel="ViuTV">
+    <title lang="en">Joyous Alliance - We Can Do It E11</title>
+    <desc lang="en">每集都會講述不同種類的功夫和武術, 一起接觸功夫, 理解背後當中文化、歷史、知識, 放眼世界!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200312100000 +0800" stop="20200312102500 +0800" channel="ViuTV">
+    <title lang="en">News Cast at 6</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200312102500 +0800" stop="20200312103000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200312103000 +0800" stop="20200312110000 +0800" channel="ViuTV">
+    <title lang="en">Hong Kong Stories - Taste of Home E5</title>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200312110000 +0800" stop="20200312113000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast News Cast at 7</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200312113000 +0800" stop="20200312120000 +0800" channel="ViuTV">
+    <title lang="en">BioEm Presents: WARS E28</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200312120000 +0800" stop="20200312123000 +0800" channel="ViuTV">
+    <title lang="en">QUEEN E4</title>
+    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Japanese</category>
+  </programme>
+  <programme start="20200312123000 +0800" stop="20200312133000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: The Secret Life of My Secretary E21</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+  </programme>
+  <programme start="20200312133000 +0800" stop="20200312143000 +0800" channel="ViuTV">
+    <title lang="en">King To Nin Jiom Presents: Leap Day E9</title>
+    <desc lang="en">張麗紗Yeesa (吳海昕 飾) , 2月29日出生的平凡少女。2017年, Yeesa於2月28日為自己慶祝生日, 在11時59分一刻, 竟然穿越時空, 來到天寒地凍的北海道, 過程中遇上和她未來命脈相連的兩個男人－馬智浩Ryan (徐天佑 飾) 與余家聰 (劉俊謙 飾) , 兩個香港男生都不約而同地聲稱與她相識。24小時過去, Yeesa穿越回到香港, 現實卻只過了一秒鐘。Yeesa發現自己的穿越能力不由自主, 而她竟然在現實裡重新認識Ryan及家聰......命運的齒輪在靜靜地轉動著......(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Asian</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312143000 +0800" stop="20200312150000 +0800" channel="ViuTV">
+    <title lang="en">Happy Half Hour E9[Live]</title>
+    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312150000 +0800" stop="20200312153000 +0800" channel="ViuTV">
+    <title lang="en">Travel with King Kong &amp; the Beauties E9</title>
+    <sub-title lang="en">免排隊食人氣海膽飯</sub-title>
+    <desc lang="en">築地場內市場搬咗咋, 但係場外仲有好多餐廳喺度排晒長龍, 今集我哋就分享一個免排隊就食到人氣海膽飯嘅方法俾大家!另外再去一個職人市集, 入面嘅店主每個都好有特色, 小心荷包出血呀。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312153000 +0800" stop="20200312160000 +0800" channel="ViuTV">
+    <title lang="en">Talker - Helmet Intercom E204</title>
+    <sub-title lang="en">旅遊記者 (I)</sub-title>
+    <desc lang="en">平時睇旅遊文章, 都係介紹最新嘅食玩買超筍攻略, 但風光背後, 其實一班旅遊記者, 都係一個個行走嘅「試伏器」。「X星級景點」原來係山寨版荔園?山清水秀嘅景點原來係「魚塘x洗腳池」?以為旅遊局安排得嘅都係好嘢?集中營式住宿、深山原始酒店、遲到幾個鐘嘅冇影旅遊巴, 仲有其他意想不到嘅伏味濃行程, 分分鐘令記者們集體瀨嘢!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312160000 +0800" stop="20200312162500 +0800" channel="ViuTV">
+    <title lang="en">Re: Zero - Starting Life in Another World E23</title>
+    <desc lang="en">高中生菜月昴在回家的途中突然被召喚到異世界, 並隨即遭遇到強盜的襲擊。這時, 一名神祕銀髮美少女和貓精靈拯救了他。以報恩為名義, 昴自告奮勇要幫助少女找東西。然而, 好不容易才掌握到線索, 昴和少女卻被不明人士攻擊而殞命。 本來應該就這樣結束, 但回過神來, 昴卻發現自己置身在第一次被召喚到這個異世界時所在的位置。「死亡回歸」──無力的少年得到的唯一能力, 是死後時間會倒轉回到開始那一刻。跨越無數絕望, 從死亡的命運中開拓未來!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <rating>
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20200312162500 +0800" stop="20200312163000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200312163000 +0800" stop="20200312170000 +0800" channel="ViuTV">
+    <title lang="en">BioEm Presents: WARS E28</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200312170000 +0800" stop="20200312181500 +0800" channel="ViuTV">
+    <title lang="en">Sketch E9</title>
+    <sub-title lang="en">終需一別</sub-title>
+    <desc lang="en">東秀猜測有人正在模仿道振的處事手法, 東秀在找這個男人的時候, 找到一個找白優真的人, 離真相越來越近。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312181500 +0800" stop="20200312183000 +0800" channel="ViuTV">
+    <title lang="en">Girls' Talk - Cooking Girls -清湯鮑魚貢梨滑蛋河</title>
+    <desc lang="en">「一年之計在於食」!年頭食得好, 今年包你執到寶!所以廚師Derek今次請你食個鮑魚滑蛋河!咦?!點計個炒河入面會加個貢梨呢?主意多多嘅Derek梗係有解釋啦!記住睇實點煮啦!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+  </programme>
+  <programme start="20200312183000 +0800" stop="20200312190000 +0800" channel="ViuTV">
+    <title lang="en">Late News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200312190000 +0800" stop="20200312200000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: The Secret Life of My Secretary E21</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+  </programme>
+  <programme start="20200312200000 +0800" stop="20200312203000 +0800" channel="ViuTV">
+    <title lang="en">Talker - Helmet Intercom E204</title>
+    <sub-title lang="en">旅遊記者 (I)</sub-title>
+    <desc lang="en">平時睇旅遊文章, 都係介紹最新嘅食玩買超筍攻略, 但風光背後, 其實一班旅遊記者, 都係一個個行走嘅「試伏器」。「X星級景點」原來係山寨版荔園?山清水秀嘅景點原來係「魚塘x洗腳池」?以為旅遊局安排得嘅都係好嘢?集中營式住宿、深山原始酒店、遲到幾個鐘嘅冇影旅遊巴, 仲有其他意想不到嘅伏味濃行程, 分分鐘令記者們集體瀨嘢!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312203000 +0800" stop="20200312213000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E4</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312213000 +0800" stop="20200312220000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E4</title>
+    <sub-title lang="en">肝臟</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200312220000 +0800" stop="20200313010000 +0800" channel="ViuTV">
+    <title lang="en">Morning News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200313010000 +0800" stop="20200313013000 +0800" channel="ViuTV">
+    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E4</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200313013000 +0800" stop="20200313030000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200313030000 +0800" stop="20200313035500 +0800" channel="ViuTV">
+    <title lang="en">Invest Smarter E5</title>
+    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200313035500 +0800" stop="20200313040000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200313040000 +0800" stop="20200313043000 +0800" channel="ViuTV">
+    <title lang="en">Noon News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200313043000 +0800" stop="20200313050000 +0800" channel="ViuTV">
+    <title lang="en">ULTRAMAN R/B E5</title>
+    <sub-title lang="en">再見了, 伊卡洛斯</sub-title>
+    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200313050000 +0800" stop="20200313053000 +0800" channel="ViuTV">
+    <title lang="en">We Bare Bears S2 E5</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200313053000 +0800" stop="20200313063000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E5</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313063000 +0800" stop="20200313070000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E5</title>
+    <sub-title lang="en">免疫力</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200313070000 +0800" stop="20200313080000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200313080000 +0800" stop="20200313083000 +0800" channel="ViuTV">
+    <title lang="en">Tamagotchi S6 E19</title>
+    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200313083000 +0800" stop="20200313090000 +0800" channel="ViuTV">
+    <title lang="en">The Layton Detective Agency E20</title>
+    <sub-title lang="en">雷頓教授與秘寶雷利克斯</sub-title>
+    <desc lang="en">雷頓神秘偵探社~卡托莉的解謎檔案~動畫全集講述雷頓的女兒卡托莉艾露與會說話的狗夏洛、助手諾亞一起經營雷頓偵探社, 解決發生在倫敦的各種不可思議的事件。雖然這份工作最初的目的是尋找父親的下落, 但由於異想天開的思考解開了各種謎題成為話題, 各種各樣的委託也隨之而來。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200313090000 +0800" stop="20200313093000 +0800" channel="ViuTV">
+    <title lang="en">DISNEY'S LILO &amp; STITCH E11</title>
+    <desc lang="en">五歲女孩莉蘿在姐姐的幫助下收留了一隻流浪狗, 她給這隻狗起名叫史迪仔, 並希望史迪仔能夠給自己的生活增添一份樂趣。但是莉蘿萬萬沒有想到的是, 史迪仔並不是可憐的流浪狗, 而是來自外星球的長著六支腳的危險分子, 只是在流放中偷跑到地球上來的!為了在地球上隱藏身份, 史迪仔只能“忍辱偷生”, 把自己的兩隻腳藏起來, 讓自己看起來像是一隻狗, 在和莉蘿相處的日子裡, 小女孩的善良單純讓她和史迪仔成了形影不離的好夥伴。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20200313093000 +0800" stop="20200313100000 +0800" channel="ViuTV">
+    <title lang="en">Joyous Alliance - Magic Express E11</title>
+    <desc lang="en">《魔術宅急便》邀請專業魔術師, 為大家介紹各種魔術效果、教大家自製魔術道具和魔術表演技巧。為自己和別人帶來歡樂。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200313100000 +0800" stop="20200313102500 +0800" channel="ViuTV">
+    <title lang="en">News Cast at 6</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200313102500 +0800" stop="20200313103000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200313103000 +0800" stop="20200313110000 +0800" channel="ViuTV">
+    <title lang="en">Police Magazine E129</title>
+    <desc lang="en">自一九七三啟播之「警訊」, 一直秉承宣揚滅罪訊息的宗旨: 以戲劇形式, 將匪徒各式各樣的犯罪手法重現觀眾眼前；披露最新罪案趨勢, 提高市民的警覺性。此外, 節目內亦會介紹警隊各部門以及其最新動態, 藉此加深市民對警隊的認識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Crime</category>
+  </programme>
+  <programme start="20200313110000 +0800" stop="20200313113000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast News Cast at 7</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200313113000 +0800" stop="20200313120000 +0800" channel="ViuTV">
+    <title lang="en">BioEm Presents: WARS E29</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200313120000 +0800" stop="20200313123000 +0800" channel="ViuTV">
+    <title lang="en">QUEEN E5</title>
+    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Japanese</category>
+  </programme>
+  <programme start="20200313123000 +0800" stop="20200313133000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: He is Psychometric E1</title>
+    <sub-title lang="en">觸物知往</sub-title>
+    <desc lang="en">11年前, 李安經歷了一場火災, 那意外帶走了他的父母, 但卻令他有了「觸物知往」的能力, 只要觸碰到他人就能讀取這個人的過往, 但他卻無法自由控制這能力...(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313133000 +0800" stop="20200313143000 +0800" channel="ViuTV">
+    <title lang="en">King To Nin Jiom Presents: Leap Day E10</title>
+    <desc lang="en">張麗紗Yeesa (吳海昕 飾) , 2月29日出生的平凡少女。2017年, Yeesa於2月28日為自己慶祝生日, 在11時59分一刻, 竟然穿越時空, 來到天寒地凍的北海道, 過程中遇上和她未來命脈相連的兩個男人－馬智浩Ryan (徐天佑 飾) 與余家聰 (劉俊謙 飾) , 兩個香港男生都不約而同地聲稱與她相識。24小時過去, Yeesa穿越回到香港, 現實卻只過了一秒鐘。Yeesa發現自己的穿越能力不由自主, 而她竟然在現實裡重新認識Ryan及家聰......命運的齒輪在靜靜地轉動著......(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Asian</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313143000 +0800" stop="20200313150000 +0800" channel="ViuTV">
+    <title lang="en">Happy Half Hour E10[Live]</title>
+    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313150000 +0800" stop="20200313153000 +0800" channel="ViuTV">
+    <title lang="en">Travel with King Kong &amp; the Beauties E10</title>
+    <sub-title lang="en">200蚊食到A5松阪牛壽喜燒</sub-title>
+    <desc lang="en">今集帶大家嚟到古董家居店, 金剛阿飄的故事重現......「有故事的人」Yoshi帶大家去搵有成200年幾歷史日本木櫃、傢俱、油燈等等, 竟然係你估唔到咁平嘅價錢就買到!高CP 貼士陸續有來!三大和牛之一嘅A5松阪牛壽喜燒喺舖頭食唔洗200蚊就食到, 仲平過齋買同份量嘅松阪牛!記得睇今集抄貼士啦!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313153000 +0800" stop="20200313160000 +0800" channel="ViuTV">
+    <title lang="en">Talker - One Beside You 3 E130</title>
+    <sub-title lang="en">全民撞鬼總決賽</sub-title>
+    <desc lang="en">全民撞鬼總決賽, 三位參加者爭奪獎金戰, 難度升級!司徒法基師傅在廢村鎖定靈氣最盛的地方, 讓參加者在裡面找尋及拍下人型紙公仔, 之後, 他們再以碟仙方式問支票藏身那裡, 期間有人被靈體騷擾, 有人更險被鬼上身!最後碟仙有給予參加者提示, 結果更令鬼王潘紹聰直呼不可思議!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313160000 +0800" stop="20200313162500 +0800" channel="ViuTV">
+    <title lang="en">Tokyo Ghoul : re E16</title>
+    <desc lang="en">混跡於大眾之間, 吞食人類的血肉。披著人類外皮, 卻與人類迥然不同的存在...“喰種”。驅逐並研究“喰種”的「CCG」, 為了實現某一命題, 新設立了一個實驗體集團。──其名為「Qs」。並非「正常人」的他們, 與佐佐木琲世一等搜查官一起在“東京”面對的東西究竟是──!?(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <rating>
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20200313162500 +0800" stop="20200313163000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200313163000 +0800" stop="20200313170000 +0800" channel="ViuTV">
+    <title lang="en">BioEm Presents: WARS E29</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200313170000 +0800" stop="20200313183000 +0800" channel="ViuTV">
+    <title lang="en">Crime Scene Season 2 E11</title>
+    <desc lang="en">是韓國的推理型綜藝節目, 以神祕殺人事件為背景。參與者既要擺脫兇手嫌疑, 又要一起找出真正的兇手。一開場來賓會一起進入兇殺案第一現場, 所有來賓變成嫌疑人, 而其中有一個是犯人。為求逼真, 嫌疑人各自會一份資料, 讓找證據或辯論時, 能順利應對或透過對話找出新證據。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313183000 +0800" stop="20200313190000 +0800" channel="ViuTV">
+    <title lang="en">Late News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200313190000 +0800" stop="20200313200000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: He is Psychometric E1</title>
+    <sub-title lang="en">觸物知往</sub-title>
+    <desc lang="en">11年前, 李安經歷了一場火災, 那意外帶走了他的父母, 但卻令他有了「觸物知往」的能力, 只要觸碰到他人就能讀取這個人的過往, 但他卻無法自由控制這能力...(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313200000 +0800" stop="20200313203000 +0800" channel="ViuTV">
+    <title lang="en">Talker - One Beside You 3 E130</title>
+    <sub-title lang="en">全民撞鬼總決賽</sub-title>
+    <desc lang="en">全民撞鬼總決賽, 三位參加者爭奪獎金戰, 難度升級!司徒法基師傅在廢村鎖定靈氣最盛的地方, 讓參加者在裡面找尋及拍下人型紙公仔, 之後, 他們再以碟仙方式問支票藏身那裡, 期間有人被靈體騷擾, 有人更險被鬼上身!最後碟仙有給予參加者提示, 結果更令鬼王潘紹聰直呼不可思議!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313203000 +0800" stop="20200313213000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E5</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200313213000 +0800" stop="20200313220000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E5</title>
+    <sub-title lang="en">免疫力</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200313220000 +0800" stop="20200314000000 +0800" channel="ViuTV">
+    <title lang="en">Morning News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314000000 +0800" stop="20200314003000 +0800" channel="ViuTV">
+    <title lang="en">Golden Age Diary 2 E18</title>
+    <desc lang="en">本節目以長者日記的方式, 在每個章節裡介紹不同長者背後的精采生活, 如長者旅行團、銀髮義工、高齡學藝。亦甚至, 探討年輕一代如何建立不同的渠道與長者接觸, 如透過與長者合作, 以社區導賞的方式, 帶領觀眾認識香港歷史。又或, 發掘隱藏的長者精英, 讓各路耆英高手互相學習。透過本節目, 希望帶出關注長者的訊息, 讓社會不同人士打破對老年的印象和限制, 為將來的我們, 舖墊共融的未來。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20200314003000 +0800" stop="20200314010000 +0800" channel="ViuTV">
+    <title lang="en">Welcome to Secondary School E5</title>
+    <desc lang="en">內容講述學校如何幫助剛升中的同學, 學校在學習與及配套中, 如何令中一新生適應新校園的生活。我們搜羅香港各區中學, 希望大眾透過節目了解不同學校的方針, 宏觀地認識香港的中學。讓家長和同學了解更多後, 務求做到家長與學校合作, 一同用心培育孩子成長。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200314010000 +0800" stop="20200314013000 +0800" channel="ViuTV">
+    <title lang="en">Time Bokan The Villains' Strike Back E10</title>
+    <desc lang="en">工作於24世紀的教科書出版社“歷史天國社”的畢瑪喬、茲夫亞基、鈴木, 三人其實是阻礙時空管理局 (JKK) 進行歷史調查的壞蛋組織“惡黨”。在與時夫和JKK隊員可蓮的歷史攻防戰結束後, 惡黨經歷著說長不長, 說短不短的停職休假 (事實上是無薪假) 而毫無收入, 在某日他們接到神秘老闆所下達的新任務!那就是....『將歷史偉人們所持有的“帝納水晶”蒐集起來!』在老闆的無理要求下, 悲慘社員遵照指令前往各時代, 惡黨想盡各種策略奪取帝納水晶。壞蛋三人組的超時空逆襲任務現在再次開始!!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200314013000 +0800" stop="20200314020000 +0800" channel="ViuTV">
+    <title lang="en">Ben and Holly's Little Kingdom S1 E11</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200314020000 +0800" stop="20200314023000 +0800" channel="ViuTV">
+    <title lang="en">Kemono Friends E1</title>
+    <desc lang="en">加帕里公園是匯集了全世界野生動物的巨大公園, 內有莽原、雨林、沙漠、雪山等各種地形, 棲息了包括現生種、滅絕種或傳說中的各種動物。這些動物受到神秘物質砂之星影響而變成了動物女孩, 其外表與生態雖保有部分原本的動物特徵, 但彼此之間的關係較類似人類, 她們都以加帕里饅頭為食, 因此不存在原本的食性。此外, 公園中還有神秘怪物天藍怪, 這是對加帕利公園造成威脅的敵人。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200314023000 +0800" stop="20200314030000 +0800" channel="ViuTV">
+    <title lang="en">Station Stories</title>
+    <desc lang="en">車每駛進一站, 就有一個故事!從台北出發, 發掘火車與台灣千絲萬縷的關係與故事。一座城市, 如何因鐵路而興起?一個破城, 如何因鐵路而再生?離鄉的人, 如何跟著路軌重返家鄉?進城的人, 能否走出自己的軌跡?台灣是一個充滿故事的地方, 由清朝至日治到現代, 台灣的火車貫穿南北, 穿梭大城與靜鄉。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200314030000 +0800" stop="20200314035500 +0800" channel="ViuTV">
+    <title lang="en">Chef Nic E5</title>
+    <sub-title lang="en">香港篇 - 陳偉霆/小S</sub-title>
+    <desc lang="en">對於謝霆鋒來講, 香港是他的家, 但是有很多人, 就好像深水埗的獨居老人們, 他們一直渴望著更多的交流和溝通。本期霆鋒在幫助明哥送盒飯的行動中, 感受到了自己從未見過的一些人的生存狀態。於是本來的一次比賽, 被一眾人暖心的舉動塗抹上一層溫暖的亮色。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200314035500 +0800" stop="20200314040000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200314040000 +0800" stop="20200314043000 +0800" channel="ViuTV">
+    <title lang="en">Noon News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314043000 +0800" stop="20200314053000 +0800" channel="ViuTV">
+    <title lang="en">Takeshis Medical Check-up Show E164</title>
+    <sub-title lang="en">血管</sub-title>
+    <desc lang="en">用情境劇來表現一些病症的發生, 一些大家很少留意的症狀, 但可能是某種嚴重疾病的先兆。再請該疾病領域的醫師, 進行解說及分析, 說明情境劇內發生的事情, 可能已經在實際生活中發生了, 並教觀眾如何做簡單的自我檢測, 內容沒有艱深的醫學報導, 戲劇表現生活化。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200314053000 +0800" stop="20200314063000 +0800" channel="ViuTV">
+    <title lang="en">Woo Sang Design Presents: Chill Club E19</title>
+    <sub-title lang="en">嘉賓: 吳浩康、李靖筠</sub-title>
+    <desc lang="en">有一些情歌, 男士們聽起上來特別有共嗚。故此, 今集「Chill Club」的主題就是「男人情歌」, 更邀請到吳浩康唱出他的「男人情歌」, 如︰先入為主、擇日失戀等等。新歌推介方面, 今集邀請到李靖筠唱出《第三顆行星》。而「黃劍文音樂實驗室」, 今次黃劍文會利用結他及二胡彈奏《我們的》。今集「當年金曲榜」, 將會以「10年前的金曲」作主題, 就讓觀眾重溫當年金曲!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20200314063000 +0800" stop="20200314073000 +0800" channel="ViuTV">
+    <title lang="en">Barter Game E7 ?</title>
+    <sub-title lang="en">什麼是生活態度呢</sub-title>
+    <desc lang="en">環境是否會令人放下身段呢?小齊和edmond為了換取有瓦遮頭, 執垃圾、洗厠所, 從中有什麼感受呢?二汶、Thor去到汶萊水上村, 他們對於鄰舍關係會有什麼新睇法呢?Eric和心悠深入基層社區, 探訪古巴鎖匠, 了解他縱使生活缺乏, 但對生活仍充滿熱誠。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20200314073000 +0800" stop="20200314080000 +0800" channel="ViuTV">
+    <title lang="en">Rise of the Teenage Mutant Ninja Turtles E13</title>
+    <desc lang="en">強勢回歸!忍者龜又回來啦, 他們這次有全新的超威能力!跟著拉斐爾、李奧、多納、米開使用全新武器、打擊突變種, 揭開藏在紐約市底下的秘密城市!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200314080000 +0800" stop="20200314081500 +0800" channel="ViuTV">
+    <title lang="en">Oreca Battle E4</title>
+    <desc lang="en">年輕的奧雷卡。有一天, 一個神秘的寶藏箱, 有權力召喚怪物進入這個領域出現。他的名字是潘朵拉。當他們在一起遇到無數的爭鬥, 火和他的妖怪之間的友誼增長。然而, 大火和他的怪獸很快捲入了一場與惡魔國王奧雷卡的戰鬥, 威脅著世界的和平與和諧。一個從未見過的奧雷卡戰役即將展開!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200314081500 +0800" stop="20200314083000 +0800" channel="ViuTV">
+    <title lang="en">Dragon Collection E4</title>
+    <desc lang="en">通過意外的轉折, 一個普通的小學生, 發現自己在世界上的 '龍集' 遊戲。這是一個叫做 '龍地球' 的世界, 那裡的神、人和怪獸並排存在。那些漫遊這個世界的人使用一本神奇的書, 稱為放魔法書, 和卡片召喚怪物, 並尋找擁有龍的力量的寶藏被稱為龍收藏。儘管他的困惑, 阿寬成為一個戰士, 並與他在那裡會見的朋友, 開始他的冒險成為傳奇龍大師!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200314083000 +0800" stop="20200314090000 +0800" channel="ViuTV">
+    <title lang="en">Transformers Cyberverse Season 1 E7</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200314090000 +0800" stop="20200314093000 +0800" channel="ViuTV">
+    <title lang="en">My Little Pony: Friendship is Magic S9 E3</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200314093000 +0800" stop="20200314100000 +0800" channel="ViuTV">
+    <title lang="en">Pets and Family E50</title>
+    <desc lang="en">飼養小寵物是很多小朋友的願望, 歐美有不少研究早已證明飼養寵物, 可以為兒童生理及心理健康帶來正面的效果。包括透過與寵物的互動, 讓小朋友有較多的運動機會, 生活得更健康, 並且可以培養他們的責任心、同理心、尊重生命等態度。另一方面對於弱勢社群的兒童, 寵物可以擔任最好的聆聽者與陪伴者, 協助他們接觸人群, 衝破心理障礙。而對於傷健的小朋友, 動物不懂歧視, 在互動相處中, 小朋友毋須害怕、焦慮或不安, 寵物可以幫助他們應付日常生活或在治療過程中提供支援及力量, 如治療犬、服務犬等便是典型例子。節目透過講解如何飼養適合香港實際環境的寵物、俾到小朋友去了解各種寵物的飼養方法, 各種寵物的特性, 從而達到認識不同寵物的飼養知識。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200314100000 +0800" stop="20200314102500 +0800" channel="ViuTV">
+    <title lang="en">News Cast at 6</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314102500 +0800" stop="20200314103000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200314103000 +0800" stop="20200314110000 +0800" channel="ViuTV">
+    <title lang="en">Now Forum E333</title>
+    <desc lang="en">《大鳴大放》是一個30分鐘的時事討論節目, 識英雄重英雄, 請來各界重磅名人, 拋出論點, 言無不盡, 深入討論時事, 跨越維港神州, 宏觀全世界。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Interview</category>
+  </programme>
+  <programme start="20200314110000 +0800" stop="20200314113000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast News Cast at 7</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314113000 +0800" stop="20200314120000 +0800" channel="ViuTV">
+    <title lang="en">Medicine Online E202</title>
+    <sub-title lang="en">創傷之後</sub-title>
+    <desc lang="en">上年年中開始, 香港出現一連串反修例示威, 每人或多或少都透過屏幕看到、甚至親身經歷暴力場面。前線義務急救員Dick, 這大半年以來見證了大大小小的衝突, 沒想到這些創傷, 原來一點一滴地侵蝕他的情緒, 令他患上創傷後遺症。今集《杏林在線》會聽聽他的故事, 並跟大家了解這些患者可以如何走出陰霾。.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200314120000 +0800" stop="20200314123000 +0800" channel="ViuTV">
+    <title lang="en">ETC Presents: Brickspert S2 E15</title>
+    <sub-title lang="en">新款油漆</sub-title>
+    <desc lang="en">設計師Henry Lam特意營造寫意、光猛與潔淨的氣息, 為家居塑造一個充滿悠閒舒適的環境。設計師阿豐與強尼, 帶觀眾認識新款油漆, 猶如天然大理石的花紋與手感。麥sir與嘉倩今次教大家修理門鉸, 原來只須簡單步驟, 你我都一樣做得到!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20200314123000 +0800" stop="20200314143000 +0800" channel="ViuTV">
+    <title lang="en">YES UA Presets: The Detective 2</title>
+    <desc lang="en">這是發生在泰國的故事。亞探 (郭富城 飾) 離開警局後, 成為一名私家偵探。童年好友風澤帶著一批照片出現, 亞探驚呆了。他望著眼前一幅幅謀殺現場的圖片, 罪犯到底想告訴些什麼?在他還來不及思考的時候, 第二宗、第三宗案件接連發生。亞探深陷案情之中: 死於家中的男人；慘死於垃圾堆中的女人；死因不明的妙齡少女......(n)</desc>
+    <category lang="en">Movies</category>
+    <category lang="en">Thriller</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200314143000 +0800" stop="20200314170000 +0800" channel="ViuTV">
+    <title lang="en">Premier League 19/20 -Norwich City v Southampton[Live]</title>
+    <desc lang="en">英格蘭超級足球聯賽, 全球最受歡迎頂級足球聯賽!每年, 透過各大平台收看英超足球直播的球迷數以億計；每場球賽,  皆是球迷們焦點所在!2019年, viuTV決定向全港球迷「派福利」, 每月免費直播英超賽事。除此之外, 更會為大家落足心機炮製全新英超前奏節目, 務求要全港球迷, 同步投入免費足球狂熱!(n)</desc>
+    <category lang="en">Sports</category>
+    <category lang="en">PL</category>
+    <category lang="en">Soccer</category>
+    <category lang="en">match</category>
+  </programme>
+  <programme start="20200314170000 +0800" stop="20200314183000 +0800" channel="ViuTV">
+    <title lang="en">THE QUEEN OF D.n.A E10</title>
+    <sub-title lang="en">8強爭奪賽 – 海外篇 (1)</sub-title>
+    <desc lang="en">水底攝影結果公佈, 《美選D.n.A》十強正式誕生, 海外受訓隨即展開。　天使組到日本東京受訓, 站在潮流頂端的國度, 學做不一樣的天使......　魔鬼組到充滿魔鬼氣息的泰國芭堤雅, 在活色生香的環境, 如何散發誘人的感染力......(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200314183000 +0800" stop="20200314190000 +0800" channel="ViuTV">
+    <title lang="en">Interviu -張婉婷 / 謝利</title>
+    <desc lang="en">張婉婷導演第一齣拍的電影《非法移民》已為她帶來香港電影金像獎最佳導演, 她大談當年如何拿到資金拍到這部電影。其後她找來周潤發拍攝《秋天的童話》, 大讚對方相當專業, 在嘈吵的環境中可以交足功課。另外她又分享洪金寶合作電影的難忘事, 為何大哥大看到她寫的字條後會馬上撕掉呢?旅遊達人謝利跟拍檔在逆市開茶飲店, 他們主打健康茶飲, 坊間這麼多茶飲店, 他們又如何吸引更多顧客。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+  </programme>
+  <programme start="20200314190000 +0800" stop="20200314193000 +0800" channel="ViuTV">
+    <title lang="en">Station Stories</title>
+    <desc lang="en">車每駛進一站, 就有一個故事!從台北出發, 發掘火車與台灣千絲萬縷的關係與故事。一座城市, 如何因鐵路而興起?一個破城, 如何因鐵路而再生?離鄉的人, 如何跟著路軌重返家鄉?進城的人, 能否走出自己的軌跡?台灣是一個充滿故事的地方, 由清朝至日治到現代, 台灣的火車貫穿南北, 穿梭大城與靜鄉。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200314193000 +0800" stop="20200314200000 +0800" channel="ViuTV">
+    <title lang="en">Alleys in Taipei E5</title>
+    <sub-title lang="en">赤峰街</sub-title>
+    <desc lang="en">赤峰街有「打鐵街」之稱, 靠近台北捷運中山、雙連站, 昔日以汽車零件及音響店著名。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200314200000 +0800" stop="20200314203000 +0800" channel="ViuTV">
+    <title lang="en">Designers in Hong Kong E19</title>
+    <desc lang="en">設計就是解決生活上的問題, 令生活更好。香港, 一個生活上充滿問題的城市, 自然孕育出很多本土設計師, 擁有自己獨特的設計, 設計的層面非常廣闊, 有平面設計、網頁設計、建築、生活用品、傢俬、居室、工業、包裝、時裝等等, 而香港的設計師也有自己的一套風格和哲學。從香港設計師和他們的作品中, 實際上反映的就是香港人生活上的方方面面。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20200314203000 +0800" stop="20200314210000 +0800" channel="ViuTV">
+    <title lang="en">Art Hospitality Group E26</title>
+    <desc lang="en">藝術能夠帶給我們無盡的視野、無窮的思維、無限的靈感。不過, 藝術對於好多人來說, 都是深奧和沉悶, 遙不可及的!為了令藝術變得易明普及化, 「藝術團睇」就肩負起這個重任, 每星期為大家介紹一個藝術展覽, 由博物館之名家畫展、到商場貼地之土炮藝術、或校園藝術系學生之作品, 「藝術團睇」都不會放過。節目更會請來專家或者藝術創作者用最平易近人的方法為觀眾解構每件作品!(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Art</category>
+  </programme>
+  <programme start="20200314210000 +0800" stop="20200314213000 +0800" channel="ViuTV">
+    <title lang="en">Golden Age Diary 2 E18</title>
+    <desc lang="en">本節目以長者日記的方式, 在每個章節裡介紹不同長者背後的精采生活, 如長者旅行團、銀髮義工、高齡學藝。亦甚至, 探討年輕一代如何建立不同的渠道與長者接觸, 如透過與長者合作, 以社區導賞的方式, 帶領觀眾認識香港歷史。又或, 發掘隱藏的長者精英, 讓各路耆英高手互相學習。透過本節目, 希望帶出關注長者的訊息, 讓社會不同人士打破對老年的印象和限制, 為將來的我們, 舖墊共融的未來。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20200314213000 +0800" stop="20200314220000 +0800" channel="ViuTV">
+    <title lang="en">Put Your Hands Up S2 E7</title>
+    <desc lang="en">上一輯「舉高雙手」, Beatboxer主持dR. X黃浩邦穿梭香港各地, 拜訪新生代嘅本地表演藝術工作者, 喺交談之間認識佢地嘅背景同心路歷程。鍾意接受新挑戰嘅dR. X, 除咗跟呢班「前輩」偷師學下嘢, 每集更加即席同嘉賓們大搞Crossover, 擦出好多意想不到嘅藝術火花!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20200314220000 +0800" stop="20200315000000 +0800" channel="ViuTV">
+    <title lang="en">Morning News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315000000 +0800" stop="20200315003000 +0800" channel="ViuTV">
+    <title lang="en">Senior Hobbies S2 E9</title>
+    <desc lang="en">貼身追蹤有不同興趣的長者, 看看這個興趣是從何時、何地、何種心情開始, 了解後更容易體驗他們在參予中的樂趣, 使得觀眾也能感受, 而更可能被吸引著而成為其中一份子。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20200315003000 +0800" stop="20200315010000 +0800" channel="ViuTV">
+    <title lang="en">Start From Hotspring E5</title>
+    <sub-title lang="en">最地道的溫泉蛋</sub-title>
+    <desc lang="en">這一集走訪奧飛驒溫泉鄉的其中一個溫泉, 名為山水。它的溫泉水來自褔地溫泉, 這裡除了優美的山林境色, 最令人欣賞的是職員的親切。兩位主持深入海底水世界, 與超過500種魚類還有企鵝明星玩遊戲! 兩位更近距離接觸巨大鯨鯊及海豚, 觀看海豚訓練過程。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200315010000 +0800" stop="20200315013000 +0800" channel="ViuTV">
+    <title lang="en">Alleys in Taipei E5</title>
+    <sub-title lang="en">赤峰街</sub-title>
+    <desc lang="en">赤峰街有「打鐵街」之稱, 靠近台北捷運中山、雙連站, 昔日以汽車零件及音響店著名。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200315013000 +0800" stop="20200315020000 +0800" channel="ViuTV">
+    <title lang="en">Spin Fighters 4 E22</title>
+    <sub-title lang="en">追查蒙面人</sub-title>
+    <desc lang="en">科菲, 一個想要實現他父親的旋轉戰鬥機戰鬥夢想的青少年, 已經報名參加了旋轉戰鬥機比賽。帶著對旋轉戰鬥機的熱愛, 他結識了約克、謝雅和其他朋友, 甚至得到了旋轉戰鬥機的發明者--奇特博士的認可。然而, 旋轉戰鬥機戰鬥的圈子突然發生變化。芬恩, 高音冠軍, 突然退休, 偽裝成蒙面人, 在旋轉戰鬥機比賽中偷偷地製造麻煩。在朋友的說明下, 科菲看穿了芬恩的陰謀。依靠他們對旋轉戰鬥機的深深的愛和信心, 科菲擊敗了芬恩, 解開了芬恩和惡魔大師之間的結。最後, 科菲和他的旋轉戰鬥機朋友憤怒的風暴, 回到旋轉戰鬥機戰鬥, 並不斷執行他們深深的愛和信念的旋轉戰鬥機。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200315020000 +0800" stop="20200315023000 +0800" channel="ViuTV">
+    <title lang="en">Mind Blowing Breakthroughs S2 E13</title>
+    <sub-title lang="en">生態系統</sub-title>
+    <desc lang="en">舞台上正在舉行美麗的蝴蝶展。然而, 突然之間, 每隻蝴蝶開始飛走。一些仙女告訴傻眼男爵, 蝴蝶飛到了森林裡, 因為發光的花朵開了。男爵, 貝蒂和孩子們都去森林尋找發光的花朵。在那裡, 他們遇見了優雅地演奏大提琴的音樂家兼生態學家Theodor Wilhelm Engelmann。為了識別花朵, 他們一起出發找到它。經過很多困難之後, 隊伍終於找到了發光的花朵, 但很快就失望了, 因為一隻兔子正在啃食它。他們試圖找到兔子, 以便他們至少可以獲得花的種子。然而, 在兔子失蹤的地方, 狐貍出現了。原來, 狐貍吃了兔子。雖然蒙克豪森處於恐慌之中, 但生態學家查爾斯·埃爾頓 (Charles Elton) 進入並鼓勵男爵說, 吃花的兔子和吃兔子的狐貍都是食物鏈的一部分, 這是完全自然的。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200315023000 +0800" stop="20200315030000 +0800" channel="ViuTV">
+    <title lang="en">Steven Universe S2 E7</title>
+    <desc lang="en">地球受到四位擁有魔法的「水晶寶石人」的保護排除邪惡威脅。四位主角是石榴 (Garnet) 、紫晶 (Amethyst) 、珍珠 (Pearl) 及史蒂芬 (Steven) , 史蒂芬繼承了與人類結婚的母親玫瑰水晶的寶石。故事便圍繞在史蒂芬探索自己寶石能力的期間, 與其他寶石人相處的冒險日子。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200315030000 +0800" stop="20200315033000 +0800" channel="ViuTV">
+    <title lang="en">MUCHAMITASU E3</title>
+    <sub-title lang="en">空中拍攝影像</sub-title>
+    <desc lang="en">科學發達與人類生活息息相關, 節目介紹實用科學知識, 由日本新進女子組合彩虹章魚燒的五位美少女, 與主持人一起進行趣怪新穎的科學小實驗, 發揮好奇心與學習精神, 在平凡中找尋竅妙的科學原理。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Science</category>
+  </programme>
+  <programme start="20200315033000 +0800" stop="20200315035500 +0800" channel="ViuTV">
+    <title lang="en">Life of Devout Believer E3</title>
+    <sub-title lang="en">回教</sub-title>
+    <desc lang="en">每一種宗教都有自家的教條律例, 佛教如素, 天主教十誡, 伊斯蘭教(回教)每日五次禮拜, 猶太教要食Kosher食品等...不同律例從幾百至幾千年前開始沿用至今, 有幾多可以在現今社會實行, 又有幾多信徒可以堅守?主持人會去拜訪各種宗教家庭, 之後在自己日常生活當中去體驗各種不同宗教的律例, 了解究竟活在現今世代, 人們可否成為一位不折不扣的虔誠教徒。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20200315035500 +0800" stop="20200315040000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200315040000 +0800" stop="20200315043000 +0800" channel="ViuTV">
+    <title lang="en">Noon News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315043000 +0800" stop="20200315050000 +0800" channel="ViuTV">
+    <title lang="en">Put Your Hands Up S2 E8</title>
+    <desc lang="en">上一輯「舉高雙手」, Beatboxer主持dR. X黃浩邦穿梭香港各地, 拜訪新生代嘅本地表演藝術工作者, 喺交談之間認識佢地嘅背景同心路歷程。鍾意接受新挑戰嘅dR. X, 除咗跟呢班「前輩」偷師學下嘢, 每集更加即席同嘉賓們大搞Crossover, 擦出好多意想不到嘅藝術火花!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20200315050000 +0800" stop="20200315053000 +0800" channel="ViuTV">
+    <title lang="en">Designers in Hong Kong E20</title>
+    <desc lang="en">設計就是解決生活上的問題, 令生活更好。香港, 一個生活上充滿問題的城市, 自然孕育出很多本土設計師, 擁有自己獨特的設計, 設計的層面非常廣闊, 有平面設計、網頁設計、建築、生活用品、傢俬、居室、工業、包裝、時裝等等, 而香港的設計師也有自己的一套風格和哲學。從香港設計師和他們的作品中, 實際上反映的就是香港人生活上的方方面面。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200315053000 +0800" stop="20200315060000 +0800" channel="ViuTV">
+    <title lang="en">Sound and Vision S2 E1</title>
+    <sub-title lang="en">亡記</sub-title>
+    <desc lang="en">《亡記》, 榮獲最佳微電影製作大獎銀獎以及男主角銅獎, 男主角李晧軒以及調色師簡宏業將會分享拍攝過程的點滴以及創作心得。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200315060000 +0800" stop="20200315063000 +0800" channel="ViuTV">
+    <title lang="en">Travel in Darkness E15</title>
+    <sub-title lang="en">泰國篇 (II)</sub-title>
+    <desc lang="en">繼上回完成水上活動後, Yancy和芷媛於今集挑戰燒槍, 而Yancy更要嘗試蒙著雙眼燒槍!二人也會到訪一間精品店, 店內包羅萬有, 令他們回憶起童年回憶。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200315063000 +0800" stop="20200315071500 +0800" channel="ViuTV">
+    <title lang="en">Good Night Show King Maker E5</title>
+    <desc lang="en">31號娃娃臉Mr Jan唱國語歌, 甚得劉美君及卓韻芝歡心, 32號Ian笑容夠cute, 自彈自唱迷死台前幕後, 35號翻版陳嘉樂Karson青靚白淨, 演出水準穩定, 37號蕭家浩唱出低音版好心分手, 有如自殺式演出...(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game</category>
+  </programme>
+  <programme start="20200315071500 +0800" stop="20200315080000 +0800" channel="ViuTV">
+    <title lang="en">Good Night Show King Maker E6</title>
+    <desc lang="en">38號Tiger跳舞發出無限光芒, 引起心美尖叫, 40號細貓在韓國做了多年練習生, 專程返港參賽, 決心入行, 得導師及評判欣賞, 43號校草里奧仔表現失準痛哭, 獲導師劉美君安慰。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Game</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200315080000 +0800" stop="20200315081500 +0800" channel="ViuTV">
+    <title lang="en">Oreca Battle E5</title>
+    <desc lang="en">年輕的奧雷卡。有一天, 一個神秘的寶藏箱, 有權力召喚怪物進入這個領域出現。他的名字是潘朵拉。當他們在一起遇到無數的爭鬥, 火和他的妖怪之間的友誼增長。然而, 大火和他的怪獸很快捲入了一場與惡魔國王奧雷卡的戰鬥, 威脅著世界的和平與和諧。一個從未見過的奧雷卡戰役即將展開!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200315081500 +0800" stop="20200315083000 +0800" channel="ViuTV">
+    <title lang="en">Dragon Collection E5</title>
+    <desc lang="en">通過意外的轉折, 一個普通的小學生, 發現自己在世界上的 '龍集' 遊戲。這是一個叫做 '龍地球' 的世界, 那裡的神、人和怪獸並排存在。那些漫遊這個世界的人使用一本神奇的書, 稱為放魔法書, 和卡片召喚怪物, 並尋找擁有龍的力量的寶藏被稱為龍收藏。儘管他的困惑, 阿寬成為一個戰士, 並與他在那裡會見的朋友, 開始他的冒險成為傳奇龍大師!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200315083000 +0800" stop="20200315090000 +0800" channel="ViuTV">
+    <title lang="en">Moominvalley S1 E13</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200315090000 +0800" stop="20200315093000 +0800" channel="ViuTV">
+    <title lang="en">Bar Hunter E12</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200315093000 +0800" stop="20200315100000 +0800" channel="ViuTV">
+    <title lang="en">Big World in Tiny Eyes E25</title>
+    <desc lang="en">由小記者開編採會開始, 看他們如何定下採訪目標、搜集資料、設定問題等等, 而採訪過程就會跟受訪者一天的日程, 除了專訪之外, 也看他一天的工作是怎樣的。訪問完後, 每位小記者會給受訪者一句評語。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200315100000 +0800" stop="20200315102500 +0800" channel="ViuTV">
+    <title lang="en">News Cast at 6</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315102500 +0800" stop="20200315103000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200315103000 +0800" stop="20200315110000 +0800" channel="ViuTV">
+    <title lang="en">Now Forum E334</title>
+    <desc lang="en">《大鳴大放》是一個30分鐘的時事討論節目, 識英雄重英雄, 請來各界重磅名人, 拋出論點, 言無不盡, 深入討論時事, 跨越維港神州, 宏觀全世界。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Interview</category>
+  </programme>
+  <programme start="20200315110000 +0800" stop="20200315113000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast News Cast at 7</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200315113000 +0800" stop="20200315120000 +0800" channel="ViuTV">
+    <title lang="en">now Report E202</title>
+    <sub-title lang="en">疫流學生/奧運選手長大了</sub-title>
+    <desc lang="en">本港學校停課抗疫, 學生經歷不一樣的學年。中學文憑試安排一改再改, 應屆考生的溫習計劃大失預算；應屆大學畢業生要適應網上學習, 在市道慘淡的環境下又要面對求職失利；連醫科生的臨床教學也被迫暫停。疫症蔓延時, 學生能否逆流而上, 安心學習?2016年, 何詩蓓初次踏足奧運舞台。過去四年, 她在國際游泳賽事大放異彩, 更順利取得今屆兩項奧運資格, 成為香港在東京奧運奪牌的希望。究竟這四年的訓練為她帶來怎樣的改變呢?(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current</category>
+  </programme>
+  <programme start="20200315120000 +0800" stop="20200315123000 +0800" channel="ViuTV">
+    <title lang="en">Interviu -應智越 / 寶珮如</title>
+    <desc lang="en">注意!InterViu不是Interview, 而是一個具有ViuTV特色的人物專訪節目, 提供一個平台讓藝人及名人抒發心聲, 與觀眾分享近況。主持人會與嘉賓作互動, 打破一問一答單調形式, 著重趣味輕鬆, 以節奏明快取勝, 配合每集不同主題, 展現不一樣的訪談節目風格。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+  </programme>
+  <programme start="20200315123000 +0800" stop="20200315133000 +0800" channel="ViuTV">
+    <title lang="en">Takeshis Medical Check-up Show E165</title>
+    <desc lang="en">用情境劇來表現一些病症的發生, 一些大家很少留意的症狀, 但可能是某種嚴重疾病的先兆。再請該疾病領域的醫師, 進行解說及分析, 說明情境劇內發生的事情, 可能已經在實際生活中發生了, 並教觀眾如何做簡單的自我檢測, 內容沒有艱深的醫學報導, 戲劇表現生活化。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200315133000 +0800" stop="20200315143000 +0800" channel="ViuTV">
+    <title lang="en">Woo Sang Design Presents: Chill Club E20</title>
+    <sub-title lang="en">嘉賓: 鄧健泓、蘇慧恩</sub-title>
+    <desc lang="en">今集《Chill Club》邀請到鄧健泓上來唱出「正東唱片」歌曲, 所以今集會以「正東唱片之夜」。鄧健泓會唱出《直上》、《朋友二號》, 更會聯同Joey哥合唱《叫飛機》等等膾炙人口的經典金曲。新歌推介方面, 今集邀請到蘇慧恩上來演唱新歌《一馬平川》。而「黃劍文音樂實驗室」邀請到樂團ETERNITY同劍文一同合唱《上帝早已預備》至於「當年金曲榜」, 將會重溫歷年第10-12星期的冠軍榜, 與觀眾重溫香港樂壇的當年經典!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20200315143000 +0800" stop="20200315150000 +0800" channel="ViuTV">
+    <title lang="en">Taiwan x Trekking E5</title>
+    <sub-title lang="en">清境農場</sub-title>
+    <desc lang="en">位於台灣南投縣仁愛鄉的清境農場, 海拔高達1700公尺, 對台灣人來說, 這裡也成為了夏天超知名的避暑勝地, 有小瑞士稱號。而青青草原近年來最熱們的活動, 就是這「牧羊人體驗」!!!戴上牛仔帽、穿上雨鞋, 阿妹要化身一日羊褓姆, 在這一大片草原裡, 將上百隻的羊, 全部趕到柵欄裡。騎馬逛清境你恐怕沒嘗過, 在充滿異國風情的草原山坡裡, 坐在馬背上前進, 阿妹覺得自己好像變成皇室貴族了, 最後, 清境農場最知名的雲南擺夷菜上桌, 歷史的因素, 讓這邊充滿了許多滇緬料理, 吃美食, 聽歷史, 真的很有趣!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200315150000 +0800" stop="20200315153000 +0800" channel="ViuTV">
+    <title lang="en">Finding Shaman E7</title>
+    <sub-title lang="en">可可豆 豈只是朱古力前身</sub-title>
+    <desc lang="en">可可豆對於城市人來說, 可能只是朱古力的原材料；但對於薩滿來說, 它是一種能人「直指內心」的神聖果實。在沒有加任何其他添加物的情況下, 可可豆汁配以薩滿音樂到底是如何令人窺探自己內心的秘密, 埋於內心深處的回憶?(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200315153000 +0800" stop="20200315160000 +0800" channel="ViuTV">
+    <title lang="en">Crayon Shinchan E28</title>
+    <desc lang="en">臼井儀人漫畫作品。五歲小孩野原新之助 (小新) 百厭趣怪, 個性誇張自戀, 是最令人頭痛的小朋友。小新與父親廣志、母親美冴、妹妹小葵住在埼玉縣的春日部市, 最愛領著「雙葉幼稚園」的朋友你搞冒險, 在日常生活中製造無數瘋狂趣事。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+  </programme>
+  <programme start="20200315160000 +0800" stop="20200315165500 +0800" channel="ViuTV">
+    <title lang="en">Money vs Honey E6</title>
+    <sub-title lang="en">野外奪寶</sub-title>
+    <desc lang="en">野外, 最能夠考驗到情侶之間的合拍度、包容度。三對情侶今次要到人跡罕至的東龍島挑戰任務。他們要面對一連串考驗體能、智慧的難關。每隊只要成功渡過難關就獲得寶箱鎖匙一條, 只要憑藉所得的鎖匙成功開啓寶箱, 就能得到一筆隊時能逆轉賽果的獎金!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200315165500 +0800" stop="20200315170000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200315170000 +0800" stop="20200315180000 +0800" channel="ViuTV">
+    <title lang="en">Barter Game E7 ?</title>
+    <sub-title lang="en">什麼是生活態度呢</sub-title>
+    <desc lang="en">環境是否會令人放下身段呢?小齊和edmond為了換取有瓦遮頭, 執垃圾、洗厠所, 從中有什麼感受呢?二汶、Thor去到汶萊水上村, 他們對於鄰舍關係會有什麼新睇法呢?Eric和心悠深入基層社區, 探訪古巴鎖匠, 了解他縱使生活缺乏, 但對生活仍充滿熱誠。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20200315180000 +0800" stop="20200315183000 +0800" channel="ViuTV">
+    <title lang="en">Travel in Darkness E15</title>
+    <sub-title lang="en">泰國篇 (II)</sub-title>
+    <desc lang="en">繼上回完成水上活動後, Yancy和芷媛於今集挑戰燒槍, 而Yancy更要嘗試蒙著雙眼燒槍!二人也會到訪一間精品店, 店內包羅萬有, 令他們回憶起童年回憶。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200315183000 +0800" stop="20200315190000 +0800" channel="ViuTV">
+    <title lang="en">Life of Devout Believer E3</title>
+    <sub-title lang="en">回教</sub-title>
+    <desc lang="en">每一種宗教都有自家的教條律例, 佛教如素, 天主教十誡, 伊斯蘭教(回教)每日五次禮拜, 猶太教要食Kosher食品等...不同律例從幾百至幾千年前開始沿用至今, 有幾多可以在現今社會實行, 又有幾多信徒可以堅守?主持人會去拜訪各種宗教家庭, 之後在自己日常生活當中去體驗各種不同宗教的律例, 了解究竟活在現今世代, 人們可否成為一位不折不扣的虔誠教徒。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Reality</category>
+  </programme>
+  <programme start="20200315190000 +0800" stop="20200315200000 +0800" channel="ViuTV">
+    <title lang="en">Takeshis Medical Check-up Show E165</title>
+    <desc lang="en">用情境劇來表現一些病症的發生, 一些大家很少留意的症狀, 但可能是某種嚴重疾病的先兆。再請該疾病領域的醫師, 進行解說及分析, 說明情境劇內發生的事情, 可能已經在實際生活中發生了, 並教觀眾如何做簡單的自我檢測, 內容沒有艱深的醫學報導, 戲劇表現生活化。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200315200000 +0800" stop="20200315210000 +0800" channel="ViuTV">
+    <title lang="en">Home Sweet Home -張學友</title>
+    <desc lang="en">家庭主夫_家庭觀念甚重的學友, 會是一位嚴父嗎, 還是太太對女兒更嚴格?曾嗜杯中物的學友, 會為女兒灌輸怎樣的喝酒觀念?女兒揚言希望當歌手, 學友會出言鼓勵, 還是設法阻止?學友曾為女兒痛心得掉下男兒淚所為何事?(n)</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20200315210000 +0800" stop="20200315213000 +0800" channel="ViuTV">
+    <title lang="en">Senior Hobbies S2 E9</title>
+    <desc lang="en">貼身追蹤有不同興趣的長者, 看看這個興趣是從何時、何地、何種心情開始, 了解後更容易體驗他們在參予中的樂趣, 使得觀眾也能感受, 而更可能被吸引著而成為其中一份子。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Lifestyle</category>
+  </programme>
+  <programme start="20200315213000 +0800" stop="20200315220000 +0800" channel="ViuTV">
+    <title lang="en">Start From Hotspring E5</title>
+    <sub-title lang="en">最地道的溫泉蛋</sub-title>
+    <desc lang="en">這一集走訪奧飛驒溫泉鄉的其中一個溫泉, 名為山水。它的溫泉水來自褔地溫泉, 這裡除了優美的山林境色, 最令人欣賞的是職員的親切。兩位主持深入海底水世界, 與超過500種魚類還有企鵝明星玩遊戲! 兩位更近距離接觸巨大鯨鯊及海豚, 觀看海豚訓練過程。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200315220000 +0800" stop="20200316010000 +0800" channel="ViuTV">
+    <title lang="en">Morning News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200316010000 +0800" stop="20200316013000 +0800" channel="ViuTV">
+    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E5</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200316013000 +0800" stop="20200316030000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200316030000 +0800" stop="20200316035500 +0800" channel="ViuTV">
+    <title lang="en">Invest Smarter E6</title>
+    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200316035500 +0800" stop="20200316040000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200316040000 +0800" stop="20200316043000 +0800" channel="ViuTV">
+    <title lang="en">Noon News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200316043000 +0800" stop="20200316050000 +0800" channel="ViuTV">
+    <title lang="en">ULTRAMAN R/B E6</title>
+    <sub-title lang="en">宿敵, 大姐姐的必殺拳</sub-title>
+    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200316050000 +0800" stop="20200316053000 +0800" channel="ViuTV">
+    <title lang="en">We Bare Bears S2 E6</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200316053000 +0800" stop="20200316063000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E6</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316063000 +0800" stop="20200316070000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E6</title>
+    <sub-title lang="en">乾燥</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200316070000 +0800" stop="20200316080000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200316080000 +0800" stop="20200316083000 +0800" channel="ViuTV">
+    <title lang="en">Tamagotchi S6 E20</title>
+    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200316083000 +0800" stop="20200316090000 +0800" channel="ViuTV">
+    <title lang="en">Duel Masters 2018 Series E7</title>
+    <desc lang="en">《決鬥大師 2018》為地球文明而戰。用一張卡, 改變生物界嘅命運!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200316090000 +0800" stop="20200316093000 +0800" channel="ViuTV">
+    <title lang="en">Robocar Poli S3 E4</title>
+    <sub-title lang="en">特里的新朋友</sub-title>
+    <desc lang="en">在布魯姆鎮, 有一個改造汽車救援隊, 說明朋友克服他們的許多困難, 隨時隨地, 當他們處於危險之中。快速和勇敢的警車珀利, 強大的消防車羅伊, 善良和聰明的救護車安巴, 和機智的直升機海利是在路上說明朋友!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200316093000 +0800" stop="20200316100000 +0800" channel="ViuTV">
+    <title lang="en">Joyous Alliance - My Stage E12</title>
+    <desc lang="en">每集講解粵劇的知識的, 由唱、唸、做、打四方面講解傳統經典文化。為小朋友解開一切對粵劇的疑問, 認識傳統冷知識!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200316100000 +0800" stop="20200316102500 +0800" channel="ViuTV">
+    <title lang="en">News Cast at 6</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200316102500 +0800" stop="20200316103000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200316103000 +0800" stop="20200316110000 +0800" channel="ViuTV">
+    <title lang="en">Hong Kong Stories - Taste of Home E6</title>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200316110000 +0800" stop="20200316113000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast News Cast at 7</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200316113000 +0800" stop="20200316120000 +0800" channel="ViuTV">
+    <title lang="en">WARS E30</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200316120000 +0800" stop="20200316123000 +0800" channel="ViuTV">
+    <title lang="en">QUEEN E6</title>
+    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Japanese</category>
+  </programme>
+  <programme start="20200316123000 +0800" stop="20200316133000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: He is Psychometric E2</title>
+    <sub-title lang="en">找出真正的犯人</sub-title>
+    <desc lang="en">李安被老師一口咬定是偷試卷的學生, 要他退學。老師在課堂中奚落家境不好的學生, 還指責孤兒李安偷試卷。在仁因受不了老師的行為, 一時氣憤說要找出真正偷試卷的犯人, 誤打誤撞便和李安合作起來...(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316133000 +0800" stop="20200316143000 +0800" channel="ViuTV">
+    <title lang="en">Dr. Prisoner E1</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316143000 +0800" stop="20200316150000 +0800" channel="ViuTV">
+    <title lang="en">Happy Half Hour E11[Live]</title>
+    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316150000 +0800" stop="20200316153000 +0800" channel="ViuTV">
+    <title lang="en">Travel with King Kong &amp; the Beauties E11</title>
+    <desc lang="en">節目中由女主持帶大家到東京及附近一帶,四出發掘當地最抵玩、CP 值最高好去處為主軸。再由主持金剛去為眾多吃、喝、玩、樂的好地方作評價。觀眾既可以從中留意到高性價比的地點,跟隨節目建議, 方便日後制定自己行程。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316153000 +0800" stop="20200316160000 +0800" channel="ViuTV">
+    <title lang="en">Talker - Pak Pak Partner E46</title>
+    <desc lang="en">全新晚吹《啪啪 Partner》有一眾主持拍住嘉賓一齊同大家研究各類啪啪課題, 由內到外, 再由外到返內, 令你來回地獄再直達天堂!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+  </programme>
+  <programme start="20200316160000 +0800" stop="20200316162500 +0800" channel="ViuTV">
+    <title lang="en">Assassination Classroom S2 E20</title>
+    <desc lang="en">暑假強化集訓的暗殺之旅來到最後一天, 殺老師提議舉辦試膽活動, 其實是想進行湊成班對的下流計畫, 但遲遲不見成效, 反倒讓Bitch老師喜歡烏間老師一事曝光, 全班於是決定協助Bitch老師告白, 不過對象是死板的烏間老師, 計畫是否真能成功......?(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316162500 +0800" stop="20200316163000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200316163000 +0800" stop="20200316170000 +0800" channel="ViuTV">
+    <title lang="en">WARS E30</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200316170000 +0800" stop="20200316181500 +0800" channel="ViuTV">
+    <title lang="en">Sketch E10</title>
+    <sub-title lang="en">別忘記從失誤中得到的教訓</sub-title>
+    <desc lang="en">白優真主動聯絡東秀, 想要借警察的手找到張泰俊的手冊。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316181500 +0800" stop="20200316183000 +0800" channel="ViuTV">
+    <title lang="en">Girls' Talk - Love -Me-Time</title>
+    <desc lang="en">雖說拍拖係兩個人嘅事, 但長期糖癡豆、缺乏私人空間, 好容易會令大家都透唔到氣。究竟點先可以Love Life Balance呢?今集Love Office嘅幾位研究員 Hailey、Vivian、家媛、Renee就會同大家一齊探討嚇呢個問題!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+  </programme>
+  <programme start="20200316183000 +0800" stop="20200316190000 +0800" channel="ViuTV">
+    <title lang="en">Late News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200316190000 +0800" stop="20200316200000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: He is Psychometric E2</title>
+    <sub-title lang="en">找出真正的犯人</sub-title>
+    <desc lang="en">李安被老師一口咬定是偷試卷的學生, 要他退學。老師在課堂中奚落家境不好的學生, 還指責孤兒李安偷試卷。在仁因受不了老師的行為, 一時氣憤說要找出真正偷試卷的犯人, 誤打誤撞便和李安合作起來...(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316200000 +0800" stop="20200316203000 +0800" channel="ViuTV">
+    <title lang="en">Talker - Pak Pak Partner E46</title>
+    <desc lang="en">全新晚吹《啪啪 Partner》有一眾主持拍住嘉賓一齊同大家研究各類啪啪課題, 由內到外, 再由外到返內, 令你來回地獄再直達天堂!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+  </programme>
+  <programme start="20200316203000 +0800" stop="20200316213000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E6</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200316213000 +0800" stop="20200316220000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E6</title>
+    <sub-title lang="en">乾燥</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200316220000 +0800" stop="20200317010000 +0800" channel="ViuTV">
+    <title lang="en">Morning News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200317010000 +0800" stop="20200317013000 +0800" channel="ViuTV">
+    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E6</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200317013000 +0800" stop="20200317030000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200317030000 +0800" stop="20200317035500 +0800" channel="ViuTV">
+    <title lang="en">Invest Smarter E7</title>
+    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200317035500 +0800" stop="20200317040000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200317040000 +0800" stop="20200317043000 +0800" channel="ViuTV">
+    <title lang="en">NNC Noon News &amp; now Report</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200317043000 +0800" stop="20200317050000 +0800" channel="ViuTV">
+    <title lang="en">ULTRAMAN R/B E7</title>
+    <sub-title lang="en">失去資格的英雄</sub-title>
+    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200317050000 +0800" stop="20200317053000 +0800" channel="ViuTV">
+    <title lang="en">We Bare Bears S2 E7</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200317053000 +0800" stop="20200317063000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E7</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317063000 +0800" stop="20200317070000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E7</title>
+    <sub-title lang="en">發冷</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200317070000 +0800" stop="20200317080000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200317080000 +0800" stop="20200317083000 +0800" channel="ViuTV">
+    <title lang="en">Tamagotchi S6 E21</title>
+    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200317083000 +0800" stop="20200317090000 +0800" channel="ViuTV">
+    <title lang="en">Duel Masters 2018 Series E8</title>
+    <desc lang="en">《決鬥大師 2018》為地球文明而戰。用一張卡, 改變生物界嘅命運!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200317090000 +0800" stop="20200317093000 +0800" channel="ViuTV">
+    <title lang="en">Robocar Poli S3 E5</title>
+    <sub-title lang="en">孤獨的米奇</sub-title>
+    <desc lang="en">在布魯姆鎮, 有一個改造汽車救援隊, 說明朋友克服他們的許多困難, 隨時隨地, 當他們處於危險之中。快速和勇敢的警車珀利, 強大的消防車羅伊, 善良和聰明的救護車安巴, 和機智的直升機海利是在路上說明朋友!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200317093000 +0800" stop="20200317100000 +0800" channel="ViuTV">
+    <title lang="en">Joyous Alliance - Fun Facts about History E51</title>
+    <desc lang="en">每集將歷史事件演繹成有趣故事, 由一班飾演不同傳奇人物的主持及專家, 為小朋友講解中外的經典歷史故事, 一起接觸歷史, 明是非、別嫌疑、理解自己、放眼世界!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200317100000 +0800" stop="20200317102500 +0800" channel="ViuTV">
+    <title lang="en">News Cast at 6</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200317102500 +0800" stop="20200317103000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200317103000 +0800" stop="20200317110000 +0800" channel="ViuTV">
+    <title lang="en">Hong Kong Stories - Taste of Home E7</title>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200317110000 +0800" stop="20200317113000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast News Cast at 7</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200317113000 +0800" stop="20200317120000 +0800" channel="ViuTV">
+    <title lang="en">WARS E31</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200317120000 +0800" stop="20200317123000 +0800" channel="ViuTV">
+    <title lang="en">QUEEN E7</title>
+    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Japanese</category>
+  </programme>
+  <programme start="20200317123000 +0800" stop="20200317133000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: He is Psychometric E3</title>
+    <sub-title lang="en">只有你知道的秘密</sub-title>
+    <desc lang="en">李安知道了在仁身世的秘密, 在仁也得知李安擁有觸物知往的超能力, 二人互相約定要保守秘密。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317133000 +0800" stop="20200317143000 +0800" channel="ViuTV">
+    <title lang="en">Dr. Prisoner E2</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317143000 +0800" stop="20200317150000 +0800" channel="ViuTV">
+    <title lang="en">Happy Half Hour E12[Live]</title>
+    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317150000 +0800" stop="20200317153000 +0800" channel="ViuTV">
+    <title lang="en">Travel with King Kong &amp; the Beauties E12</title>
+    <desc lang="en">節目中由女主持帶大家到東京及附近一帶,四出發掘當地最抵玩、CP 值最高好去處為主軸。再由主持金剛去為眾多吃、喝、玩、樂的好地方作評價。觀眾既可以從中留意到高性價比的地點,跟隨節目建議, 方便日後制定自己行程。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200317153000 +0800" stop="20200317160000 +0800" channel="ViuTV">
+    <title lang="en">Talker - Crime E98</title>
+    <sub-title lang="en">打劫陰司路</sub-title>
+    <desc lang="en">1999年10月中, 柴灣哥連臣角火葬場揭發一個偷陪葬品犯罪集團, 一群殯儀從業員涉嫌長達8年時間, 串謀偷取靈柩中的先人遺物及將物品典當圖利。廉署經調查後拘捕共11名技工及主管。他們膽大包天, 下手的先人竟包括江湖大哥及名門之後。最終案中5人被判9-30個月不等, 成為殯儀界醜聞一宗。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317160000 +0800" stop="20200317162500 +0800" channel="ViuTV">
+    <title lang="en">Assassination Classroom S2 E21</title>
+    <desc lang="en">暑假強化集訓的暗殺之旅來到最後一天, 殺老師提議舉辦試膽活動, 其實是想進行湊成班對的下流計畫, 但遲遲不見成效, 反倒讓Bitch老師喜歡烏間老師一事曝光, 全班於是決定協助Bitch老師告白, 不過對象是死板的烏間老師, 計畫是否真能成功......?(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Animation</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317162500 +0800" stop="20200317163000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200317163000 +0800" stop="20200317170000 +0800" channel="ViuTV">
+    <title lang="en">WARS E31</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200317170000 +0800" stop="20200317181500 +0800" channel="ViuTV">
+    <title lang="en">Sketch E11</title>
+    <sub-title lang="en">改變未來的打算</sub-title>
+    <desc lang="en">白優真之後從警察手中搶去手冊, 並打算親自向張泰俊報仇。東秀等人從素描中得悉, 白優真拿槍指著張泰俊, 於是找到素描指的地方, 打算改變未來...暫時以第二幅素描找不到任何頭緒和情報, 所以在討論過後決定先找出姜道植的位置。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317181500 +0800" stop="20200317183000 +0800" channel="ViuTV">
+    <title lang="en">Girls' Talk - Go out -米水</title>
+    <desc lang="en">唔舒服就梗係睇醫生啦!巖!不過巖唔哂!除左睇醫生, 都仲有好多野可以做, 不如試下飲茶或者飲米水。無論係頭暈身㷫定係燥狂鬱悶, 飲茶同米水都可能幫到你!今集girls talk 派出所帶你去飲時尚茶飲, 唔舒服都唔一定睇醫生嘅!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+  </programme>
+  <programme start="20200317183000 +0800" stop="20200317190000 +0800" channel="ViuTV">
+    <title lang="en">Late News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200317190000 +0800" stop="20200317200000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: He is Psychometric E3</title>
+    <sub-title lang="en">只有你知道的秘密</sub-title>
+    <desc lang="en">李安知道了在仁身世的秘密, 在仁也得知李安擁有觸物知往的超能力, 二人互相約定要保守秘密。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317200000 +0800" stop="20200317203000 +0800" channel="ViuTV">
+    <title lang="en">Talker - Crime E98</title>
+    <sub-title lang="en">打劫陰司路</sub-title>
+    <desc lang="en">1999年10月中, 柴灣哥連臣角火葬場揭發一個偷陪葬品犯罪集團, 一群殯儀從業員涉嫌長達8年時間, 串謀偷取靈柩中的先人遺物及將物品典當圖利。廉署經調查後拘捕共11名技工及主管。他們膽大包天, 下手的先人竟包括江湖大哥及名門之後。最終案中5人被判9-30個月不等, 成為殯儀界醜聞一宗。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317203000 +0800" stop="20200317213000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E7</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200317213000 +0800" stop="20200317220000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E7</title>
+    <sub-title lang="en">發冷</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200317220000 +0800" stop="20200318010000 +0800" channel="ViuTV">
+    <title lang="en">Morning News</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200318010000 +0800" stop="20200318013000 +0800" channel="ViuTV">
+    <title lang="en">Ollie! The Boy Who Became What He Ate S2 E7</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200318013000 +0800" stop="20200318030000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200318030000 +0800" stop="20200318035500 +0800" channel="ViuTV">
+    <title lang="en">Invest Smarter E8</title>
+    <desc lang="en">「智富通」為ViuTV全方位理財節目, 為觀眾帶來港股、環球金融市場、衍生工具、理財產品、金融科技、本地及海外樓市、企業專訪、創業、親子理財及名人專訪等精彩內容。智富有道、融通天下, 為觀眾打造一個全方位理財資訊平台。.(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200318035500 +0800" stop="20200318040000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200318040000 +0800" stop="20200318043000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast Noon News/ City Plan</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200318043000 +0800" stop="20200318050000 +0800" channel="ViuTV">
+    <title lang="en">ULTRAMAN R/B E8</title>
+    <sub-title lang="en">全世界都在等著我</sub-title>
+    <desc lang="en">Katsumi 和 Isami 兩兄弟與父親和妹妹住在一起,但他們的母親在15年前神秘失蹤。有一天,兄弟倆遇到了一個怪物,幾乎失去了他們的生命在山上,在那裡兩個轉換專案出現如此突然地把他們都變成超人R/B。從這裡開始他們的戰鬥,作為奧特曼開始...隨著故事的展開,兄弟倆面臨著許多挑戰,迫于盟友和敵人之間的思想衝突的壓力。但是通過克服他們的命運,兄弟們開始意識到什麼是真正重要的。.(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200318050000 +0800" stop="20200318053000 +0800" channel="ViuTV">
+    <title lang="en">We Bare Bears S2 E8</title>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200318053000 +0800" stop="20200318063000 +0800" channel="ViuTV">
+    <title lang="en">The Great Tempter (Repackaged) E8</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200318063000 +0800" stop="20200318070000 +0800" channel="ViuTV">
+    <title lang="en">Healthy Hour E8</title>
+    <sub-title lang="en">輕度認知障礙</sub-title>
+    <desc lang="en">節目為我們預先注意身體健康提供資訊, 由出色的醫生們從他們專業的醫學角度到核心的理解, 解釋我們的身體健康與環境、生活和食物之間的關係。主持人們用幽默簡易的手法, 互相交流信息和意見, 從而希望觀眾能完全了解每一集的內容, 更易吸收複雜的醫學知識。.(n)</desc>
+    <category lang="en">Knowledge</category>
+    <category lang="en">Health</category>
+  </programme>
+  <programme start="20200318070000 +0800" stop="20200318080000 +0800" channel="ViuTV">
+    <title lang="en">Trading Hour</title>
+    <desc lang="en">緊貼市場走勢, 為你提供全面訊息, 分析港股焦點新聞消息。.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Financialnews</category>
+  </programme>
+  <programme start="20200318080000 +0800" stop="20200318083000 +0800" channel="ViuTV">
+    <title lang="en">Tamagotchi S6 E22</title>
+    <desc lang="en">延續&lt;他媽哥池&gt;, 住在塔瑪星球的麻每吉每天過著和好朋友美眉吉、咕嘰叭吉、美眉麻每吉一起遊玩的快樂生活。充滿著興奮、緊張的溫暖友情故事就如此繼續展開......(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200318083000 +0800" stop="20200318090000 +0800" channel="ViuTV">
+    <title lang="en">Duel Masters 2018 Series E9</title>
+    <desc lang="en">《決鬥大師 2018》為地球文明而戰。用一張卡, 改變生物界嘅命運!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200318090000 +0800" stop="20200318093000 +0800" channel="ViuTV">
+    <title lang="en">Robocar Poli S3 E6</title>
+    <sub-title lang="en">一起來繪畫</sub-title>
+    <desc lang="en">在布魯姆鎮, 有一個改造汽車救援隊, 說明朋友克服他們的許多困難, 隨時隨地, 當他們處於危險之中。快速和勇敢的警車珀利, 強大的消防車羅伊, 善良和聰明的救護車安巴, 和機智的直升機海利是在路上說明朋友!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Cartoon</category>
+  </programme>
+  <programme start="20200318093000 +0800" stop="20200318100000 +0800" channel="ViuTV">
+    <title lang="en">Joyous Alliance - Call Me Designer E12</title>
+    <desc lang="en">每集以不同風格時裝主題講述不同服飾的文化, 並以小朋友角度認識和設計服飾, 理解整個時裝文化!(n)</desc>
+    <category lang="en">Kids/Teenagers</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200318100000 +0800" stop="20200318102500 +0800" channel="ViuTV">
+    <title lang="en">News Cast at 6</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200318102500 +0800" stop="20200318103000 +0800" channel="ViuTV">
+    <title lang="en">Gimmick Easy (Ad Mag)</title>
+  </programme>
+  <programme start="20200318103000 +0800" stop="20200318110000 +0800" channel="ViuTV">
+    <title lang="en">Hong Kong Stories - Taste of Home E8</title>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200318110000 +0800" stop="20200318113000 +0800" channel="ViuTV">
+    <title lang="en">NNC simulcast News Cast at 7</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200318113000 +0800" stop="20200318120000 +0800" channel="ViuTV">
+    <title lang="en">WARS E32</title>
+    <desc lang="en">武漢肺炎持續擴散, 疫情已成為每日市民最關心的話題。面對疫情來勢洶洶, 大眾迫切需要知道如何有效對抗武漢疫症。Viu TV因此製作《今日疫情》節目, 每晚以直播形式進行, 報道每日關乎疫情的最新情況, 並邀請有關的專家嘉賓提供意見共抗疫情。內容都以貼近民生為大前題。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Others</category>
+  </programme>
+  <programme start="20200318120000 +0800" stop="20200318123000 +0800" channel="ViuTV">
+    <title lang="en">QUEEN E8</title>
+    <desc lang="en">冰見江是專門進行危機管理的律師, 她的主戰場不在法庭上而在醜聞的幕後。迄今為止, 她以99.9%的準確率拯救了在社會上走投無路的委託人, 是位天才的糾紛調解人, 善於處理包括職權騷擾、性騷擾、名譽損失、損害賠償等各種糾紛, 如有必要她甚至能把謊言變成正義。冰見堅信自己是陷入危機的女性最後的堡壘, 所以為了拯救女性, 她可以不擇手段, 不管身處怎樣的逆境, 都絕不放棄。.(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Japanese</category>
+  </programme>
+  <programme start="20200318123000 +0800" stop="20200318133000 +0800" channel="ViuTV">
+    <title lang="en">German Pool Presents: He is Psychometric E4</title>
+    <sub-title lang="en">心生好感</sub-title>
+    <desc lang="en">智秀和成模發現了韓民療養院火災案的犯人, 和當年永成大廈火災殺人案的犯人有關係。在仁在學校再次受到欺負, 被同學查出了她有個在坐監的父親, 李安不忍心看到在仁受委屈, 為她出頭, 在仁對他心生好感...(n)</desc>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200318133000 +0800" stop="20200318143000 +0800" channel="ViuTV">
+    <title lang="en">Dr. Prisoner E3</title>
+    <category lang="en">Series</category>
+    <category lang="en">Korean</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200318143000 +0800" stop="20200318150000 +0800" channel="ViuTV">
+    <title lang="en">Happy Half Hour E13[Live]</title>
+    <desc lang="en">全新直播綜藝節目為你直播香港同海外有趣的吃喝玩樂資訊, 而且每集更會大派現金!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <rating>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20200318150000 +0800" stop="20200318153000 +0800" channel="ViuTV">
+    <title lang="en">Travel with King Kong &amp; the Beauties E13</title>
+    <desc lang="en">節目中由女主持帶大家到東京及附近一帶,四出發掘當地最抵玩、CP 值最高好去處為主軸。再由主持金剛去為眾多吃、喝、玩、樂的好地方作評價。觀眾既可以從中留意到高性價比的地點,跟隨節目建議, 方便日後制定自己行程。.(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Travelogue</category>
+  </programme>
+  <programme start="20200318153000 +0800" stop="20200318160000 +0800" channel="ViuTV">
+    <title lang="en">Talker - Foodie Talkies E16</title>
+    <sub-title lang="en">灣仔</sub-title>
+    <desc lang="en">灣仔曾經是三位主持讀演藝學院時期的蒲點, 作為大師兄的梁祖堯為大家推介此區首選的Comfort Food竟然是飯?Babyjohn更大爆瘋傳演藝學院的奇人奇事, 殊不知梁祖堯是事發目擊者, 還爆出更多內情!(n)</desc>
+    <category lang="en">Entertainment</category>
+    <category lang="en">Talkshow</category>
+    <rating>
+      <value>PG</value>
+    </rating>
   </programme>
   <programme start="20200312060000 +0800" stop="20200312061500 +0800" channel="NHK World-Japan (707)">
     <title lang="en">NHK NEWSLINE</title>
