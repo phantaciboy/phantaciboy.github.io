@@ -100,7 +100,7 @@ http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/c
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" group-title="HONG KONG",TVB 星河
+#EXTINF:-1 tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" group-title="HONG KONG",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/HK_open_tv_logo.jpg/200px-HK_open_tv_logo.jpg" tvg-id="5f5afc9eb373927c74da38bfc3e658e9" group-title="HONG KONG",香港开电视
@@ -118,14 +118,8 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://rthk.hk/about/dtt/images/logo_tv32.jpg" group-title="HONG KONG",香港电视32台
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",鳳凰香港
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",凤凰香港
 http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
-
-#EXTINF:-1 tvg-logo="http://www.combostv.hk/upfile/2018/10/19/20181019184018_300.png" group-title="HONG KONG",星空衛視
-http://stream.guihet.com/tv/116.php?id=233
-
-#EXTINF:-1 tvg-logo="http://www.combostv.hk/upfile/2018/10/19/20181019184018_300.png" group-title="HONG KONG",星空衛視
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
 # Japan Channels
 
