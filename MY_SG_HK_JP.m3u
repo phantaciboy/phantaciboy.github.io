@@ -106,20 +106,20 @@ http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/HK_open_tv_logo.jpg/200px-HK_open_tv_logo.jpg" tvg-id="5f5afc9eb373927c74da38bfc3e658e9" group-title="HONG KONG",香港开电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+# #EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
+# http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
 http://pull.scphsd.com/live/d1291fb792a7f6089abd68605b3fb072/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",凤凰香港
+http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 
 #EXTINF:-1 tvg-logo="http://rthk.hk/about/dtt/images/logo_tv31.jpg" group-title="HONG KONG",香港电视31台
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://rthk.hk/about/dtt/images/logo_tv32.jpg" group-title="HONG KONG",香港电视32台
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",凤凰香港
-http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
 
 # Japan Channels
 
