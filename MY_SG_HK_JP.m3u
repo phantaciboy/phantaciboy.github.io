@@ -94,11 +94,11 @@ http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://stream.guihet.com/tv/116.php?id=12
 
-#EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/chunklist_b712704.m3u8
+# #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
+# http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/chunklist_b712704.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1584032828~exp=1584119228~acl=/newslive/smil:mobile_finance.smil/*~hmac=128878f316195a2f2df6906458b16a2043b25d53c58334cbeda02ec4ce9ee79f
 
 #EXTINF:-1 tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" group-title="HONG KONG",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
