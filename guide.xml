@@ -89,7 +89,7 @@
     <url>http://www.epg.i-cable.com</url>
   </channel>
   <channel id="NHK World-Japan (707)">
-    <display-name lang="zh">NHK World-Japan (707)</display-name>
+    <display-name lang="zh">NHK World Japan</display-name>
     <url>http://www.promo.mytvsuper.com.E</url>
   </channel>
   <programme start="20200313000000 +0800" stop="20200313003000 +0800" channel="TV 1">
@@ -7917,14 +7917,6 @@
     <category lang="en">Horror / Supernatural</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/HMRSB_series.jpg" />
   </programme>
-  <programme start="20200313104500 +0800" stop="20200313110000 +0800" channel="Channel 5">
-    <title lang="en">Go Go Footy Pups S2 - EP 0001 &amp; 0002</title>
-    <desc lang="en">The Footy Pups play in an animal league against a menagerie of teams, including the naughty pigs of Southampton and the shy hippos of Potamus Hotspur. Everyone learns how friendship and teamwork are the only way to win!(n)</desc>
-  </programme>
-  <programme start="20200313110000 +0800" stop="20200313113000 +0800" channel="Channel 5">
-    <title lang="en">Blaze And The Monster Machines S2 - EP 20</title>
-    <desc lang="en">A monster truck and his human driver go on adventures together while learning about science, technology, engineering and math.(n)</desc>
-  </programme>
   <programme start="20200313113000 +0800" stop="20200313120000 +0800" channel="Channel 5">
     <title lang="en">Top Wing S1 - EP 11</title>
     <desc lang="en">Top Wing follows four eager young birds---Swift, Penny, Brody, and Rod---who work together at Top Wing Academy as new cadets to earn their wings by helping their community. With the help of mentor Speedy, the cadets take on different missions for their rescue skills and also help those in need, all while learning important lessons.(n)</desc>
@@ -9684,6 +9676,7 @@
   </programme>
   <programme start="20200317203000 +0800" stop="20200317210000 +0800" channel="Channel 8">
     <title lang="en">星期二特写-- 极限人生 Tuesday Report - No Limit - EP 1</title>
+    <desc lang="en">In love with the speed and adrenaline rush of racing, 21-year-old Aleef and 11-year-old Ryan dream about becoming professional racers. Undeterred by the high cost of racing, Aleef access his dream through e-racing to earn a spot on the tracks. And what lessons behold a young racer on the mean tracks of racing?  在赛道上奔驰的速度和激情，让21岁的Aleef和11岁的陈启龙对赛车情有独钟。在新加坡，赛车活动并不普及，所需花费不小；Aleef怎么透过参加电竞赛车比赛，争取登上实际卡丁车赛道？11岁的小小赛车手又如何能在充满变数的赛道上快速成长？.(n)</desc>
   </programme>
   <programme start="20200317210000 +0800" stop="20200317220000 +0800" channel="Channel 8">
     <title lang="en">爱...没有距离 Loving You - EP 7</title>
@@ -10064,10 +10057,6 @@
   <programme start="20200320223000 +0800" stop="20200320230000 +0800" channel="Channel 8">
     <title lang="en">《川。味》美食系列篇 （第二季） Legendary Taste Of Sichuan S2 - EP 9</title>
     <desc lang="en">Legendary Taste of Sichuan is a documentary about the relationship between Chinese and their foods, documenting the origins of delicious dishes and showing the tempting food moments.                                                                                                                                                                                                                                                《川味》是一部探讨中国人与美食的食物纪录片，记录美味佳肴的来源，展现美味诱惑的瞬间。.(n)</desc>
-  </programme>
-  <programme start="20200313110000 +0800" stop="20200313113000 +0800" channel="Channel U">
-    <title lang="en">好货驾到 Deals For Joy - EP 3</title>
-    <desc lang="en">Discover how you can wake up every morning glowing and refreshed as our hosts prove how a comfortable pillow is key for a good night's sleep.  好的枕头能让你一觉醒来精神抖擞、容光焕发。来，躺躺看吧!(n)</desc>
   </programme>
   <programme start="20200313113000 +0800" stop="20200313120000 +0800" channel="Channel U">
     <title lang="en">好货驾到 Deals For Joy - EP 4</title>
@@ -10765,35 +10754,35 @@
   </programme>
   <programme start="20200319180000 +0800" stop="20200319190000 +0800" channel="Channel U">
     <title lang="en">又是吳海英 Another Miss Oh  - EP 3</title>
-    <desc lang="en">Haiying's parents decide to sever their ties with Haiying due to her strange behaviour and think she is crazy. Haiying and Daojing bump into each other in the bar, and she informs him about the wedding cancellation, making Daojing feel more guilty. 海英的行为异常，海英的爸妈决定抛弃海英因他们认为女儿疯了。海英和道京在酒吧里相遇后，海英首次对别人说出了自己被悔婚的真相，弄得道京更内疚。.(n)</desc>
+    <desc lang="en">(Dual Language-Mandarin and Korean)(R) Haiying's parents decide to sever their ties with Haiying due to her strange behaviour and think she is crazy. Haiying and Daojing bump into each other in the bar, and she informs him about the wedding cancellation, making Daojing feel more guilty. (PG)(重)(双声道-中/韩)海英的行为异常，海英的爸妈决定抛弃海英因他们认为女儿疯了。海英和道京在酒吧里相遇后，海英首次对别人说出了自己被悔婚的真相，弄得道京更内疚。.(n)</desc>
   </programme>
   <programme start="20200319190000 +0800" stop="20200319200000 +0800" channel="Channel U">
     <title lang="en">爱到最后 Love To The End  - EP 5</title>
-    <desc lang="en">Ep 5: Jiaying plucks up her courage to tell Zhenghan about her liking for him. Zhenghan rejects Jiaying as he does not want to enter into a relationship with a client. The discouraged Jiaying stays at home for two whole days to sort out her feelings. 佳英鼓起勇气跟正韩表白，但正韩说不希望跟客户牵扯感情，因此拒绝佳英。难过得佳英在家睡了两天两夜后才振作起来。.(n)</desc>
+    <desc lang="en">(Dual Language-Mandarin and Korean) Jiaying plucks up her courage to tell Zhenghan about her liking for him. Zhenghan rejects Jiaying as he does not want to enter into a relationship with a client. The discouraged Jiaying stays at home for two whole days to sort out her feelings. (PG)(双声道-中/韩)佳英鼓起勇气跟正韩表白，但正韩说不希望跟客户牵扯感情，因此拒绝佳英。难过得佳英在家睡了两天两夜后才振作起来。.(n)</desc>
   </programme>
   <programme start="20200319200000 +0800" stop="20200319210000 +0800" channel="Channel U">
     <title lang="en">爱到最后 Love To The End  - EP 6</title>
-    <desc lang="en">Ep 6: Jiaying hears from Zhengbin that Zhenghan was badly hurt in his last relationship. Jiaying tells Zhenghan that she will wait for him to recover before they start a new relationship. Zhenghan is shocked by Jiaying's gestures. 佳英从正彬那儿听说正韩之前受到很严重的背叛。佳英尝试了解正韩的心情，告诉正韩她会等他走出伤痛才谈感情。正韩惊讶。.(n)</desc>
+    <desc lang="en">(Dual Language-Mandarin and Korean) Jiaying hears from Zhengbin that Zhenghan was badly hurt in his last relationship. Jiaying tells Zhenghan that she will wait for him to recover before they start a new relationship. Zhenghan is shocked by Jiaying's gestures. (PG)(双声道-中/韩)佳英从正彬那儿听说正韩之前受到很严重的背叛。佳英尝试了解正韩的心情，告诉正韩她会等他走出伤痛才谈感情。正韩惊讶。.(n)</desc>
   </programme>
   <programme start="20200319210000 +0800" stop="20200319220000 +0800" channel="Channel U">
     <title lang="en">幸福方程式 The Joymakers - EP 10</title>
     <desc lang="en">Taiwanese indigenous children's choir VOX Nativa has made waves around the world with their aboriginal music. By making their voices heard, the conductor hopes to bring about positive change in the lives of these children from poverty-stricken native communities and preserve their culture as well. 发迹于玉山下的原声童声合唱团让全世界听见了台湾的声音。在万人瞩目的背后，却是一场深具意义的偏 乡教育实验。指挥马彼得想借着假日音乐学校，翻转部落复制贫穷的命运。他的教育理念真的能够改变部 落，为孩子们带来幸福吗？.(n)</desc>
   </programme>
   <programme start="20200319220000 +0800" stop="20200319230000 +0800" channel="Channel U">
-    <title lang="en">皇后的品格 The Last Empress  - EP 26</title>
-    <desc lang="en">Ep 33: Shan'ni exposes Enlan's drugs-related activities at the celebration ceremony of Li He's 10th anniversary as Emperor. Enlan orders her men to blow up the venue in a bid to escape. Shan'ni could have left unhurt, but she turns back to help Li He and ended up injured herself. Ep 34: Li He goes back to the island to rescue those prisoners who are kept captive by En'lan. En'lan kills Li He without knowing that she is shooting at her own son.  Ep 33: 珊妮在李赫上任的十周年庆典公开太后在听琴岛种植罂粟花，并把毒品卖给全国人民的秘密。恩兰为了自保，命令手下引爆炸弹。珊妮本来可以离开会场，但回头营救李赫，结果自己也受伤。Ep 34: 李赫伪装到听琴岛上搭救那些被太后囚禁的人，自己却被恩兰的手下逼到死角。恩兰不知道搭救囚犯的人是李赫，结果亲手开枪杀死李赫。.(n)</desc>
+    <title lang="en">皇后的品格 The Last Empress  - EP 34</title>
+    <desc lang="en">(Dual Language-Mandarin and Korean) Li He goes back to the island to rescue those prisoners who are kept captive by En'lan. En'lan kills Li He without knowing that she is shooting at her own son.  (PG13-暴力镜头)(大结局)(双声道-中/韩)李赫伪装到听琴岛上搭救那些被太后囚禁的人，自己却被恩兰的手下逼到死角。恩兰不知道搭救囚犯的人是李赫，结果亲手开枪杀死李赫。.(n)</desc>
   </programme>
   <programme start="20200319230000 +0800" stop="20200319233000 +0800" channel="Channel U">
-    <title lang="en">晚间新闻 News Tonight  - EP 14</title>
+    <title lang="en">晚间新闻 News Tonight</title>
     <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day. U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。.(n)</desc>
   </programme>
   <programme start="20200319233000 +0800" stop="20200320000000 +0800" channel="Channel U">
     <title lang="en">幸福方程式 The Joymakers - EP 10</title>
-    <desc lang="en">Taiwanese indigenous children's choir VOX Nativa has made waves around the world with their aboriginal music. By making their voices heard, the conductor hopes to bring about positive change in the lives of these children from poverty-stricken native communities and preserve their culture as well. 发迹于玉山下的原声童声合唱团让全世界听见了台湾的声音。在万人瞩目的背后，却是一场深具意义的偏 乡教育实验。指挥马彼得想借着假日音乐学校，翻转部落复制贫穷的命运。他的教育理念真的能够改变部 落，为孩子们带来幸福吗？.(n)</desc>
+    <desc lang="en">(R) Taiwanese indigenous children's choir VOX Nativa has made waves around the world with their aboriginal music. By making their voices heard, the conductor hopes to bring about positive change in the lives of these children from poverty-stricken native communities and preserve their culture as well. (重)发迹于玉山下的原声童声合唱团让全世界听见了台湾的声音。在万人瞩目的背后，却是一场深具意义的偏 乡教育实验。指挥马彼得想借着假日音乐学校，翻转部落复制贫穷的命运。他的教育理念真的能够改变部 落，为孩子们带来幸福吗？.(n)</desc>
   </programme>
   <programme start="20200320000000 +0800" stop="20200320003000 +0800" channel="Channel U">
     <title lang="en">幸福方程式 The Joymakers - EP 10</title>
-    <desc lang="en">Taiwanese indigenous children's choir VOX Nativa has made waves around the world with their aboriginal music. By making their voices heard, the conductor hopes to bring about positive change in the lives of these children from poverty-stricken native communities and preserve their culture as well. 发迹于玉山下的原声童声合唱团让全世界听见了台湾的声音。在万人瞩目的背后，却是一场深具意义的偏 乡教育实验。指挥马彼得想借着假日音乐学校，翻转部落复制贫穷的命运。他的教育理念真的能够改变部 落，为孩子们带来幸福吗？.(n)</desc>
+    <desc lang="en">(R) Taiwanese indigenous children's choir VOX Nativa has made waves around the world with their aboriginal music. By making their voices heard, the conductor hopes to bring about positive change in the lives of these children from poverty-stricken native communities and preserve their culture as well. (重)发迹于玉山下的原声童声合唱团让全世界听见了台湾的声音。在万人瞩目的背后，却是一场深具意义的偏 乡教育实验。指挥马彼得想借着假日音乐学校，翻转部落复制贫穷的命运。他的教育理念真的能够改变部 落，为孩子们带来幸福吗？.(n)</desc>
   </programme>
   <programme start="20200320003000 +0800" stop="20200320010000 +0800" channel="Channel U">
     <title lang="en">好货驾到 Deals For Joy - EP 12</title>
@@ -11727,10 +11716,6 @@
   <programme start="20200320213000 +0800" stop="20200320233000 +0800" channel="Suria">
     <title lang="en">Nur 3 Pagi</title>
     <desc lang="en">Few weeks before their wedding day, Nur Jannah always wake up at 3am.  Unfortunately one night, Faiz meets with an accident on his way to meet Nur.  Nur continues to stay awake at 3am and decided to write a blog.  Her blog is followed by Abdul Hayy who decided to meet Nur.  It turns out that Nur is Abdul Hayy's daughter and Faiz is her blood brother.  Can Nur accept the fact and reality that she cannot marry Faiz?(n)</desc>
-  </programme>
-  <programme start="20200313110000 +0800" stop="20200313123000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Asia Now - EP 1</title>
-    <desc lang="en">Catch 'live' breaking news as it happens in Asia with in-depth analysis and expert opinions to the day's events.(n)</desc>
   </programme>
   <programme start="20200313123000 +0800" stop="20200313130000 +0800" channel="Channel NewsAsia">
     <title lang="en">Walk This Way - EP 1</title>
