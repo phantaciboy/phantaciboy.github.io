@@ -70,7 +70,8 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 # Hong Kong Channels
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://pull.scphsd.com/live/ae35244645ff222d28e7f4066afc3511/playlist.m3u8?wsSession=c4808692808c4b6b643aa704-158404051878980&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
+http://play.ggiptv.com:13164/play.m3u8?token=OKUpR%2F%2BZh%2F1WMmJKKhW0EENa&tid=gt&id=1
+# http://pull.scphsd.com/live/2d28e7f4066afc3511ae35244645ff22/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158416052332104&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://m.567it.com/jade.m3u8
@@ -85,10 +86,10 @@ http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=
 http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
-http://pull.scphsd.com/live/f4b32af7e92de40f0438e011bfa48586/playlist.m3u8
+http://play.ggiptv.com:13164/play.m3u8?token=gVTpMdBqhkn4qycR7Cn0gWpw&tid=gt&id=12
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
-http://pull.scphsd.com/live/76793660e726f14fef85a40a9d6d51c3/playlist.m3u8
+http://pull.scphsd.com/live/fef85a40a9d6d51c376793660e726f14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -99,7 +100,7 @@ http://stream.guihet.com/tv/116.php?id=12
 # http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/chunklist_b712704.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/chunklist_b262144.m3u8
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1584160421~exp=1584246821~acl=/newslive/smil:mobile_finance.smil/*~hmac=cfb0da34bccf57504ca8065f2e80f0ceee38a5c244b5a151d7ed8695c2f652a8
 
 #EXTINF:-1 tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" group-title="HONG KONG",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
@@ -111,7 +112,8 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
-http://pull.scphsd.com/live/b22074773d8ac4e346036d727dc2eca6/playlist.m3u8
+http://play.ggiptv.com:13164/v/thk.php?token=Rx00I9egVEwYEetrM4vNqy4%2F&id=viutv
+# http://pull.scphsd.com/live/b6d727dc2eca622074773d8ac4e34603/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",凤凰香港
 http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
@@ -124,76 +126,76 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&r
 
 # Japan Channels
 
-# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ANN_logo.svg.png" group-title="JAPAN",ANN - TV Asahi
+# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ANN_logo.svg.png" tvg-shift="+1" group-title="JAPAN",ANN - TV Asahi
 # https://www.youtube.com/watch?v=coYw-eVU0Ks&feature=emb_logo
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Asahi.png" group-title="JAPAN",BS朝日
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Asahi.png" tvg-shift="+1" group-title="JAPAN",BS朝日
 http://203.162.235.41:16914
 
-#EXTINF:-1 tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png" group-title="JAPAN",BSフジ
+#EXTINF:-1 tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png" tvg-shift="+1" group-title="JAPAN",BSフジ
 http://203.162.235.41:16911
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BS_Japan_logo.png" group-title="JAPAN",BSジャパン
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BS_Japan_logo.png" tvg-shift="+1" group-title="JAPAN",BSジャパン
 http://203.162.235.41:16915
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1280px-BS4_logo.svg.png" group-title="JAPAN",BS日テレ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1280px-BS4_logo.svg.png" tvg-shift="+1" group-title="JAPAN",BS日テレ
 http://203.162.235.41:16912
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/1280px-BS-TBS_logo.svg.png" group-title="JAPAN",BS-TBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/1280px-BS-TBS_logo.svg.png" tvg-shift="+1" group-title="JAPAN",BS-TBS
 http://203.162.235.41:16913
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/fuji-tv.jpeg" group-title="JAPAN",フジテレビ
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/fuji-tv.jpeg" tvg-shift="+1" group-title="JAPAN",フジテレビ
 http://203.162.235.41:16904
 
-# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/Japan-TV.jpg" group-title="JAPAN",JAPAN TV (Eng)
+# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/Japan-TV.jpg" tvg-shift="+1" group-title="JAPAN",JAPAN TV (Eng)
 # https://www.ustream.tv/channel/channeljapan
 
-# #EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" group-title="JAPAN",MBSテレビ
+# #EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" tvg-shift="+1" group-title="JAPAN",MBSテレビ
 # http://203.162.235.41:16910
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/NHK-General-TV.jpg" group-title="JAPAN",NHK総合
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/NHK-General-TV.jpg" tvg-shift="+1" group-title="JAPAN",NHK総合
 http://203.162.235.41:16903
 
 #EXTINF:-1 tvg-logo="https://freeetv.com/images/01_logo/nhk_world_japan.jpg" group-title="JAPAN",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 # http://203.162.235.41:16902
 
-#EXTINF:-1 tvg-logo="https://images.toutiaosg.com/storage/jp/e1a767943a1706d43203d4217f0efff0.jpeg" group-title="JAPAN", NHK华语视界
+#EXTINF:-1 tvg-logo="https://images.toutiaosg.com/storage/jp/e1a767943a1706d43203d4217f0efff0.jpeg" tvg-shift="+1" group-title="JAPAN", NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XnxyHYD/2000px-NHK-Educational-TV-logo-svg.png" group-title="JAPAN",NHK Eテレ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XnxyHYD/2000px-NHK-Educational-TV-logo-svg.png" tvg-shift="+1" group-title="JAPAN",NHK Eテレ
 http://203.162.235.41:16901
 
-#EXTINF:-1  tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png" group-title="JAPAN",NHK BSプレミアム
+#EXTINF:-1  tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png" tvg-shift="+1" group-title="JAPAN",NHK BSプレミアム
 http://203.162.235.41:16910
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ntvjapan.png" group-title="JAPAN",日テレ
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ntvjapan.png" tvg-shift="+1" group-title="JAPAN",日テレ
 http://203.162.235.41:16905
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/NTV-News-24.png" group-title="JAPAN",NTV News24
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/NTV-News-24.png" tvg-shift="+1" group-title="JAPAN",NTV News24
 # http://www.news24.jp/livestream/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/tbs.jpeg" group-title="JAPAN",TBSテレビ
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/tbs.jpeg" tvg-shift="+1" group-title="JAPAN",TBSテレビ
 http://203.162.235.41:16907
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png"" group-title="JAPAN",テレビ朝日
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png"" tvg-shift="+1" group-title="JAPAN",テレビ朝日
 http://203.162.235.41:16906
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" tvg-shift="+1" group-title="JAPAN",Tokyo MX 1
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" group-title="JAPAN",Tokyo MX 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" tvg-shift="+1" group-title="JAPAN",Tokyo MX 2
 http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",TV Tokyo
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Tokyo_logo_20110629.svg.png" tvg-shift="+1" group-title="JAPAN",TV Tokyo
 http://203.162.235.41:16908
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="JAPAN",ウェザーニュース
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" tvg-shift="+1" group-title="JAPAN",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 # http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="JAPAN",WOWOWシネマ
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" tvg-shift="+1" group-title="JAPAN",WOWOWシネマ
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 #EXTINF:-1  tvg-logo="https://www.nautiljon.com/images/societes/00/07/wowow_prime_7570.jpg",WOWOWプライム
