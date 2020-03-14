@@ -80,10 +80,6 @@
     <display-name lang="zh">香港開電視</display-name>
     <url>http://www.epg.i-cable.com</url>
   </channel>
-  <channel id="ViuTV">
-    <display-name lang="en">ViuTV</display-name>
-    <url>http://www.nowtv.now.com</url>
-  </channel>
   <channel id="NHK World-Japan (707)">
     <display-name lang="zh">NHK World Japan</display-name>
     <url>http://www.promo.mytvsuper.com.E</url>
@@ -7905,10 +7901,6 @@
     <category lang="en">General</category>
     <episode-num system="xmltv_ns">.10.</episode-num>
   </programme>
-  <programme start="20200314130000 +0800" stop="20200314140000 +0800" channel="Channel 5">
-    <title lang="en">Survivor 40  - EP 5</title>
-    <desc lang="en">For the hit reality show's landmark 40th season, 20 of the winners come back to prove how they fare against those who share the title and show who is the best of the best.(n)</desc>
-  </programme>
   <programme start="20200314140000 +0800" stop="20200314150000 +0800" channel="Channel 5">
     <title lang="en">Frozen Planet - EP 7</title>
     <desc lang="en">Focuses on life and the environment in both the Arctic and Antarctic.(n)</desc>
@@ -9057,10 +9049,6 @@
     <title lang="en">The World's Deadliest Weather S2 - EP 4</title>
     <desc lang="en">.Revealing archives and real footages of the meteorological phenomena, witness some of the most deadly natural disasters the planet has ever seen.(n)</desc>
   </programme>
-  <programme start="20200314130000 +0800" stop="20200314140000 +0800" channel="Channel 8">
-    <title lang="en">黄金年华之斗歌竞艺 Golden Age Talentime  - EP 24</title>
-    <desc lang="en">(R) A popular singing competition which provides the elderly with a platform to showcase their singing talent. (重)这个深受乐龄人士欢迎的歌唱比赛为爱唱歌的乐龄朋友提供了演出的平台。.(n)</desc>
-  </programme>
   <programme start="20200314140000 +0800" stop="20200314143000 +0800" channel="Channel 8">
     <title lang="en">今天不开工 Star Day Off - EP 9</title>
     <desc lang="en">(R) How do celebs spend their treasured off days away from the glitz and glamour? Star Day Off tracks these celebs down and follow them on their day offs, allowing viewers a sneak peek at the private lives of these celebrities. This episode features Hong Huifang and Zheng Geping. (重)光鲜亮丽的明星，休假时都在做些什么？ 《今天不开工》 让您和明星们拉近距离，看看他们私底下真实的一面。这一期艺人是洪慧芳和郑各评！.(n)</desc>
@@ -9977,10 +9965,6 @@
     <title lang="en">晚间新闻 News Tonight  - EP 16</title>
     <desc lang="en">Daily evening updates on top local news and world news. 《晚间新闻》每日为您提供最全面的本地与全球新闻报道。.(n)</desc>
   </programme>
-  <programme start="20200314130000 +0800" stop="20200314133000 +0800" channel="Channel U">
-    <title lang="en">As Long As You Live S2 - EP 1</title>
-    <desc lang="en">(R) "As Long As You Live II" continues to explore and understand how seniors are treated and what are the available options for seniors in countries like Netherlands, Switzerland, Germany, Canada and the USA. (重)全球人口老化，人生下半场越来越长，第二辑《长命百二岁》进军欧美，引领观众用新思维面对「老」问题。 「百二岁」参观荷兰的「失智村」和德国的「幽灵巴士站」，了解照顾认知障碍长者的窍门。节目去瑞士取经，探讨近年兴起的「时间银行」概念，透过服务长者换取老来有人照顾自己。采访队又帶大家窥探美国「冷冻人」的奥秘。.(n)</desc>
-  </programme>
   <programme start="20200314133000 +0800" stop="20200314143000 +0800" channel="Channel U">
     <title lang="en">幸福方程式 The Joymakers - EP 9</title>
     <desc lang="en">(R) What do football and eyeball have to do with each other? Nestled deep in the heart of rural India, there is an eye hospital where girls undergo football training as part of their course to become optometrists and managers. (重)足球和眼球有什么关系？深藏在印度最贫困的区域，有一家特殊的眼科医院。在这里，每一个想要成为验光师或在医院就职的女生，都必须学踢足球。.(n)</desc>
@@ -10778,10 +10762,6 @@
     <title lang="en">晚间新闻 News Tonight  - EP 16</title>
     <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day. U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。.(n)</desc>
   </programme>
-  <programme start="20200314130000 +0800" stop="20200314160000 +0800" channel="Vasantham">
-    <title lang="en">Anbe Vaa</title>
-    <desc lang="en">A good-for-nothing son of a rich heiress feels that he will be a responsible man after his marriage, but things do not go as he expects after his marriage.Starring: M.G.R &amp; B.Saroja Devi.(n)</desc>
-  </programme>
   <programme start="20200314160000 +0800" stop="20200314190000 +0800" channel="Vasantham">
     <title lang="en">Ae Dil Hai Musykil</title>
     <desc lang="en">Musician Ayan's quest for true love remains unfulfilled as Alizeh does not reciprocate his feelings. In his journey, he comes across different people who make him realize the power of unrequited love.(n)</desc>
@@ -11192,10 +11172,6 @@
   <programme start="20200321210000 +0800" stop="20200321220000 +0800" channel="Vasantham">
     <title lang="en">Vadi Ready Vedi - EP 11</title>
     <desc lang="en">Vadi Ready Vedi is Vadi's very own talkshow that is hilarious, delirious and uproarious, all at the same time! Featuring Singaporean, Malaysian and even Chennai special guests in the hot seat, the show  promises information with entertainment.(n)</desc>
-  </programme>
-  <programme start="20200314130000 +0800" stop="20200314140000 +0800" channel="Suria">
-    <title lang="en">My ID is Gangnam Beauty - EP 21</title>
-    <desc lang="en">When Kyung Seok kissed Kang Mi Rae to express how much he likes her, she responded with anxiety and he was reminded of how unattractive her original face had been. This comes after Do Kyung Seok had spotted a picture in the room of Kang Mi Rae with her original face, she tries to stop him from catching a glimpse of her picture. However, Kyung Seok had said 'you are just you' when Kang Mi Rae asked him if he would've ever liked her if she kept her old face.(n)</desc>
   </programme>
   <programme start="20200314140000 +0800" stop="20200314150000 +0800" channel="Suria">
     <title lang="en">My ID is Gangnam Beauty - EP 22</title>
@@ -11619,10 +11595,6 @@
   <programme start="20200321230000 +0800" stop="20200321233000 +0800" channel="Suria">
     <title lang="en">Detik 2019-2020 - EP 43</title>
     <desc lang="en">The half hour program analyses and dissect issues of concern to the Malay-Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.(n)</desc>
-  </programme>
-  <programme start="20200314130000 +0800" stop="20200314140000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Food In Our Time - EP 2</title>
-    <desc lang="en">Max Food is history on a plate. It tells the stories of who we are, and where we've been. Andre meets storytellers who are preserving and continuing the narrative of humanity through the things we eat.(n)</desc>
   </programme>
   <programme start="20200314140000 +0800" stop="20200314143000 +0800" channel="Channel NewsAsia">
     <title lang="en">Asia Now - EP 1</title>
@@ -18755,18 +18727,21 @@
   </programme>
   <programme start="20200318060000 +0800" stop="20200318063000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318063000 +0800" stop="20200318070000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318070000 +0800" stop="20200318090000 +0800" channel="01 有線電視第1台">
     <title lang="zh">Cable 早晨</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318090000 +0800" stop="20200318100000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開市埋位</title>
   </programme>
   <programme start="20200318100000 +0800" stop="20200318103000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200318103000 +0800" stop="20200318110000 +0800" channel="01 有線電視第1台">
     <title lang="zh">財經Facetime</title>
@@ -18779,12 +18754,13 @@
   </programme>
   <programme start="20200318123000 +0800" stop="20200318130000 +0800" channel="01 有線電視第1台">
     <title lang="zh">有線新聞</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318130000 +0800" stop="20200318140000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開市埋位</title>
   </programme>
   <programme start="20200318140000 +0800" stop="20200318143000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200318143000 +0800" stop="20200318144500 +0800" channel="01 有線電視第1台">
     <title lang="zh">講樓論市</title>
@@ -18802,7 +18778,7 @@
     <title lang="zh">夠鐘收市</title>
   </programme>
   <programme start="20200318160000 +0800" stop="20200318170000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大新銀行證劵服務特約 : 交易所直播室</title>
+    <title lang="zh">大新銀行證劵服務特約:交易所直播室</title>
   </programme>
   <programme start="20200318170000 +0800" stop="20200318173000 +0800" channel="01 有線電視第1台">
     <title lang="zh">大行報告</title>
@@ -18815,33 +18791,50 @@
   </programme>
   <programme start="20200318183000 +0800" stop="20200318190000 +0800" channel="01 有線電視第1台">
     <title lang="zh">建築藝術大發現</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318190000 +0800" stop="20200318193000 +0800" channel="01 有線電視第1台">
     <title lang="zh">新聞最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318193000 +0800" stop="20200318200000 +0800" channel="01 有線電視第1台">
     <title lang="zh">新聞最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318200000 +0800" stop="20200318203000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">好想去旅行 : Go Go 捷運 IV</title>
+    <title lang="zh">好想去旅行:Go Go 捷運 IV</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318203000 +0800" stop="20200318210000 +0800" channel="01 有線電視第1台">
     <title lang="zh">30分鐘大放餸</title>
+    <subtitles type="onscreen" />
   </programme>
-  <programme start="20200318210000 +0800" stop="20200318213000 +0800" channel="01 有線電視第1台">
+  <programme start="20200318210000 +0800" stop="20200318212500 +0800" channel="01 有線電視第1台">
     <title lang="zh">Fit 開有條路</title>
+    <subtitles type="onscreen" />
+  </programme>
+  <programme start="20200318212500 +0800" stop="20200318213000 +0800" channel="01 有線電視第1台">
+    <title lang="zh">德國孖人牌 ZWILLING Now 系列呈獻:日日有頭條</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318213000 +0800" stop="20200318222500 +0800" channel="01 有線電視第1台">
-    <title lang="zh">新封神演義[第48集]</title>
+    <title lang="zh">新封神演義 [第48集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200318222500 +0800" stop="20200318223000 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂即日鮮</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318223000 +0800" stop="20200318233000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開嚟見我</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200318233000 +0800" stop="20200319000000 +0800" channel="01 有線電視第1台">
     <title lang="zh">十一點半最前線</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200319000000 +0800" stop="20200319001500 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂頭條 E-news Headline</title>
@@ -18851,27 +18844,45 @@
   </programme>
   <programme start="20200319003000 +0800" stop="20200319010000 +0800" channel="01 有線電視第1台">
     <title lang="zh">30分鐘大放餸</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200319010000 +0800" stop="20200319012500 +0800" channel="01 有線電視第1台">
     <title lang="zh">Fit 開有條路</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200319012500 +0800" stop="20200319013000 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂即日鮮</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200319013000 +0800" stop="20200319020000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">好想去旅行 : Go Go 捷運 IV</title>
+    <title lang="zh">好想去旅行:Go Go 捷運 IV</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200319020000 +0800" stop="20200319030000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">新封神演義[第48集]</title>
+    <title lang="zh">新封神演義 [第48集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200319030000 +0800" stop="20200319040000 +0800" channel="01 有線電視第1台">
-    <title lang="zh">大力女都奉順[第16集]</title>
+    <title lang="zh">大力女都奉順 [第16集]</title>
+    <subtitles type="onscreen" />
+    <rating>
+      <value>家長指引</value>
+    </rating>
   </programme>
   <programme start="20200319040000 +0800" stop="20200319050000 +0800" channel="01 有線電視第1台">
     <title lang="zh">開嚟見我</title>
+    <subtitles type="onscreen" />
   </programme>
-  <programme start="20200319050000 +0800" stop="20200319053000 +0800" channel="01 有線電視第1台">
+  <programme start="20200319050000 +0800" stop="20200319052500 +0800" channel="01 有線電視第1台">
     <title lang="zh">時尚旅遊</title>
+    <subtitles type="onscreen" />
+  </programme>
+  <programme start="20200319052500 +0800" stop="20200319053000 +0800" channel="01 有線電視第1台">
+    <title lang="zh">德國孖人牌 ZWILLING Now 系列呈獻:日日有頭條</title>
+    <subtitles type="onscreen" />
   </programme>
   <programme start="20200319053000 +0800" stop="20200319054500 +0800" channel="01 有線電視第1台">
     <title lang="zh">娛樂頭條 E-news Headline</title>
