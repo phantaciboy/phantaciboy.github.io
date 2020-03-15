@@ -126,80 +126,80 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&r
 
 # Japan Channels
 
-# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ANN_logo.svg.png" tvg-shift="0" group-title="JAPAN",ANN - TV Asahi
+# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ANN_logo.svg.png" tvg-shift="+1" group-title="JAPAN",ANN - TV Asahi
 # https://www.youtube.com/watch?v=coYw-eVU0Ks&feature=emb_logo
 
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Asahi.png" tvg-shift="0" group-title="JAPAN",BS朝日
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Asahi.png" tvg-shift="+1" group-title="JAPAN",BS朝日
 http://203.162.235.41:16914
 
-#EXTINF:-1 tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png" tvg-shift="0" group-title="JAPAN",BSフジ
+#EXTINF:-1 tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png" tvg-shift="+1" group-title="JAPAN",BSフジ
 http://203.162.235.41:16911
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BS_Japan_logo.png" tvg-shift="0" group-title="JAPAN",BSジャパン
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/BS_Japan_logo.png" tvg-shift="+1" group-title="JAPAN",BSジャパン
 http://203.162.235.41:16915
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1280px-BS4_logo.svg.png" tvg-shift="0" group-title="JAPAN",BS日テレ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1280px-BS4_logo.svg.png" tvg-shift="+1" group-title="JAPAN",BS日テレ
 http://203.162.235.41:16912
 
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS TBS JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/1280px-BS-TBS_logo.svg.png" tvg-shift="0" group-title="JAPAN",BS-TBS
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-name="BS TBS JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BS-TBS_logo.svg/1280px-BS-TBS_logo.svg.png" tvg-shift="+1" group-title="JAPAN",BS-TBS
 http://203.162.235.41:16913
 
-#EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/fuji-tv.jpeg" tvg-shift="0" group-title="JAPAN",フジテレビ
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-name="Fuji TV JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/fuji-tv.jpeg" tvg-shift="+1" group-title="JAPAN",フジテレビ
 http://203.162.235.41:16904
 
-# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/Japan-TV.jpg" tvg-shift="0" group-title="JAPAN",JAPAN TV (Eng)
+# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/Japan-TV.jpg" tvg-shift="+1" group-title="JAPAN",JAPAN TV (Eng)
 # https://www.ustream.tv/channel/channeljapan
 
-# #EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" tvg-shift="0" group-title="JAPAN",MBSテレビ
+# #EXTINF:-1 tvg-logo="https://i.imgur.com/967Ud6N.png" tvg-shift="+1" group-title="JAPAN",MBSテレビ
 # http://203.162.235.41:16910
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/NHK-General-TV.jpg" tvg-shift="0" group-title="JAPAN",NHK総合
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/NHK-General-TV.jpg" tvg-shift="+1" group-title="JAPAN",NHK総合
 http://203.162.235.41:16903
 
 #EXTINF:-1 tvg-logo="https://freeetv.com/images/01_logo/nhk_world_japan.jpg" group-title="JAPAN",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 # http://203.162.235.41:16902
 
-#EXTINF:-1 tvg-logo="https://images.toutiaosg.com/storage/jp/e1a767943a1706d43203d4217f0efff0.jpeg" tvg-shift="0" group-title="JAPAN", NHK华语视界
+#EXTINF:-1 tvg-logo="https://images.toutiaosg.com/storage/jp/e1a767943a1706d43203d4217f0efff0.jpeg" tvg-shift="+1" group-title="JAPAN", NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eTele.jp" tvg-name="Eテレ JP" tvg-logo="https://i.postimg.cc/9XnxyHYD/2000px-NHK-Educational-TV-logo-svg.png" tvg-shift="0" group-title="JAPAN",NHK Eテレ
+#EXTINF:-1 tvg-id="eTele.jp" tvg-name="Eテレ JP" tvg-logo="https://i.postimg.cc/9XnxyHYD/2000px-NHK-Educational-TV-logo-svg.png" tvg-shift="+1" group-title="JAPAN",NHK Eテレ
 http://203.162.235.41:16901
 
-#EXTINF:-1 tvg-id="BSPremium.jp" tvg-name="BSプレミアム JP" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png" tvg-shift="0" group-title="JAPAN",NHK BSプレミアム
+#EXTINF:-1 tvg-id="BSPremium.jp" tvg-name="BSプレミアム JP" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/bs103.png" tvg-shift="+1" group-title="JAPAN",NHK BSプレミアム
 http://203.162.235.41:16910
 
-#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ntvjapan.png" tvg-shift="0" group-title="JAPAN",日テレ
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ntvjapan.png" tvg-shift="+1" group-title="JAPAN",日テレ
 http://203.162.235.41:16905
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/NTV-News-24.png" tvg-shift="0" group-title="JAPAN",NTV News24
+#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/NTV-News-24.png" tvg-shift="+1" group-title="JAPAN",NTV News24
 # http://www.news24.jp/livestream/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
-#EXTINF:-1 tvg-id="TBS1.jp" tvg-name="TBS 1 JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/tbs.jpeg" tvg-shift="0" group-title="JAPAN",TBSテレビ
+#EXTINF:-1 tvg-id="TBS1.jp" tvg-name="TBS 1 JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/tbs.jpeg" tvg-shift="+1" group-title="JAPAN",TBSテレビ
 http://203.162.235.41:16907
 
-#EXTINF:-1 tvg-id="Asahi1.jp" tvg-name="Asahi 1 JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png"" tvg-shift="0" group-title="JAPAN",テレビ朝日
+#EXTINF:-1 tvg-id="Asahi1.jp" tvg-name="Asahi 1 JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1200px-TV_Asahi_Logo.svg.png"" tvg-shift="+1" group-title="JAPAN",テレビ朝日
 http://203.162.235.41:16906
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" tvg-shift="0" group-title="JAPAN",Tokyo MX 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" tvg-shift="+1" group-title="JAPAN",Tokyo MX 1
 https://movie.mcas.jp/switcher/smil:mcas1.smil/chunklist_b1800000.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" tvg-shift="0" group-title="JAPAN",Tokyo MX 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5B2ALs9.png" tvg-shift="+1" group-title="JAPAN",Tokyo MX 2
 http://movie.mcas.jp/mcas/smil:mx2_prod.smil/chunklist_b364000.m3u8
 
-#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Tokyo_logo_20110629.svg.png" tvg-shift="0" group-title="JAPAN",TV Tokyo
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Tokyo_logo_20110629.svg.png" tvg-shift="+1" group-title="JAPAN",TV Tokyo
 http://203.162.235.41:16908
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" tvg-shift="0" group-title="JAPAN",ウェザーニュース
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tYZz5CC.png" tvg-shift="+1" group-title="JAPAN",ウェザーニュース
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 # http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" tvg-shift="0" group-title="JAPAN",WOWOWシネマ
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" tvg-shift="+1" group-title="JAPAN",WOWOWシネマ
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-#EXTINF:-1  tvg-logo="https://www.nautiljon.com/images/societes/00/07/wowow_prime_7570.jpg" tvg-shift="0" group-title="JAPAN",WOWOWプライム
+#EXTINF:-1  tvg-logo="https://www.nautiljon.com/images/societes/00/07/wowow_prime_7570.jpg" tvg-shift="+1" group-title="JAPAN",WOWOWプライム
 http://203.162.235.41:16916
 
-#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" tvg-shift="0" group-title="JAPAN",CGN JAPAN / 日本
+#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" tvg-shift="+1" group-title="JAPAN",CGN JAPAN / 日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
