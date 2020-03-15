@@ -126,10 +126,10 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&r
 
 # Japan Channels
 
-# #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ANN_logo.svg.png" tvg-shift="-1" group-title="JAPAN",ANN - TV Asahi
+# #EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/ANN_logo.svg.png" tvg-shift="-1" group-title="JAPAN",ANN - TV Asahi
 # https://www.youtube.com/watch?v=coYw-eVU0Ks&feature=emb_logo
 
-#EXTINF:-1 tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Asahi.png" tvg-shift="-1" group-title="JAPAN",BS朝日
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-name="BS Asahi JP" tvg-logo="http://tvjapanlive.com/wp-content/uploads/2019/05/TV_Asahi.png" tvg-shift="-1" group-title="JAPAN",BS朝日
 http://203.162.235.41:16914
 
 #EXTINF:-1 tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png" tvg-shift="-1" group-title="JAPAN",BSフジ
