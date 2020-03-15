@@ -70,8 +70,7 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 # Hong Kong Channels
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://play.ggiptv.com:13164/play.m3u8?token=OKUpR%2F%2BZh%2F1WMmJKKhW0EENa&tid=gt&id=1
-# http://pull.scphsd.com/live/2d28e7f4066afc3511ae35244645ff22/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158416052332104&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
+http://pull.scphsd.com/live/2d28e7f4066afc3511ae35244645ff22/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://m.567it.com/jade.m3u8
@@ -86,7 +85,7 @@ http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=
 http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
-http://play.ggiptv.com:13164/play.m3u8?token=gVTpMdBqhkn4qycR7Cn0gWpw&tid=gt&id=12
+http://pull.scphsd.com/live/f0438e011bfa485f4b32af7e92de4086/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
 http://pull.scphsd.com/live/fef85a40a9d6d51c376793660e726f14/playlist.m3u8
@@ -96,11 +95,12 @@ http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://stream.guihet.com/tv/116.php?id=12
 
-# #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
+#EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 # http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/chunklist_b712704.m3u8
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1584288885~exp=1584375285~acl=/newslive/smil:mobile_finance.smil/*~hmac=ed2857534c86d0c2996ac099caea96ce4142471cc028cbb9b78de48a340bd402
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1584160421~exp=1584246821~acl=/newslive/smil:mobile_finance.smil/*~hmac=cfb0da34bccf57504ca8065f2e80f0ceee38a5c244b5a151d7ed8695c2f652a8
+http://play.ggiptv.com:13164/play.m3u8?token=xI70PMi5K7koRpiLMvrWOzx9&tid=gt&id=10
 
 #EXTINF:-1 tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/xinghe.gif" group-title="HONG KONG",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
