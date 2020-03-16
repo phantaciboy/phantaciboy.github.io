@@ -110,6 +110,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
 # http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 https://nowtv100-i.akamaihd.net/hls/live/229941/live1/master.m3u8
+rtmp://live9.yshdtv.com/live/12110_7df34981bfa711e792905cb9018cf0d4
 
 #EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="Viu TV 99 HK" tvg-logo="https://viu.tv/assets/img/logo.png" tvg-shift="0" group-title="HONG KONG",ViuTV
 # http://play.ggiptv.com:13164/play.m3u8?token=ktLNU56qNxKpVJVO4iVG0vHd&tid=gt&id=8
