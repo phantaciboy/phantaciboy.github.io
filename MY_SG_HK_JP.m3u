@@ -107,11 +107,13 @@ http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/HK_open_tv_logo.jpg/200px-HK_open_tv_logo.jpg" tvg-id="5f5afc9eb373927c74da38bfc3e658e9" group-title="HONG KONG",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-# #EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
+#EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" tvg-id="2c40ac1e0355802fb24b642c075edac9" group-title="HONG KONG",ViuTV
 # http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+https://nowtv100-i.akamaihd.net/hls/live/229941/live1/master.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="Viu TV 99 HK" tvg-logo="https://viu.tv/assets/img/logo.png" tvg-shift="0" group-title="HONG KONG",ViuTV
-http://play.ggiptv.com:13164/play.m3u8?token=ktLNU56qNxKpVJVO4iVG0vHd&tid=gt&id=8
+# http://play.ggiptv.com:13164/play.m3u8?token=ktLNU56qNxKpVJVO4iVG0vHd&tid=gt&id=8
+http://103.89.176.45:8278/Viu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",凤凰香港
 http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
