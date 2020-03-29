@@ -205,54 +205,54 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 
 # Christian Channels
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png" group-title="CHRISTIAN", 香港創世電視香港
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png" group-title="CHRISTIAN",創世電視台
 https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 #https://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_k5i4l96e/sd/6000/t/5V7cw-w4PGPKM_UnuQdQlA/index-s32.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.chinesehope.tv/css/img/HopeChannel-horizontal_zh.svg" group-title="CHRISTIAN", 希望電視台
+#EXTINF:-1 tvg-logo="http://www.chinesehope.tv/css/img/HopeChannel-horizontal_zh.svg" group-title="CHRISTIAN",希望電視台
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&rebase=on
 #https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="CHRISTIAN", GOODTV綜合台
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="CHRISTIAN",GOODTV綜合台
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="CHRISTIAN", GOODTV真理台
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="CHRISTIAN",GOODTV真理台
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/4_file.jpg" group-title="CHRISTIAN", GOODTV國度報導
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/4_file.jpg" group-title="CHRISTIAN",GOODTV國度報導
 https://vod.streamingfast.net/hls-vod/video/1200k/N108001_0035_1200k.mp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/30_file.jpg" group-title="CHRISTIAN", GOODTV天堂敬拜
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/30_file.jpg" group-title="CHRISTIAN",GOODTV天堂敬拜
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="CHRISTIAN", GOODTV禱告頻道
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="CHRISTIAN",GOODTV禱告頻道
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/36_file.jpg" group-title="CHRISTIAN", GOODTV特會系列：超自然大能．醫治釋放
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/36_file.jpg" group-title="CHRISTIAN",GOODTV特會系列：超自然大能．醫治釋放
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch36-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="CHRISTIAN", GOODTV維他命施
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="CHRISTIAN",GOODTV維他命施
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" group-title="CHRISTIAN", GOODTV愛+好醫生 短版
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" group-title="CHRISTIAN",GOODTV愛+好醫生 短版
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="CHRISTIAN", GOODTV健康新煮流 短版
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="CHRISTIAN",GOODTV健康新煮流 短版
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/14_file.jpg" group-title="CHRISTIAN", GOODTV真情部落格
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/14_file.jpg" group-title="CHRISTIAN",GOODTV真情部落格
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/31_file.jpg" group-title="CHRISTIAN", GOODTV福音佈道音樂會
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/31_file.jpg" group-title="CHRISTIAN",GOODTV福音佈道音樂會
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="CHRISTIAN", GOODTV幸福學堂
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="CHRISTIAN",GOODTV幸福學堂
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch41-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="CHRISTIAN", GOODTV烤箱讀書會
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="CHRISTIAN",GOODTV烤箱讀書會
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" group-title="CHRISTIAN", GOODTV卡通
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" group-title="CHRISTIAN",GOODTV卡通
 https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" tvg-shift="-1" group-title="CHRISTIAN",CGN JAPAN / 日本
