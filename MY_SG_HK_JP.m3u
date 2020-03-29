@@ -51,7 +51,7 @@ https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 # Singapore Channels
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="SINGAPORE",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8|Referer=https://www.mewatch.sg
 # https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8|User-Agent=Mozilla/5.0 (Linux; Tizen 2.3) AppleWebKit/538.1 (KHTML, like Gecko)Version/2.3 TV Safari/538.1
 
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png" group-title="SINGAPORE",Channel 8 
@@ -203,3 +203,26 @@ http://203.162.235.41:16916
 
 #EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" tvg-shift="-1" group-title="JAPAN",CGN JAPAN / 日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+
+# Christian Channels
+
+#EXTINF:-1 group-title="CHRISTIAN", 台-GOODTV好消息1
+http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+
+#EXTINF:-1 group-title="CHRISTIAN",台-GOODTV好消息1
+http://live.streamingfast.net/osmflivech1.m3u8
+
+#EXTINF:-1 group-title="CHRISTIAN",台-GOODTV好消息2
+http://live.streamingfast.net/osmflivech2.m3u8
+
+#EXTINF:-1 group-title="CHRISTIAN",台-GoodTV好消息
+http://live.streamingfast.net/osmflivech3.m3u8
+
+#EXTINF:-1 group-title="CHRISTIAN",台-GOODTV经典音乐
+http://live.streamingfast.net/osmflivech4.m3u8
+
+#EXTINF:-1 group-title="CHRISTIAN",台-GOODTV美食旅游台
+http://live.streamingfast.net/osmflivech14.m3u8
+
+#EXTINF:-1 group-title="CHRISTIAN",台-GOODTV生活台
+http://live.streamingfast.net/osmflivech12.m3u8
