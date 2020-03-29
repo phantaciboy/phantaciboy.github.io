@@ -7257,10 +7257,6 @@
     <category lang="en">General</category>
     <episode-num system="xmltv_ns">.10.</episode-num>
   </programme>
-  <programme start="20200329181000 +0800" stop="20200329210000 +0800" channel="Channel 5">
-    <title lang="en">Spectre</title>
-    <desc lang="en">A cryptic message from Bond's past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.(n)</desc>
-  </programme>
   <programme start="20200329210000 +0800" stop="20200329213000 +0800" channel="Channel 5">
     <title lang="en">News 5</title>
     <desc lang="en">The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.(n)</desc>
@@ -7929,40 +7925,44 @@
     <desc lang="en">Lieutenant Joe Kenda and his Colorado Springs crime-fighting team have solved an unprecedented 387 homicide investigations, resulting in a 92% solve rate. This series takes viewers behind the scenes with one of the world's best homicide detectives to learn how murders are solved..(n)</desc>
   </programme>
   <programme start="20200403000000 +0800" stop="20200403003000 +0800" channel="Channel 5">
-    <title lang="en">Kin - EP 370</title>
-    <desc lang="en">Dr Shen and Ah Yoke have an emotional encounter that leads to him calling off the wedding. Zara feels all hope is lost when Adina tells her how difficult it is to get her marriage annulled. Emily learns something from Celia about Jessica's mother.(n)</desc>
+    <title lang="en">Kin - EP 371</title>
+    <desc lang="en">Convinced that Yang is manipulating Dr Shen into breaking up with her, Ah Yoke issues a counter-statement to dispute the decision to call of the engagement. Adina confronts Rosnani for her role in encouraging Zara to divorce Razali.(n)</desc>
   </programme>
-  <programme start="20200403003000 +0800" stop="20200403010000 +0800" channel="Channel 5">
-    <title lang="en">On The Red Dot - The Food That Made Me - EP 43</title>
-    <desc lang="en">When Leena's grandma passed away, her family recipes were lost with her. But a search for her culinary heritage leads her to an iconic dish in Singapore that cannot even be found in India. Our food tells us incredible stories of how we lived, fought and survived. Join 5 personalities as they embark on a journey to discover their past through the traditional food that they loved.(n)</desc>
+  <programme start="20200403003000 +0800" stop="20200403013000 +0800" channel="Channel 5">
+    <title lang="en">Jamestown S3 - EP 4</title>
+    <desc lang="en">An extraordinary creature transfixes the town and a race to capture the beast ensues, while Silas must face the consequences of his attack on Yeardley. Elsewhere, Opechancanough makes a bold political move and Jocelyn finally weakens the unfathomable Willmus.(n)</desc>
   </programme>
-  <programme start="20200403010000 +0800" stop="20200403015000 +0800" channel="Channel 5">
-    <title lang="en">The Ellen DeGeneres Show 17 - EP 34</title>
-    <desc lang="en">Guest host "tWitch" welcomes Max Greenfield ("The Neighborhood") and Ariel Winter ("Modern Family").(n)</desc>
+  <programme start="20200403013000 +0800" stop="20200403020000 +0800" channel="Channel 5">
+    <title lang="en">Arts 21  - EP 132</title>
+    <desc lang="en">New episodes of Arts 21.(n)</desc>
   </programme>
-  <programme start="20200403015000 +0800" stop="20200403024000 +0800" channel="Channel 5">
-    <title lang="en">NCIS S14 - EP 20</title>
-    <desc lang="en">A vice admiral's laptop is infected with ransomware and he enlists McGee's help to track down the hacker before the computer virus eliminates his personal and professional files. Meanwhile, Alex takes time off to assist her mother, after she receives a 911 text.(n)</desc>
+  <programme start="20200403020000 +0800" stop="20200403023000 +0800" channel="Channel 5">
+    <title lang="en">Euromaxx  - EP 131</title>
+    <desc lang="en">Euromaxx is a lifestyle magazine show which features images and stories that reflect the rich diversity of cultural life in Europe. It also provides an insight into Europe and the people who live there.(n)</desc>
+  </programme>
+  <programme start="20200403023000 +0800" stop="20200403024000 +0800" channel="Channel 5">
+    <title lang="en">Just For Laughs Gags 18 - EP 8</title>
+    <desc lang="en">Just For Laughs will tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.(n)</desc>
   </programme>
   <programme start="20200403024000 +0800" stop="20200403031000 +0800" channel="Channel 5">
-    <title lang="en">The Simpsons 29 (HD) - EP 2</title>
-    <desc lang="en">Lisa's sad experience is adapted into a graphic novel, which becomes a Broadway show.(n)</desc>
+    <title lang="en">The Simpsons 29 (HD) - EP 3</title>
+    <desc lang="en">Homer launches Maggie's baby-celebrity career with her whistling talent.(n)</desc>
   </programme>
   <programme start="20200403031000 +0800" stop="20200403034000 +0800" channel="Channel 5">
-    <title lang="en">The Carbonaro Effect S4 - EP 7</title>
+    <title lang="en">The Carbonaro Effect S4 - EP 8</title>
     <desc lang="en">Michael Carbonaro is a magician by trade, but a prankster by heart. In THE CARBONARO EFFECT, Michael performs baffling tricks on unsuspecting people in everyday situations, all caught on hidden camera. Everyone is left stunned and delighted, even though they have no idea what just hit them.(n)</desc>
   </programme>
   <programme start="20200403034000 +0800" stop="20200403041000 +0800" channel="Channel 5">
-    <title lang="en">In Cold Blood - EP 6</title>
-    <desc lang="en">How much abuse can a woman take before enough is enough ? For a 56 year old twice divorced woman, her life changed when she took pity on a man living on the streets and brought him home to care for him. It did not bother her that he liked the bottle too much and would beat her up during his bouts of drunken fits. But things got worse and during one of the beatings, she finally snapped and stuck a knife in him, ending their relationship permanently.(n)</desc>
+    <title lang="en">The Noise S1 - EP 19</title>
+    <desc lang="en">To succeed in THE NOISE, teams of contestants must complete seemingly easy challenges without making a single sound. Can they pedal a bicycle or unzip a sports bag or open a can of coke while staying completely quiet?(n)</desc>
   </programme>
   <programme start="20200403041000 +0800" stop="20200403051000 +0800" channel="Channel 5">
-    <title lang="en">Around The World With Manu Feildel - EP 5</title>
+    <title lang="en">Around The World With Manu Feildel - EP 6</title>
     <desc lang="en">For many years Manu Feildel has dreamt of travelling the route of Jules Vern's Around the World in 80 Days, and discovering the food that would have featured had it been his adventure. Over a long lunch with his "long suffering" agent, who has heard him talk about his dream for many years.(n)</desc>
   </programme>
   <programme start="20200403051000 +0800" stop="20200403060000 +0800" channel="Channel 5">
-    <title lang="en">The Ellen DeGeneres Show 17 - EP 18</title>
-    <desc lang="en">Ellen welcomes Tyler Perry ("The Oval" and "Sistas"). Marshmello and Kane Brown perform their hit, "One Thing Right".(n)</desc>
+    <title lang="en">The Ellen DeGeneres Show 17 - EP 19</title>
+    <desc lang="en">Cardi B, Chance The Rapper and T.I. will  chat about their new hip-hop talent series, "Rhythm and Flow," the first Netflix singing competition show. Other guests are Nacho Figueras ("10th Annual Veuve Clicquot Polo Classic") and the new supergroup The Highwaywomen who perform "Redesigning Women".(n)</desc>
   </programme>
   <programme start="20200403060000 +0800" stop="20200403063000 +0800" channel="Channel 5">
     <title lang="en">All Over The Workplace - EP 3</title>
@@ -8357,14 +8357,6 @@
   <programme start="20200405224000 +0800" stop="20200405231000 +0800" channel="Channel 5">
     <title lang="en">The World's Deadliest Drivers - EP 7</title>
     <desc lang="en">In this series, we see hilarious, outrageous and hazzardous footage taken directly from streets around the globe. From the motorcyclist who ended up back-flipping off a cliff, to the have-a-go hero who pulled a grandmother out of a burning car.(n)</desc>
-  </programme>
-  <programme start="20200329183000 +0800" stop="20200329190000 +0800" channel="Channel 8">
-    <title lang="en">狮城6点半 Singapore Today  - EP 104</title>
-    <desc lang="en">(Live) Daily updates on local news headlines and stories. （现场直播）《狮城6点半》每日为您提供最全面的本地新闻头条与报道。.(n)</desc>
-  </programme>
-  <programme start="20200329190000 +0800" stop="20200329200000 +0800" channel="Channel 8">
-    <title lang="en">春花望露 Spring Flower  - EP 429</title>
-    <desc lang="en">A-Tao has no choice but to move into Xiunv's house as A-Ma-Zai has left. Meanwhile, Tianzhu quarrels with A-Tao when they have dinner with Xiunv, Chunsheng and Xiaomei. (PG)阿马仔悄然独自离去，阿桃只好搬去与秀女同住。某日阿桃和秀女受邀到春生家吃晚饭，席间阿桃和天助发生激烈争吵，不欢而散。.(n)</desc>
   </programme>
   <programme start="20200329200000 +0800" stop="20200329210000 +0800" channel="Channel 8">
     <title lang="en">春花望露 Spring Flower  - EP 430</title>
@@ -9282,14 +9274,6 @@
     <title lang="en">愿者上钩 CyberPunk'D - EP 1</title>
     <desc lang="en">Strong passwords, privacy and good-old common sense. Those are the basics of good cyber-hygiene. Comedian Fakkah Fuzz learns more about how hacks happen, and how to stay safe on the internet.  法卡法兹就要踏上一段前所未有的旅程，去了解网络安全究竟。   中世纪时期的密码，是给拥有特权的人士用来进入堡垒或城堡的。它简单、有效，却又异常脆弱。   现在，我们即使拥有再高科技的保安设备，也抵不过一个密码用到底的行为。      所以，尽管互联网危机四伏，却不是防不胜防的。只有那些不愿去面对、不愿去防备的人，才会落得《愿者上钩》的下场。.(n)</desc>
   </programme>
-  <programme start="20200329180000 +0800" stop="20200329190000 +0800" channel="Channel U">
-    <title lang="en">医生们 Doctors  - EP 10</title>
-    <desc lang="en">(Dual Language-Mandarin and Korean)(R) Huijing is stunned when she witnesses an accident involving Xiuche. Fortunately, Zhihong arrives and renders timely help. Zhihong's calmness during operation saves Xiuche. Huijing is full of admiration and gratitude for Zhihong. (PG-部分画面令人不安)(重)(双声道-中/韩)慧静在路上见秀澈被送去医院时和迎面而来的一辆汽车相撞倒地，顿时吓傻了，方寸大乱，幸好智弘急忙赶去现场帮助抢救。由于智弘及时冷静处理手术，秀澈总算逃过鬼门关。慧静对智弘又钦佩又感激。.(n)</desc>
-  </programme>
-  <programme start="20200329190000 +0800" stop="20200329210000 +0800" channel="Channel U">
-    <title lang="en">中国梦之声：我们的歌 Young Forever - EP 9</title>
-    <desc lang="en">"Young Forever" is a new music variety where established singers such as Hacken Lee, Fei Yu Qing, Grasshoppers, Francis Yip will pair with the new generation of singers like Henry Lau, Mao Bu Yi, Hua Chen Yu etc to perform a re-arranged song in their own style.  "中国梦之声：我们的歌"启用了全新节目模式，旨在让榜样歌手与新声歌手联手同台竞演，两代歌手在不知对方身份情况下合唱同一首歌，“听歌识人”完成互选，并在组队竞演、对抗踢馆选手中不断挑战音乐进阶，共赴巅峰对决。暂定出席新生代歌手包括肖战，华晨宇，毛不易，刘宪华，陈意涵 etc. 榜样歌手会有李克勤，任贤齐，费玉清，周华健，草蜢，叶丽仪，徐小凤等.(n)</desc>
-  </programme>
   <programme start="20200329210000 +0800" stop="20200329220000 +0800" channel="Channel U">
     <title lang="en">天生一对 Love Destiny - EP 11</title>
     <desc lang="en">Phaulkon is infatuated by Mali and forces her to marry him. In order to restore Karaket's reputation, Ketsurang apologises to the servant Karaket has beaten before and also extends her friendship to Janwad. (PG)华尔康看上茉莉，并强迫茉莉嫁给他。为了帮佳拉洁挽救名声，佳苏兰向被佳拉洁毒打的仆人道歉，更对珍华表示善意。.(n)</desc>
@@ -10051,9 +10035,6 @@
     <title lang="en">News Tonight  - EP 5</title>
     <desc lang="en">A comprehensive half-hour news programme, NEWS TONIGHT provides viewers with important local, international and financial developments for the day. U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。.(n)</desc>
   </programme>
-  <programme start="20200329190000 +0800" stop="20200329203000 +0800" channel="Vasantham">
-    <title lang="en">Yaar Antha Star 2020Wildcard Round</title>
-  </programme>
   <programme start="20200329203000 +0800" stop="20200329210000 +0800" channel="Vasantham">
     <title lang="en">Tamil Seithi - EP 364</title>
     <desc lang="en">Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http:--seithi.mediacorp.sg-.(n)</desc>
@@ -10440,18 +10421,6 @@
   <programme start="20200405203000 +0800" stop="20200405210000 +0800" channel="Vasantham">
     <title lang="en">Tamil Seithi  - EP 5</title>
     <desc lang="en">Tamil Daily News.(n)</desc>
-  </programme>
-  <programme start="20200329183000 +0800" stop="20200329190000 +0800" channel="Suria">
-    <title lang="en">Jejak POS TKI - EP 5</title>
-    <desc lang="en">Head on over to Yogyakarta with Anwar Tahar and team where they visit Jogja's most popular hotspots such as Beringharjo Market, famous for their array of batik products, Ketep Pass, Malioboro Street and Ngarsopuro Night Market in Solo.(n)</desc>
-  </programme>
-  <programme start="20200329190000 +0800" stop="20200329193000 +0800" channel="Suria">
-    <title lang="en">Helo Switzerland</title>
-    <desc lang="en">This Travelogue features host Ben Ali's exploration to several important destinations in Switzerland including the popular big cities, small towns and interesting locations in the outskirts.  More interestingly, many adventure tips for budget travelers will be revealed to guide the audience.Singaporeans don't often think of themselves as islanders - but the outlying islands are rich in cultural and social history. This feature gives us access to some of Singapore's most unique islands.(n)</desc>
-  </programme>
-  <programme start="20200329193000 +0800" stop="20200329200000 +0800" channel="Suria">
-    <title lang="en">Hola Spain Bersama Keith Foo - EP 9</title>
-    <desc lang="en">Today Keith is in Bilbao and he happens to be in the thick action of Athletica Bilbao post winner celebration.  Then to Ayuntamiento or the Town Council, rowing a boat along Ria De Nevion or Nevion River.  He then goes to Euskalduna Palacio, a concert hall.  Next to Cogolludo, a village located far in Guadalajara.   Keith manages to witness the Bull Release Festival in Cogolludo.(n)</desc>
   </programme>
   <programme start="20200329200000 +0800" stop="20200329203000 +0800" channel="Suria">
     <title lang="en">Berita 2019-2020 - EP 364</title>
@@ -10876,18 +10845,6 @@
   <programme start="20200405230000 +0800" stop="20200405233000 +0800" channel="Suria">
     <title lang="en">Jejak Jenayah 2020 - EP 1</title>
     <desc lang="en">Crimewatch started its run in November 1986 and is the longest running English docu-drama series in Singapore. The programme showcases crimes solved by the Singapore Police Force, features appeals for unsolved cases and dispenses crime prevention advice to promote public awareness towards trending crimes.(n)</desc>
-  </programme>
-  <programme start="20200329183000 +0800" stop="20200329190000 +0800" channel="Channel NewsAsia">
-    <title lang="en">Correspondents' Diary - EP 52</title>
-    <desc lang="en">Highlights of news stories and features by CNA's network of Correspondents based in major cities across the region.(n)</desc>
-  </programme>
-  <programme start="20200329190000 +0800" stop="20200329190200 +0800" channel="Channel NewsAsia">
-    <title lang="en">Headline News - EP 1</title>
-    <desc lang="en">Update on local and world news.(n)</desc>
-  </programme>
-  <programme start="20200329190200 +0800" stop="20200329193000 +0800" channel="Channel NewsAsia">
-    <title lang="en">On The Red Dot - The Food That Made Me - EP 43</title>
-    <desc lang="en">When Leena's grandma passed away, her family recipes were lost with her. But a search for her culinary heritage leads her to an iconic dish in Singapore that cannot even be found in India. Our food tells us incredible stories of how we lived, fought and survived. Join 5 personalities as they embark on a journey to discover their past through the traditional food that they loved.(n)</desc>
   </programme>
   <programme start="20200329193000 +0800" stop="20200329200000 +0800" channel="Channel NewsAsia">
     <title lang="en">Gangnam Insider's Picks - EP 6</title>
@@ -19549,8 +19506,7 @@
     <category lang="en">Lifestyle</category>
   </programme>
   <programme start="20200329003000 +0800" stop="20200329010000 +0800" channel="ViuTV">
-    <title lang="en">Start From Hotspring E7</title>
-    <sub-title lang="en">親手學做蕎麥麵</sub-title>
+    <title lang="en">Start From Hotspring E7 -親手學做蕎麥麵</title>
     <desc lang="en">今集兩位主持將會到達石川縣有個大型工藝村, 親手學做蕎麥麵, 將地道日本文化細味品嚐。Michelle更會走訪日本最悠久法師旅館,  經歷時間風霜嘅傳統日式庭院, 古樹巨木、流水池塘、巖石擺設、幽邃小徑, 像世外桃源另一片天地, 不同風格的房間更令人有穿梭不同時空的感覺!金澤市盛產嘅金箔產品幾乎佔全國100%, 四處都有閃爍耀目的金箔!兩位主持將跟金箔師傅自製金箔紀念品, 把金箔玩弄於鼓掌之中!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Travelogue</category>
@@ -19562,8 +19518,7 @@
     <category lang="en">Talkshow</category>
   </programme>
   <programme start="20200329011500 +0800" stop="20200329013000 +0800" channel="ViuTV">
-    <title lang="en">LEGO Friends Presents: Friends Welcome to Heartlake City E2</title>
-    <sub-title lang="en">友誼之家的訪客</sub-title>
+    <title lang="en">LEGO Friends Presents: Friends Welcome to Heartlake City E2 -友誼之家的訪客</title>
     <desc lang="en">心湖城正面對一項大危機, 需要一班有心的朋友幫助心湖城渡過難關。五位最好朋友: Emma, Stephanie, Mia, Olivia及Andrea決定齊心合力, 組成心湖城的Friends超級女子組合, 發揮她們的小宇宙, 互相善用優點及彌補缺點, 她們證明平凡的小女孩一樣可以創造奇蹟!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Animation</category>
@@ -19572,8 +19527,7 @@
     </rating>
   </programme>
   <programme start="20200329013000 +0800" stop="20200329020000 +0800" channel="ViuTV">
-    <title lang="en">Spin Fighters 4 E24</title>
-    <sub-title lang="en">再見, 爸爸的信物</sub-title>
+    <title lang="en">Spin Fighters 4 E24 -再見, 爸爸的信物</title>
     <desc lang="en">科菲, 一個想要實現他父親的旋轉戰鬥機戰鬥夢想的青少年, 已經報名參加了旋轉戰鬥機比賽。帶著對旋轉戰鬥機的熱愛, 他結識了約克、謝雅和其他朋友, 甚至得到了旋轉戰鬥機的發明者--奇特博士的認可。然而, 旋轉戰鬥機戰鬥的圈子突然發生變化。芬恩, 高音冠軍, 突然退休, 偽裝成蒙面人, 在旋轉戰鬥機比賽中偷偷地製造麻煩。在朋友的說明下, 科菲看穿了芬恩的陰謀。依靠他們對旋轉戰鬥機的深深的愛和信心, 科菲擊敗了芬恩, 解開了芬恩和惡魔大師之間的結。最後, 科菲和他的旋轉戰鬥機朋友憤怒的風暴, 回到旋轉戰鬥機戰鬥, 並不斷執行他們深深的愛和信念的旋轉戰鬥機。.(n)</desc>
     <category lang="en">Kids/Teenagers</category>
     <category lang="en">Cartoon</category>
@@ -19591,15 +19545,13 @@
     <category lang="en">Cartoon</category>
   </programme>
   <programme start="20200329030000 +0800" stop="20200329033000 +0800" channel="ViuTV">
-    <title lang="en">MUCHAMITASU E5 ?</title>
-    <sub-title lang="en">忍者是科學家</sub-title>
+    <title lang="en">MUCHAMITASU E5 -忍者是科學家?</title>
     <desc lang="en">科學發達與人類生活息息相關, 節目介紹實用科學知識, 由日本新進女子組合彩虹章魚燒的五位美少女, 與主持人一起進行趣怪新穎的科學小實驗, 發揮好奇心與學習精神, 在平凡中找尋竅妙的科學原理。.(n)</desc>
     <category lang="en">Knowledge</category>
     <category lang="en">Science</category>
   </programme>
   <programme start="20200329033000 +0800" stop="20200329035500 +0800" channel="ViuTV">
-    <title lang="en">Life of Devout Believer E5</title>
-    <sub-title lang="en">回教</sub-title>
+    <title lang="en">Life of Devout Believer E5 -回教</title>
     <desc lang="en">每一種宗教都有自家的教條律例, 佛教如素, 天主教十誡, 伊斯蘭教(回教)每日五次禮拜, 猶太教要食Kosher食品等...不同律例從幾百至幾千年前開始沿用至今, 有幾多可以在現今社會實行, 又有幾多信徒可以堅守?主持人會去拜訪各種宗教家庭, 之後在自己日常生活當中去體驗各種不同宗教的律例, 了解究竟活在現今世代, 人們可否成為一位不折不扣的虔誠教徒。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality</category>
@@ -19612,15 +19564,13 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200329043000 +0800" stop="20200329050000 +0800" channel="ViuTV">
-    <title lang="en">Put Your Hands Up S2 E10</title>
-    <sub-title lang="en">培育街舞新星</sub-title>
+    <title lang="en">Put Your Hands Up S2 E10 -培育街舞新星</title>
     <desc lang="en">街舞高手Lydia自回流來港後積極以不同媒介推廣街舞, 近年組織了一支活力十足的青年街舞團體Funky Heroes!對Hip Hop文化有濃厚興趣的dr.X, 當然不會錯過「舉高雙手」的黃金機會, 從Lydia認識更多美加與香港兩地的街舞文化, 及與家長合作培育街舞新星的心得。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Lifestyle</category>
   </programme>
   <programme start="20200329050000 +0800" stop="20200329053000 +0800" channel="ViuTV">
-    <title lang="en">Designers in Hong Kong E22</title>
-    <sub-title lang="en">永續 設計的本質</sub-title>
+    <title lang="en">Designers in Hong Kong E22 -永續 設計的本質</title>
     <desc lang="en">設計就是解決生活上的問題, 令生活更好。香港, 一個生活上充滿問題的城市, 自然孕育出很多本土設計師, 擁有自己獨特的設計, 設計的層面非常廣闊, 有平面設計、網頁設計、建築、生活用品、傢俬、居室、工業、包裝、時裝等等, 而香港的設計師也有自己的一套風格和哲學。從香港設計師和他們的作品中, 實際上反映的就是香港人生活上的方方面面。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Lifestyle</category>
@@ -19629,8 +19579,7 @@
     </rating>
   </programme>
   <programme start="20200329053000 +0800" stop="20200329060000 +0800" channel="ViuTV">
-    <title lang="en">Sound and Vision S2 E3</title>
-    <sub-title lang="en">維納斯</sub-title>
+    <title lang="en">Sound and Vision S2 E3 -維納斯</title>
     <desc lang="en">《維納斯》, 奪得初創企業組最佳微電影女主角銅獎。女主角姚玟嘉以及導演葉浩傑將會分享創作心得以及拍攝過程的難忘事。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Others</category>
@@ -19639,8 +19588,7 @@
     </rating>
   </programme>
   <programme start="20200329060000 +0800" stop="20200329063000 +0800" channel="ViuTV">
-    <title lang="en">Travel in Darkness E17</title>
-    <sub-title lang="en">泰國篇 (IV)</sub-title>
+    <title lang="en">Travel in Darkness E17 -泰國篇 (IV)</title>
     <desc lang="en">今集芷媛和Yancy將會有機會進入一個以跨性別人士為主的主題樂園觀賞表演, 並且與其中一位表演者進行交談。過程中, 他們可以了解到跨性別人士的心路歷程和表演的預備功夫。對於每個少數群體來說, 他們最需要的是尊重和接納。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Travelogue</category>
@@ -19684,8 +19632,7 @@
     <category lang="en">Cartoon</category>
   </programme>
   <programme start="20200329093000 +0800" stop="20200329100000 +0800" channel="ViuTV">
-    <title lang="en">Game On! E2</title>
-    <sub-title lang="en">Hospital</sub-title>
+    <title lang="en">Game On! E2 -Hospital</title>
     <desc lang="en">俗語話「意外就是意料之外」。人在外地旅行, 萬一遇到身體不適要看醫生, 學識用英語與醫護人員溝通就非常重要了!今集就由Dr Holly、Shirley 及Jackson 教小朋友在醫院中可能用到的英語!(n)</desc>
     <category lang="en">Kids/Teenagers</category>
     <category lang="en">Others</category>
@@ -19706,15 +19653,13 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200329113000 +0800" stop="20200329120000 +0800" channel="ViuTV">
-    <title lang="en">now Report E204</title>
-    <sub-title lang="en">看不見的傷口</sub-title>
+    <title lang="en">now Report E204 -看不見的傷口</title>
     <desc lang="en">從炎夏到寒冬, 反修例風波延綿超過半年, 香港人的情緒隨著社運高低起伏。有前線示威者經歷驚險的逃亡, 精神情緒受重創, 甚至影響生活作息；亦有警員當值期間遭受襲擊, 面對社會瀰漫的仇警情緒, 擔心家人及自身安全。社運帶來滿城硝煙, 在香港人心中烙下一道道看不見的傷口。.(n)</desc>
     <category lang="en">News</category>
     <category lang="en">Current</category>
   </programme>
   <programme start="20200329120000 +0800" stop="20200329123000 +0800" channel="ViuTV">
-    <title lang="en">Her film Her story E1</title>
-    <sub-title lang="en">嘉賓: 鄧麗欣</sub-title>
+    <title lang="en">Her film Her story E1 -嘉賓: 鄧麗欣</title>
     <desc lang="en">《金像女情》第一集跟大家見面的是鄧麗欣Stephy, 她憑《金都》獲得香港電影金像獎「最佳女主角」提名, 她形容演這個角色有點像自己, 戲中人「困」在太子一個商場中, 她有想過將來可否離開這地方, 就如現實中的她, 年輕時想過未來的自己可會衝出新界童年居住的地方。提到Stephy 最令人印象難忘的角色一定是多部愛情小品電影的「阿寶」, 她說角色名字是一樣, 但每個角色都不一樣, 性格亦不同, 到跟阿寶告別, 她接演了《空手道》, 大家見到一個「脫胎換骨」的Stephy, 她大談拍攝時的難忘事, 更談到憑這角色得到女演員獎對自己的意義。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Talkshow</category>
@@ -19726,22 +19671,19 @@
     <category lang="en">Health</category>
   </programme>
   <programme start="20200329133000 +0800" stop="20200329143000 +0800" channel="ViuTV">
-    <title lang="en">Woo Sang Design Presents: Chill Club E22</title>
-    <sub-title lang="en">嘉賓: 鄭融</sub-title>
+    <title lang="en">Woo Sang Design Presents: Chill Club E22 -嘉賓: 鄭融</title>
     <desc lang="en">今集《Chill Club》請來歌手鄭融, 除了《非凡人生》、《13樓的大笨象》等膾炙人口的作品外, 他更會和Thor唱出街知巷聞的合唱情歌《一事無成》。配合主題「療傷情歌」, 三位主持亦會為觀眾唱出多首適合療傷的樂壇作品。新歌推介方面, 今集邀請到樂隊One Promise上來演唱新歌《寂寞的怪獸》。而「黃劍文音樂實驗室」則請來Shuttle Busk的一眾成員, 演唱張國榮哥哥的名曲《追》。至於今集「當年金曲榜」, 將會重溫第43至第47週的周榜冠軍歌, 與觀眾重溫香港樂壇的當年經典!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Music</category>
   </programme>
   <programme start="20200329143000 +0800" stop="20200329150000 +0800" channel="ViuTV">
-    <title lang="en">Taiwan x Trekking E7</title>
-    <sub-title lang="en">溪頭森林</sub-title>
+    <title lang="en">Taiwan x Trekking E7 -溪頭森林</title>
     <desc lang="en">位於南投縣鹿谷鄉的溪頭, 是一個三面環山的凹谷地形, 海拔在800到2,000公尺之間。溪頭中心點有個風景絕美的「大學池」, 這座池子, 有個美麗的傳說。相傳有一對戀人因受雙方家庭的反對, 一路被追趕至此, 兩人來到了橋的中央, 互相許下誓言, 接著便從橋上一踴而下。是來到這絕不能錯過的, 只是沒想到阿妹第一次來到溪頭, 就遇到滂沱大雨, 只能在雨中行山。位於森林遊樂區入口旁的妖怪村, 充滿濃濃的日式建築風味, 以「松林町」商店街為概念去打造, 來紀念溪頭當地早期一位山林保育專家「松林勝一」, 走在街上閒逛, 還隨處可見奇特造型的妖怪塑像, 而且一不小心, 還會被街上的妖怪抓住, 一起去跳舞。歡樂的氣氛也讓這成為南投近年來最熱門的景點。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Travelogue</category>
   </programme>
   <programme start="20200329150000 +0800" stop="20200329153000 +0800" channel="ViuTV">
-    <title lang="en">Finding Shaman E9</title>
-    <sub-title lang="en">印加人的古老智慧</sub-title>
+    <title lang="en">Finding Shaman E9 -印加人的古老智慧</title>
     <desc lang="en">聽從薩滿的指示, Yoshi與Kanya在入雨林尋找死藤水薩滿之前, 先前往「印加的失落之城」馬丘比丘進行淨化。途中二人再次從印加人的日常生活中感受到古印加人的智慧, 以及二十一世紀的今天, 他們的後代所承傳的技藝與精神。一粒看起來何等渺小的鹽, 卻蘊藏著幾個世紀以來的智慧結晶。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Travelogue</category>
@@ -19759,8 +19701,7 @@
     </rating>
   </programme>
   <programme start="20200329160000 +0800" stop="20200329165500 +0800" channel="ViuTV">
-    <title lang="en">Money vs Honey E8 ?</title>
-    <sub-title lang="en">我要做爸爸媽媽</sub-title>
+    <title lang="en">Money vs Honey E8 -我要做爸爸媽媽?</title>
     <desc lang="en">究竟生或不生小朋友?這是很多情侶都會討論的問題, 今次找來幾位小朋友, 讓各隊情侶一嚐當父母的滋味。每隊將會在室內遊樂場作賽, 小朋友需要在眾多玩具誘惑當中, 完成多項高難度之舉。小朋友的天真, 仿佛為三對情侶施以魔法, 令他們盡情投入與小朋友相處的時光。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality</category>
@@ -19769,8 +19710,7 @@
     <title lang="en">Gimmick Easy (Ad Mag)</title>
   </programme>
   <programme start="20200329170000 +0800" stop="20200329180000 +0800" channel="ViuTV">
-    <title lang="en">Barter Game E9 ?</title>
-    <sub-title lang="en">人與人之間的距離如何拉近呢</sub-title>
+    <title lang="en">Barter Game E9 -人與人之間的距離如何拉近呢?</title>
     <desc lang="en">無論有錢無錢, 生活總要與別人溝通。心悠和Eric前往古巴種植煙草之鄉, 卻碰上溝通問題, 你有你講廣東話, 我有我講西班牙語, 究竟他們用什麼方法去打破先天的隔膜?小齊和Edmond到西藏, 同樣遇上雞同鴨講的問題, 究竟他們如何解決呢?(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality</category>
@@ -19779,8 +19719,7 @@
     </rating>
   </programme>
   <programme start="20200329180000 +0800" stop="20200329183000 +0800" channel="ViuTV">
-    <title lang="en">Travel in Darkness E17</title>
-    <sub-title lang="en">泰國篇 (IV)</sub-title>
+    <title lang="en">Travel in Darkness E17 -泰國篇 (IV)</title>
     <desc lang="en">今集芷媛和Yancy將會有機會進入一個以跨性別人士為主的主題樂園觀賞表演, 並且與其中一位表演者進行交談。過程中, 他們可以了解到跨性別人士的心路歷程和表演的預備功夫。對於每個少數群體來說, 他們最需要的是尊重和接納。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Travelogue</category>
@@ -19789,8 +19728,7 @@
     </rating>
   </programme>
   <programme start="20200329183000 +0800" stop="20200329190000 +0800" channel="ViuTV">
-    <title lang="en">Life of Devout Believer E5</title>
-    <sub-title lang="en">回教</sub-title>
+    <title lang="en">Life of Devout Believer E5 -回教</title>
     <desc lang="en">每一種宗教都有自家的教條律例, 佛教如素, 天主教十誡, 伊斯蘭教(回教)每日五次禮拜, 猶太教要食Kosher食品等...不同律例從幾百至幾千年前開始沿用至今, 有幾多可以在現今社會實行, 又有幾多信徒可以堅守?主持人會去拜訪各種宗教家庭, 之後在自己日常生活當中去體驗各種不同宗教的律例, 了解究竟活在現今世代, 人們可否成為一位不折不扣的虔誠教徒。.(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality</category>
@@ -19813,8 +19751,7 @@
     <category lang="en">Lifestyle</category>
   </programme>
   <programme start="20200329213000 +0800" stop="20200329220000 +0800" channel="ViuTV">
-    <title lang="en">Start From Hotspring E7</title>
-    <sub-title lang="en">親手學做蕎麥麵</sub-title>
+    <title lang="en">Start From Hotspring E7 -親手學做蕎麥麵</title>
     <desc lang="en">今集兩位主持將會到達石川縣有個大型工藝村, 親手學做蕎麥麵, 將地道日本文化細味品嚐。Michelle更會走訪日本最悠久法師旅館,  經歷時間風霜嘅傳統日式庭院, 古樹巨木、流水池塘、巖石擺設、幽邃小徑, 像世外桃源另一片天地, 不同風格的房間更令人有穿梭不同時空的感覺!金澤市盛產嘅金箔產品幾乎佔全國100%, 四處都有閃爍耀目的金箔!兩位主持將跟金箔師傅自製金箔紀念品, 把金箔玩弄於鼓掌之中!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Travelogue</category>
@@ -19885,8 +19822,7 @@
     <category lang="en">Financialnews</category>
   </programme>
   <programme start="20200330080000 +0800" stop="20200330083000 +0800" channel="ViuTV">
-    <title lang="en">Egg Angels Cocotama S3 E5</title>
-    <sub-title lang="en">特普爾跟損壞的音樂盒</sub-title>
+    <title lang="en">Egg Angels Cocotama S3 E5 -特普爾跟損壞的音樂盒</title>
     <desc lang="en">小學五年級的心, 是個有些笨拙但很善良的女孩子。“所有物品裡都有靈魂”她遵守著奶奶的這番教誨, 對物品非常愛惜。某天, 心非常珍愛的彩色鉛筆誕生了神明。這些神明有著決不能被人發現的規矩, 但卻被心看到了!以被發現為契機, 兩人結下了“秘密的契約”.(n)</desc>
     <category lang="en">Kids/Teenagers</category>
     <category lang="en">Cartoon</category>
@@ -19938,8 +19874,7 @@
     <category lang="en">Japanese</category>
   </programme>
   <programme start="20200330123000 +0800" stop="20200330133000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E12</title>
-    <sub-title lang="en">遭偷聽了</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E12 -遭偷聽了</title>
     <desc lang="en">李安在成模的字典中發現了他小時候問媽媽有關疼痛的問題, 他馬上告訴在仁, 卻被一個可疑的男人聽見了...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -19948,8 +19883,7 @@
     </rating>
   </programme>
   <programme start="20200330133000 +0800" stop="20200330143000 +0800" channel="ViuTV">
-    <title lang="en">Dr. Prisoner E11</title>
-    <sub-title lang="en">秘密片段</sub-title>
+    <title lang="en">Dr. Prisoner E11 -秘密片段</title>
     <desc lang="en">宣科長到安山監獄, 找到也曾被以載設圈套的高範碩, 並得悉了羅以載過去的事...素錦在看過去和弟弟的片段時, 發現了李在俊曾和弟弟見面的片段!李在俊本部長親自去找素錦, 借找她咨詢, 想要拿回自己和韓光見面的片段, 此時以載突然出現, 但那片段和電腦卻無故消失了...鄭檢察官找到了以載, 想要以中止服刑事件拘捕他...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -19997,8 +19931,7 @@
     <category lang="en">Others</category>
   </programme>
   <programme start="20200330170000 +0800" stop="20200330181500 +0800" channel="ViuTV">
-    <title lang="en">Sketch E18</title>
-    <sub-title lang="en">結束</sub-title>
+    <title lang="en">Sketch E18 -結束</title>
     <desc lang="en">崔太旭是目擊了柳檢察官殺死文在賢科長的目擊證人, 崔太旭如果跟「老人家」有任何接觸, 那麼一切都會結束....劉詩俊把樸文基捉了, 並向他查探老爺子的真實身份。詩俊得知答案後, 借用樸文基的電話傳短訊給老爺子相約見面。.(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20020,8 +19953,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200330190000 +0800" stop="20200330200000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E12</title>
-    <sub-title lang="en">遭偷聽了</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E12 -遭偷聽了</title>
     <desc lang="en">李安在成模的字典中發現了他小時候問媽媽有關疼痛的問題, 他馬上告訴在仁, 卻被一個可疑的男人聽見了...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20118,8 +20050,7 @@
     <category lang="en">Financialnews</category>
   </programme>
   <programme start="20200331080000 +0800" stop="20200331083000 +0800" channel="ViuTV">
-    <title lang="en">Egg Angels Cocotama S3 E6</title>
-    <sub-title lang="en">交換!哈哈喬跟尼奇兒</sub-title>
+    <title lang="en">Egg Angels Cocotama S3 E6 -交換!哈哈喬跟尼奇兒</title>
     <desc lang="en">小學五年級的心, 是個有些笨拙但很善良的女孩子。“所有物品裡都有靈魂”她遵守著奶奶的這番教誨, 對物品非常愛惜。某天, 心非常珍愛的彩色鉛筆誕生了神明。這些神明有著決不能被人發現的規矩, 但卻被心看到了!以被發現為契機, 兩人結下了“秘密的契約”.(n)</desc>
     <category lang="en">Kids/Teenagers</category>
     <category lang="en">Cartoon</category>
@@ -20171,8 +20102,7 @@
     <category lang="en">Japanese</category>
   </programme>
   <programme start="20200331123000 +0800" stop="20200331133000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E13</title>
-    <sub-title lang="en">只把美好的記憶給你</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E13 -只把美好的記憶給你</title>
     <desc lang="en">姜成模發現了獵頭公司販賣了媽媽的身份, 於是自己開始繼續調查下去, 智秀發現後有點失望。李安和在仁開始交往, 但是李安在撫摸在仁時看到了她的過去, 並得悉了在仁就是尹太河的女兒!(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20181,8 +20111,7 @@
     </rating>
   </programme>
   <programme start="20200331133000 +0800" stop="20200331143000 +0800" channel="ViuTV">
-    <title lang="en">Dr. Prisoner E12</title>
-    <sub-title lang="en">聯手</sub-title>
+    <title lang="en">Dr. Prisoner E12 -聯手</title>
     <desc lang="en">沒想到以載的計劃相當深遠, 宣科長更得知到這一切和保險金也有關...以載和鄭檢察官聯手, 調查夏恩醫院向在押犯發放偽造診斷書及騙取保險金的事件, 並拘捕了宣科長和他的家人, 以載馬上去找宣科長談判。與此同時, 消失已久的韓光打了電話給素錦...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20208,8 +20137,7 @@
     </rating>
   </programme>
   <programme start="20200331153000 +0800" stop="20200331160000 +0800" channel="ViuTV">
-    <title lang="en">Talker - Crime E100</title>
-    <sub-title lang="en">分屍狂徒落網記</sub-title>
+    <title lang="en">Talker - Crime E100 -分屍狂徒落網記</title>
     <desc lang="en">1996年7月, 新界區接二連三發現殘肢, 令全港嘩然!首先是荃灣一個停車場發現血淋淋女性斷臂, 翌日在天水圍一個垃圾站發現無頭無四肢的女性軀體, 第三天則在上水一個休憩花園內再發現人腳!事後, 警方證實三宗案的殘肢均屬35歲女保險蘇嫦蘭。最終, 死者男友被捕, 並控以謀殺罪!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Talkshow</category>
@@ -20231,8 +20159,7 @@
     <category lang="en">Others</category>
   </programme>
   <programme start="20200331170000 +0800" stop="20200331181500 +0800" channel="ViuTV">
-    <title lang="en">Sketch E19</title>
-    <sub-title lang="en">自己的選擇</sub-title>
+    <title lang="en">Sketch E19 -自己的選擇</title>
     <desc lang="en">劉詩賢找到了樸文基的屍體, 姜東秀懷疑是劉詩俊把樸文基殺了, 同一時間, 劉詩俊打電話給劉詩賢, 更看到的劉詩賢死亡。.(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20254,8 +20181,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200331190000 +0800" stop="20200331200000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E13</title>
-    <sub-title lang="en">只把美好的記憶給你</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E13 -只把美好的記憶給你</title>
     <desc lang="en">姜成模發現了獵頭公司販賣了媽媽的身份, 於是自己開始繼續調查下去, 智秀發現後有點失望。李安和在仁開始交往, 但是李安在撫摸在仁時看到了她的過去, 並得悉了在仁就是尹太河的女兒!(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20264,8 +20190,7 @@
     </rating>
   </programme>
   <programme start="20200331200000 +0800" stop="20200331203000 +0800" channel="ViuTV">
-    <title lang="en">Talker - Crime E100</title>
-    <sub-title lang="en">分屍狂徒落網記</sub-title>
+    <title lang="en">Talker - Crime E100 -分屍狂徒落網記</title>
     <desc lang="en">1996年7月, 新界區接二連三發現殘肢, 令全港嘩然!首先是荃灣一個停車場發現血淋淋女性斷臂, 翌日在天水圍一個垃圾站發現無頭無四肢的女性軀體, 第三天則在上水一個休憩花園內再發現人腳!事後, 警方證實三宗案的殘肢均屬35歲女保險蘇嫦蘭。最終, 死者男友被捕, 並控以謀殺罪!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Talkshow</category>
@@ -20322,8 +20247,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200401042500 +0800" stop="20200401043000 +0800" channel="ViuTV">
-    <title lang="en">Environmental Protection Department Presents: No Straws For All E1</title>
-    <sub-title lang="en">我的人魚女友 (I)</sub-title>
+    <title lang="en">Environmental Protection Department Presents: No Straws For All E1 -我的人魚女友 (I)</title>
     <desc lang="en">我們買飲品時可以「走甜」甚至「走冰」, 但是很多時也不會想「走飲管」。其實這都是一種習慣, 但一個小舉動就可以拯救我們的家 - 地球, 以及無數海洋中的生命。你的一小步, 環保一大步!(n)</desc>
     <category lang="en">Knowledge</category>
     <category lang="en">Others</category>
@@ -20360,8 +20284,7 @@
     <category lang="en">Financialnews</category>
   </programme>
   <programme start="20200401080000 +0800" stop="20200401083000 +0800" channel="ViuTV">
-    <title lang="en">Egg Angels Cocotama S3 E7</title>
-    <sub-title lang="en">盤盤、達達, 再次特訓</sub-title>
+    <title lang="en">Egg Angels Cocotama S3 E7 -盤盤、達達, 再次特訓</title>
     <desc lang="en">小學五年級的心, 是個有些笨拙但很善良的女孩子。“所有物品裡都有靈魂”她遵守著奶奶的這番教誨, 對物品非常愛惜。某天, 心非常珍愛的彩色鉛筆誕生了神明。這些神明有著決不能被人發現的規矩, 但卻被心看到了!以被發現為契機, 兩人結下了“秘密的契約”.(n)</desc>
     <category lang="en">Kids/Teenagers</category>
     <category lang="en">Cartoon</category>
@@ -20419,8 +20342,7 @@
     <category lang="en">Japanese</category>
   </programme>
   <programme start="20200401123000 +0800" stop="20200401133000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E14</title>
-    <sub-title lang="en">傷痛的痕跡</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E14 -傷痛的痕跡</title>
     <desc lang="en">智秀認為韓民療養院和永成公寓火災案, 與行李箱殺人案有關, 尤其是因為她知道了成模得悉自己的母親仍在世, 於是智秀想要為他重新調查永成公寓殺人案, 此時成模突然申請無限期休假。.(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20429,8 +20351,7 @@
     </rating>
   </programme>
   <programme start="20200401133000 +0800" stop="20200401143000 +0800" channel="ViuTV">
-    <title lang="en">Dr. Prisoner E13</title>
-    <sub-title lang="en">韓光現身</sub-title>
+    <title lang="en">Dr. Prisoner E13 -韓光現身</title>
     <desc lang="en">以載騙宣敏植科長, 借放過他為借口, 把宣敏植在醫院的股份全部拿走, 生氣的宣敏植打給李在俊求救, 李在俊卻要他幫忙處理掉鄭民在議員。素錦聯絡到韓光, 想要和他見面, 但因理事長和李在仁的出現而逃走了, 理事長解釋當年韓光把李德星前會長的股份都帶走了...李在俊要宣敏植幫忙處理掉鄭民在議員, 於是宣敏植在他們移送到西首爾監獄的過程中, 給鄭議員注射了藥物, 使他發病!(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20456,8 +20377,7 @@
     </rating>
   </programme>
   <programme start="20200401153000 +0800" stop="20200401160000 +0800" channel="ViuTV">
-    <title lang="en">Talker - Foodie Talkies E18</title>
-    <sub-title lang="en">新界東</sub-title>
+    <title lang="en">Talker - Foodie Talkies E18 -新界東</title>
     <desc lang="en">今集Hailey帶來大圍的地獄辣手撕雞腸粉, 出名吃得辣的梁祖堯及BabyJohn會否被擊敗?梁祖堯則帶來沙田、大埔名物蘋果批, 考考蘋果金寶達人BabyJohn能否吃得出平貴之分。繼第一季的暗黑Brownie後, Hailey又再出手煮食, 難道是愚人節的終極大整蠱?(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Talkshow</category>
@@ -20479,8 +20399,7 @@
     <category lang="en">Others</category>
   </programme>
   <programme start="20200401170000 +0800" stop="20200401180000 +0800" channel="ViuTV">
-    <title lang="en">Miss Hammurabi E1</title>
-    <sub-title lang="en">這破職業竟然要做一輩子</sub-title>
+    <title lang="en">Miss Hammurabi E1 -這破職業竟然要做一輩子</title>
     <desc lang="en">林正道在去新審判部上班前的一天答應了媽媽去相親, 在那裡他看到了不少名門望族, 可性格正直的正道對她們一點興趣也沒有。林正道在地鐵上遇到見義勇為的樸充滿, 原來他們是中學同學, 而且即將會在同一個地區的民事44部當法官。兩人第一天上班, 就遇到怪裡怪氣的的審判長韓部長...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20489,8 +20408,7 @@
     </rating>
   </programme>
   <programme start="20200401180000 +0800" stop="20200401183000 +0800" channel="ViuTV">
-    <title lang="en">Hozuki no Reitetsu S2 E1</title>
-    <sub-title lang="en">神話時代的彼世革命</sub-title>
+    <title lang="en">Hozuki no Reitetsu S2 E1 -神話時代的彼世革命</title>
     <desc lang="en">《鬼燈的冷徹 2》描述, 因戰後的人口爆發、惡靈的兇猛化、而讓地獄的亡者暴增的現在、處於前所未有、極度人手不足的混亂狀況。在這之中、有著代替容易陷入慌張無法決策的老好先生” 閻魔王” 處理地獄裡大大小小事情的幕後功臣存在、名為閻魔王的第一輔佐官?鬼燈。小從亡者、大至工作偷懶的閻魔王、一律嚴懲不輕饒的鬼燈。雖然忙碌但意外地愉快的地獄的日常、現在在這裡登場!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Animation</category>
@@ -20503,8 +20421,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200401190000 +0800" stop="20200401200000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E14</title>
-    <sub-title lang="en">傷痛的痕跡</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E14 -傷痛的痕跡</title>
     <desc lang="en">智秀認為韓民療養院和永成公寓火災案, 與行李箱殺人案有關, 尤其是因為她知道了成模得悉自己的母親仍在世, 於是智秀想要為他重新調查永成公寓殺人案, 此時成模突然申請無限期休假。.(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20513,8 +20430,7 @@
     </rating>
   </programme>
   <programme start="20200401200000 +0800" stop="20200401203000 +0800" channel="ViuTV">
-    <title lang="en">Talker - Foodie Talkies E18</title>
-    <sub-title lang="en">新界東</sub-title>
+    <title lang="en">Talker - Foodie Talkies E18 -新界東</title>
     <desc lang="en">今集Hailey帶來大圍的地獄辣手撕雞腸粉, 出名吃得辣的梁祖堯及BabyJohn會否被擊敗?梁祖堯則帶來沙田、大埔名物蘋果批, 考考蘋果金寶達人BabyJohn能否吃得出平貴之分。繼第一季的暗黑Brownie後, Hailey又再出手煮食, 難道是愚人節的終極大整蠱?(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Talkshow</category>
@@ -20571,8 +20487,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200402042500 +0800" stop="20200402043000 +0800" channel="ViuTV">
-    <title lang="en">Environmental Protection Department Presents: No Straws For All E2</title>
-    <sub-title lang="en">我的人魚女友 (II)</sub-title>
+    <title lang="en">Environmental Protection Department Presents: No Straws For All E2 -我的人魚女友 (II)</title>
     <desc lang="en">我們買飲品時可以「走甜」甚至「走冰」, 但是很多時也不會想「走飲管」。其實這都是一種習慣, 但一個小舉動就可以拯救我們的家 - 地球, 以及無數海洋中的生命。你的一小步, 環保一大步!(n)</desc>
     <category lang="en">Knowledge</category>
     <category lang="en">Others</category>
@@ -20667,8 +20582,7 @@
     <category lang="en">Japanese</category>
   </programme>
   <programme start="20200402123000 +0800" stop="20200402133000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E15</title>
-    <sub-title lang="en">你才是犯人</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E15 -你才是犯人</title>
     <desc lang="en">成模告訴在仁, 她的爸爸並不是兇手, 他又在房中留下字條給李安, 令李安發現成模一直在跟著他們, 此時想要和成模一起調查的在仁被兇手綁架了...在仁被犯人捉走, 犯人企圖將在仁浸死, 幸好李安用讀心術及時找到在仁, 將在仁送往醫院。另一方面, 智秀發現了在公開金甲勇殺害真正的姜熙淑和樸秀英的日子, 成模的母親試圖自殺...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20677,8 +20591,7 @@
     </rating>
   </programme>
   <programme start="20200402133000 +0800" stop="20200402143000 +0800" channel="ViuTV">
-    <title lang="en">Dr. Prisoner E14</title>
-    <sub-title lang="en">最強的牌</sub-title>
+    <title lang="en">Dr. Prisoner E14 -最強的牌</title>
     <desc lang="en">李在俊懷疑是以載帶走了韓光, 並跟蹤以載找到了疑似韓光的藏匿地...以載收到韓光醒來的消息, 素錦馬上趕到, 在那裡發現李在俊也出現了。李在俊偽裝與鄭民在議員關係親近, 想要借此得到他的收管品, 沒想到宣敏植從鄭民在口中, 得知李在俊犯罪證據的所在地...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20704,8 +20617,7 @@
     </rating>
   </programme>
   <programme start="20200402153000 +0800" stop="20200402160000 +0800" channel="ViuTV">
-    <title lang="en">Talker - Helmet Intercom E207</title>
-    <sub-title lang="en">註冊營養師 (II)</sub-title>
+    <title lang="en">Talker - Helmet Intercom E207 -註冊營養師 (II)</title>
     <desc lang="en">喺肥人嘅世界裡面, 分別住咗天使與魔鬼 - 帶俾佢哋快樂嘅天使, 叫「美食」；帶俾佢哋痛苦嘅魔鬼, 叫「營養師」。明明用盡努力, 只係想病人活得健康, 偏偏啲病人就專唱反調, 用「自殺式飲食餐單」挑戰營養師嘅道行；明明事事都不計, 仆心仆命為病人嘅健康諗計仔, 但最後換來病人質疑營養師個牌係「買返嚟」, 藐你鬧你乜都齊。萬一遇上個病人精神有問題, 唔止係考驗營養師嘅智慧, 仲隨時威脅到佢哋條命仔!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Talkshow</category>
@@ -20724,15 +20636,13 @@
     <category lang="en">Others</category>
   </programme>
   <programme start="20200402170000 +0800" stop="20200402180000 +0800" channel="ViuTV">
-    <title lang="en">Miss Hammurabi E2</title>
-    <sub-title lang="en">我是人, 同時也會是法官</sub-title>
+    <title lang="en">Miss Hammurabi E2 -我是人, 同時也會是法官</title>
     <desc lang="en">樸充滿作為法官, 終於迎來第一次審判, 心情緊張的她, 面對大大小小鎖碎的案件仍然用心傾聽, 相反韓部長卻對此十分麻木, 作為也參與審判其中的林正道, 覺得樸充滿太過感情用事。.(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
   </programme>
   <programme start="20200402180000 +0800" stop="20200402183000 +0800" channel="ViuTV">
-    <title lang="en">Hozuki no Reitetsu S2 E2</title>
-    <sub-title lang="en">體驗一日獄卒</sub-title>
+    <title lang="en">Hozuki no Reitetsu S2 E2 -體驗一日獄卒</title>
     <desc lang="en">《鬼燈的冷徹 2》描述, 因戰後的人口爆發、惡靈的兇猛化、而讓地獄的亡者暴增的現在、處於前所未有、極度人手不足的混亂狀況。在這之中、有著代替容易陷入慌張無法決策的老好先生” 閻魔王” 處理地獄裡大大小小事情的幕後功臣存在、名為閻魔王的第一輔佐官?鬼燈。小從亡者、大至工作偷懶的閻魔王、一律嚴懲不輕饒的鬼燈。雖然忙碌但意外地愉快的地獄的日常、現在在這裡登場!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Animation</category>
@@ -20745,8 +20655,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200402190000 +0800" stop="20200402200000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E15</title>
-    <sub-title lang="en">你才是犯人</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E15 -你才是犯人</title>
     <desc lang="en">成模告訴在仁, 她的爸爸並不是兇手, 他又在房中留下字條給李安, 令李安發現成模一直在跟著他們, 此時想要和成模一起調查的在仁被兇手綁架了...在仁被犯人捉走, 犯人企圖將在仁浸死, 幸好李安用讀心術及時找到在仁, 將在仁送往醫院。另一方面, 智秀發現了在公開金甲勇殺害真正的姜熙淑和樸秀英的日子, 成模的母親試圖自殺...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20755,8 +20664,7 @@
     </rating>
   </programme>
   <programme start="20200402200000 +0800" stop="20200402203000 +0800" channel="ViuTV">
-    <title lang="en">Talker - Helmet Intercom E207</title>
-    <sub-title lang="en">註冊營養師 (II)</sub-title>
+    <title lang="en">Talker - Helmet Intercom E207 -註冊營養師 (II)</title>
     <desc lang="en">喺肥人嘅世界裡面, 分別住咗天使與魔鬼 - 帶俾佢哋快樂嘅天使, 叫「美食」；帶俾佢哋痛苦嘅魔鬼, 叫「營養師」。明明用盡努力, 只係想病人活得健康, 偏偏啲病人就專唱反調, 用「自殺式飲食餐單」挑戰營養師嘅道行；明明事事都不計, 仆心仆命為病人嘅健康諗計仔, 但最後換來病人質疑營養師個牌係「買返嚟」, 藐你鬧你乜都齊。萬一遇上個病人精神有問題, 唔止係考驗營養師嘅智慧, 仲隨時威脅到佢哋條命仔!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Talkshow</category>
@@ -20810,8 +20718,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20200403042500 +0800" stop="20200403043000 +0800" channel="ViuTV">
-    <title lang="en">Environmental Protection Department Presents: No Straws For All E3</title>
-    <sub-title lang="en">走塑夫妻 (I)</sub-title>
+    <title lang="en">Environmental Protection Department Presents: No Straws For All E3 -走塑夫妻 (I)</title>
     <desc lang="en">我們買飲品時可以「走甜」甚至「走冰」, 但是很多時也不會想「走飲管」。其實這都是一種習慣, 但一個小舉動就可以拯救我們的家 - 地球, 以及無數海洋中的生命。你的一小步, 環保一大步!(n)</desc>
     <category lang="en">Knowledge</category>
     <category lang="en">Others</category>
@@ -20907,8 +20814,7 @@
     <category lang="en">Japanese</category>
   </programme>
   <programme start="20200403123000 +0800" stop="20200403133000 +0800" channel="ViuTV">
-    <title lang="en">German Pool Presents: He is Psychometric E16</title>
-    <sub-title lang="en">一同調查案件</sub-title>
+    <title lang="en">German Pool Presents: He is Psychometric E16 -一同調查案件</title>
     <desc lang="en">在仁和李安發現了成模小時候和媽媽一起被監禁的地方, 智秀邀請在仁和李安一同調查案件。.(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20917,8 +20823,7 @@
     </rating>
   </programme>
   <programme start="20200403133000 +0800" stop="20200403143000 +0800" channel="ViuTV">
-    <title lang="en">Dr. Prisoner E15</title>
-    <sub-title lang="en">犯罪證據</sub-title>
+    <title lang="en">Dr. Prisoner E15 -犯罪證據</title>
     <desc lang="en">以載率先李在俊一步, 把三年前替李在俊殺死泰江化學員工的洪南表捉起來, 要他把李在俊的罪證全部供出, 並在申請令狀時間結束前, 成功搜集到李在俊的罪證給鄭檢察官。羅以載把李在俊的犯罪證據交給了鄭義植檢察官, 但李在俊以直接做地方檢察長的條件賄賂了鄭義植, 令罪證最終沒有被登記。另一方面, 李在俊帶著韓素錦回到了當年媽媽自殺的房子, 說出了自己的童年陰影...(n)</desc>
     <category lang="en">Series</category>
     <category lang="en">Korean</category>
@@ -20944,8 +20849,7 @@
     </rating>
   </programme>
   <programme start="20200403153000 +0800" stop="20200403160000 +0800" channel="ViuTV">
-    <title lang="en">Talker - One Beside You 3 E133</title>
-    <sub-title lang="en">攝影師之靈異事件</sub-title>
+    <title lang="en">Talker - One Beside You 3 E133 -攝影師之靈異事件</title>
     <desc lang="en">廢墟攝影師Tiger, 在荒廢醫院拍照時, 被一股力量推走, 靈體表明不歡迎他；在荒廢學校拍照, 則遇上女靈體；和朋友在荒廢片場合照, 五個人竟有六個影!另有長駐台灣的Anderson夜訪荒廢戲院, 期間聽到怪聲, 又有居民告訴他, 戲院未結業時, 他們試過看電影途中, 螢幕變黑, 觀眾突然消失!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Talkshow</category>
@@ -21046,8 +20950,7 @@
     <category lang="en">Travelogue</category>
   </programme>
   <programme start="20200404030000 +0800" stop="20200404035500 +0800" channel="ViuTV">
-    <title lang="en">Chef Nic E8</title>
-    <sub-title lang="en">泰國篇 - 容祖兒</sub-title>
+    <title lang="en">Chef Nic E8 -泰國篇 - 容祖兒</title>
     <desc lang="en">謝霆鋒每集攜一位明星好友+2位紅人幫廚挑戰各地廚神, 12場美食冒險旅行, 12場廚神之戰。體驗異國文化、探尋各國美食、展現人文風情。.(n)</desc>
     <category lang="en">Entertainment</category>
     <rating>
@@ -21068,15 +20971,13 @@
     <category lang="en">Health</category>
   </programme>
   <programme start="20200404053000 +0800" stop="20200404063000 +0800" channel="ViuTV">
-    <title lang="en">Woo Sang Design Presents: Chill Club E22</title>
-    <sub-title lang="en">嘉賓: 鄭融</sub-title>
+    <title lang="en">Woo Sang Design Presents: Chill Club E22 -嘉賓: 鄭融</title>
     <desc lang="en">今集《Chill Club》請來歌手鄭融, 除了《非凡人生》、《13樓的大笨象》等膾炙人口的作品外, 他更會和Thor唱出街知巷聞的合唱情歌《一事無成》。配合主題「療傷情歌」, 三位主持亦會為觀眾唱出多首適合療傷的樂壇作品。新歌推介方面, 今集邀請到樂隊One Promise上來演唱新歌《寂寞的怪獸》。而「黃劍文音樂實驗室」則請來Shuttle Busk的一眾成員, 演唱張國榮哥哥的名曲《追》。至於今集「當年金曲榜」, 將會重溫第43至第47週的周榜冠軍歌, 與觀眾重溫香港樂壇的當年經典!(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Music</category>
   </programme>
   <programme start="20200404063000 +0800" stop="20200404073000 +0800" channel="ViuTV">
-    <title lang="en">Barter Game E10 ?</title>
-    <sub-title lang="en">什麼是珍惜</sub-title>
+    <title lang="en">Barter Game E10 -什麼是珍惜?</title>
     <desc lang="en">人是否處於劣境時, 才會明白「珍惜」的意義?小齊與edmond到達高原地方, 找不到落腳地, 在嚴寒天氣下, 究竟他們靠什麼充飢, 令他們百般滋味在心頭呢?阿Thor、二汶進了雨林區, 究竟看見什麼令他們心中充滿感慨?而心悠、Eric在換物失敗後, 又領略了什應道理呢?(n)</desc>
     <category lang="en">Entertainment</category>
     <category lang="en">Reality</category>
@@ -21116,8 +21017,7 @@
     <category lang="en">Cartoon</category>
   </programme>
   <programme start="20200404093000 +0800" stop="20200404100000 +0800" channel="ViuTV">
-    <title lang="en">Pets and Family E53</title>
-    <sub-title lang="en">狗狗 Hermes, Manji &amp; Jeccas</sub-title>
+    <title lang="en">Pets and Family E53 -狗狗 Hermes, Manji &amp; Jeccas</title>
     <desc lang="en">大家好呀~我叫Hermes呀~個名係咪好襯我呢~屋企仲有另外兩隻狗仔, 一隻叫做Manji, 係呢度最年長㗎啦~佢最鍾意就係靜靜地咁坐喺度聽屋企人傾計㗎啦~而另外呢隻就叫做 Jecca~佢呀~好活躍㗎, 成日都走嚟走去嘅~.(n)</desc>
     <category lang="en">Kids/Teenagers</category>
     <category lang="en">Others</category>
