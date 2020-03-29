@@ -111,7 +111,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # #EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="Viu TV 99 HK" tvg-logo="https://viu.tv/assets/img/logo.png" group-title="HONG KONG",ViuTV
 # http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
-#EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="ViuTV" tvg-logo="https://viu.tv/assets/img/logo.png"  tvg-shift="-8" group-title="HONG KONG",ViuTV
+#EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="ViuTV" tvg-logo="https://viu.tv/assets/img/logo.png"  tvg-shift="+8" group-title="HONG KONG",ViuTV
 http://play.ggiptv.com:13164/play.m3u8?token=wYLOVZj%2BYEWpVJVP5SRP0vTX&tid=gt&id=8
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",凤凰香港
@@ -205,7 +205,7 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 
 # Christian Channels
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png" tvg-shift="-8" group-title="CHRISTIAN",創世電視台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png" tvg-shift="+8" group-title="CHRISTIAN",創世電視台
 https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 #https://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_k5i4l96e/sd/6000/t/5V7cw-w4PGPKM_UnuQdQlA/index-s32.m3u8
 
