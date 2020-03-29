@@ -53,9 +53,6 @@ https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="SINGAPORE",Channel 5 
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png" group-title="SINGAPORE",Channel 5
-https://tglmp02.akamaized.net/out/v1/f5876089f310414697b361a656bb557a/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png" group-title="SINGAPORE",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 
