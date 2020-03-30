@@ -200,7 +200,7 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 #https://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_k5i4l96e/sd/6000/t/5V7cw-w4PGPKM_UnuQdQlA/index-s32.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.chinesehope.tv/css/img/HopeChannel-horizontal_zh.svg" group-title="CHRISTIAN",希望電視台
+#EXTINF:-1 tvg-logo="http://www.hk-chinesehope.tv/zh/images/chtv_link_icon.png" group-title="CHRISTIAN",希望電視台
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&rebase=on
 #https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on
 
