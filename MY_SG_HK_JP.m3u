@@ -77,19 +77,16 @@ http://pull.scphsd.com/live/7043526245ff2d28ef4646afc32511ae/playlist.m3u8?wsSes
 http://m.567it.com/jade.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+http://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
 
 # #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 # http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
-http://pull.scphsd.com/live/178e54a8946823b25a320567d90acc31/playlist.m3u8
+http://c01.live.aliyuncdn.sharkselection.com/live/03dsdsadsdas.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
-http://pull.scphsd.com/live/a9d60e726f1ef485a46df51c37679360/playlist.m3u8
+http://edge19-1.edgeware.hk4.tvb.com:80/session/19e2ff8a-c00b-11e8-844a-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=69d2b3b399b6f796cd4aede9c5fc9174_1537887854_1537887854
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -122,6 +119,12 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://rthk.hk/about/dtt/images/logo_tv32.jpg" group-title="HONG KONG",香港电视32台
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="HONG KONG",NOW直播
+http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HONG KONG",NOW華劇
+http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8
 
 # Japan Channels
 
