@@ -71,25 +71,34 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 # Hong Kong Channels
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://pull.scphsd.com/live/8ef4646afc32511ae7043526245ff2d2/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158555267071115&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
+http://pull.scphsd.com/live/7043526245ff2d28ef4646afc32511ae/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158539993805776&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
+
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://m.567it.com/jade.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+
 # #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 # http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
-http://pull.scphsd.com/live/5a320567d90acc31178e54a8946823b2/playlist.m3u8
+http://pull.scphsd.com/live/178e54a8946823b25a320567d90acc31/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
-http://pull.scphsd.com/live/a5a46df51c37679369d60e726f1ef480/playlist.m3u8
+http://pull.scphsd.com/live/a9d60e726f1ef485a46df51c37679360/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
-http://pull.scphsd.com/live/7376b2e6cb8c6804224a6ba0f8e15925/playlist.m3u8?wsSession=042da687ae30d670b0a3356f-158555309500435&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://stream.guihet.com/tv/116.php?id=12
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1585552544~exp=1585638944~acl=/newslive/smil:mobile_finance.smil/*~hmac=e51acf89ec52ae4899a83b9387d58ca376bc2a2a8a4a21d9ccaf359c860906ff
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1585399964~exp=1585486364~acl=/newslive/smil:mobile_finance.smil/*~hmac=e24708e4a95fe0cbc267043f563ab0008530aa3d159c25cc60396b5a50db4a83
+
 # #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 # http://play.ggiptv.com:13164/play.m3u8?token=xI70PMi5K7koRpiLMvrWOzx9&tid=gt&id=10
 
@@ -103,7 +112,7 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 # http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="ViuTV" tvg-logo="https://viu.tv/assets/img/logo.png"  tvg-shift="+8" group-title="HONG KONG",ViuTV
-http://pull.scphsd.com/live/02d81fe52bb1813080c31f2c3169bd30/playlist.m3u8
+http://pull.scphsd.com/live/bd663455c008b54cef285563e7c07d44/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158548412794202&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",凤凰香港
 http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
@@ -200,61 +209,51 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 #https://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_k5i4l96e/sd/6000/t/5V7cw-w4PGPKM_UnuQdQlA/index-s32.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.hk-chinesehope.tv/zh/images/chtv_link_icon.png" group-title="CHRISTIAN",希望電視台
+#EXTINF:-1 tvg-logo="http://www.chinesehope.tv/css/img/HopeChannel-horizontal_zh.svg" group-title="CHRISTIAN",希望電視台
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&rebase=on
 #https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="CHRISTIAN",GOODTV綜合台
-http://live.streamingfast.net/osmflivech1.m3u8
-#https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="CHRISTIAN",GOOD TV好消息
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="CHRISTIAN",GOODTV真理台
-http://live.streamingfast.net/osmflivech2.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/4_file.jpg" group-title="CHRISTIAN",GOODTV國度報導
+https://vod.streamingfast.net/hls-vod/video/1200k/N108001_0035_1200k.mp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/30_file.jpg" group-title="CHRISTIAN",GOODTV天堂敬拜
-http://live.streamingfast.net/osmflivech30.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="CHRISTIAN",GOODTV禱告頻道
-http://live.streamingfast.net/osmflivech49.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/36_file.jpg" group-title="CHRISTIAN",GOODTV特會系列：超自然大能．醫治釋放
-http://live.streamingfast.net/osmflivech36.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch36-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch36-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="CHRISTIAN",GOODTV維他命施
-http://live.streamingfast.net/osmflivech12.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" group-title="CHRISTIAN",GOODTV愛+好醫生 短版
-http://live.streamingfast.net/osmflivech9.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="CHRISTIAN",GOODTV健康新煮流 短版
-http://live.streamingfast.net/osmflivech13.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/14_file.jpg" group-title="CHRISTIAN",GOODTV真情部落格
-http://live.streamingfast.net/osmflivech14.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/31_file.jpg" group-title="CHRISTIAN",GOODTV福音佈道音樂會
-http://live.streamingfast.net/osmflivech31.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="CHRISTIAN",GOODTV幸福學堂
-http://live.streamingfast.net/osmflivech41.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch41-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch41-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="CHRISTIAN",GOODTV烤箱讀書會
-http://live.streamingfast.net/osmflivech44.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" group-title="CHRISTIAN",GOODTV卡通
-http://live.streamingfast.net/osmflivech45.m3u8
-# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
+https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
 
 #EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" tvg-shift="-1" group-title="CHRISTIAN",CGN JAPAN / 日本
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
