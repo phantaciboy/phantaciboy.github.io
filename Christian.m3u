@@ -1,0 +1,66 @@
+#EXTM3U 
+
+# Christian Channels
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png" tvg-shift="+8" group-title="Cantonese",創世電視台
+https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+#https://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_k5i4l96e/sd/6000/t/5V7cw-w4PGPKM_UnuQdQlA/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chinesehope.tv/css/img/HopeChannel-horizontal_zh.svg" group-title="Chinese",希望電視台
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1800_av-p.m3u8?sd=10&rebase=on
+#https://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/1_file.jpg" group-title="Chinese",GOODTV綜合台
+http://live.streamingfast.net/osmflivech1.m3u8
+#https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/2_file.jpg" group-title="Chinese",GOODTV真理台
+http://live.streamingfast.net/osmflivech2.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/30_file.jpg" group-title="Chinese",GOODTV天堂敬拜
+http://live.streamingfast.net/osmflivech30.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/49_file.jpg" group-title="Chinese",GOODTV禱告頻道
+http://live.streamingfast.net/osmflivech49.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch49-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/36_file.jpg" group-title="Chinese",GOODTV特會系列：超自然大能．醫治釋放
+http://live.streamingfast.net/osmflivech36.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch36-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/12_file.jpg" group-title="Chinese",GOODTV維他命施
+http://live.streamingfast.net/osmflivech12.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/9_file.jpg" group-title="Chinese",GOODTV愛+好醫生 短版
+http://live.streamingfast.net/osmflivech9.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/13_file.jpg" group-title="Chinese",GOODTV健康新煮流 短版
+http://live.streamingfast.net/osmflivech13.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/14_file.jpg" group-title="Chinese",GOODTV真情部落格
+http://live.streamingfast.net/osmflivech14.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/31_file.jpg" group-title="Chinese",GOODTV福音佈道音樂會
+http://live.streamingfast.net/osmflivech31.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/41_file.jpg" group-title="Chinese",GOODTV幸福學堂
+http://live.streamingfast.net/osmflivech41.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch41-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/44_file.jpg" group-title="Chinese",GOODTV烤箱讀書會
+http://live.streamingfast.net/osmflivech44.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch44-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://app.streamingfast.net/uploads/channel/45_file.jpg" group-title="Chinese",GOODTV卡通
+http://live.streamingfast.net/osmflivech45.m3u8
+# https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch45-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://japan.cgntv.net/upload/happy_config/info_logo.png" tvg-shift="-1" group-title="Japanese",CGN JAPAN / 日本
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
