@@ -72,10 +72,8 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://pull.scphsd.com/live/8ef4646afc32511ae7043526245ff2d2/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158555267071115&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
-
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://m.567it.com/jade.m3u8
-
 # #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 # http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
@@ -86,13 +84,12 @@ http://pull.scphsd.com/live/5a320567d90acc31178e54a8946823b2/playlist.m3u8
 http://pull.scphsd.com/live/a5a46df51c37679369d60e726f1ef480/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+http://pull.scphsd.com/live/7376b2e6cb8c6804224a6ba0f8e15925/playlist.m3u8?wsSession=042da687ae30d670b0a3356f-158555309500435&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://stream.guihet.com/tv/116.php?id=12
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1585552544~exp=1585638944~acl=/newslive/smil:mobile_finance.smil/*~hmac=e51acf89ec52ae4899a83b9387d58ca376bc2a2a8a4a21d9ccaf359c860906ff
-
 # #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 # http://play.ggiptv.com:13164/play.m3u8?token=xI70PMi5K7koRpiLMvrWOzx9&tid=gt&id=10
 
