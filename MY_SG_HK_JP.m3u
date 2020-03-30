@@ -94,7 +94,7 @@ http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1
 http://stream.guihet.com/tv/116.php?id=12
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1585399964~exp=1585486364~acl=/newslive/smil:mobile_finance.smil/*~hmac=e24708e4a95fe0cbc267043f563ab0008530aa3d159c25cc60396b5a50db4a83
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
 
 # #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 # http://play.ggiptv.com:13164/play.m3u8?token=xI70PMi5K7koRpiLMvrWOzx9&tid=gt&id=10
