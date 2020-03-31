@@ -78,7 +78,7 @@ http://m.567it.com/jade.m3u8
 # http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
-http://pull.scphsd.com/live/5a320567d90acc31178e54a8946823b2/playlist.m3u8
+http://pull.scphsd.com/live/c31178e54a8946823b25a320567d90ac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
 http://104.233.176.70:13164/play.m3u8?token=skGAz1oBh0tq6p2R1jq4Yl2s&tid=gt&id=9
