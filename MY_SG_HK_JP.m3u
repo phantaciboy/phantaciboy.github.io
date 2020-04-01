@@ -71,34 +71,25 @@ https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 # Hong Kong Channels
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://pull.scphsd.com/live/7043526245ff2d28ef4646afc32511ae/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158539993805776&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
-
+https://ter.live2.ksmobile.net/yolo/e7043526245ff2d28ef4646afc32511a/playlist.m3u8?wsSession=cea0fa77b192dcf1f585cb3e-158564463822863&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 http://m.567it.com/jade.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-
 # #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Jade.png" group-title="HONG KONG",翡翠台
 # http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil?app=mytv
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" tvg-id="4eaeffb6f3fb1796c890fa8f6743e8f0" group-title="HONG KONG",J2
-http://pull.scphsd.com/live/178e54a8946823b25a320567d90acc31/playlist.m3u8
+http://104.233.176.70:13164/play.m3u8?token=glPvZYJs0Bv4qycQ6yvwjmd9&tid=gt&id=12
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/TVBnews.jpg" tvg-id="16f3531fee2abf576edddf8b46ea1d06" group-title="HONG KONG",無綫新聞台
-http://pull.scphsd.com/live/a9d60e726f1ef485a46df51c37679360/playlist.m3u8
+https://ter.live2.ksmobile.net/yolo/9369d60e726f1ef480a5a46df51c3767/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+http://pull.scphsd.com/live/7376b2e6cb8c6804224a6ba0f8e15925/playlist.m3u8?wsSession=042da687ae30d670b0a3356f-158555309500435&wsIPSercert=f5e7f0a6ee692e45a343332016ee7742&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://stream.guihet.com/tv/116.php?id=12
 
 #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobile_finance.smil/playlist.m3u8?hdnea=st=1585399964~exp=1585486364~acl=/newslive/smil:mobile_finance.smil/*~hmac=e24708e4a95fe0cbc267043f563ab0008530aa3d159c25cc60396b5a50db4a83
-
+http://104.233.176.70:13164/play.m3u8?token=kdn3bJq6LbgoRpiKNvbbMjR6&tid=gt&id=10
 # #EXTINF:-1 tvg-logo="https://img.tvb.com/ti_img/MyTVSuperPromo/2527/5c861fed0de06_1552293869.jpeg" group-title="HONG KONG",無綫財經 · 資訊台
 # http://play.ggiptv.com:13164/play.m3u8?token=xI70PMi5K7koRpiLMvrWOzx9&tid=gt&id=10
 
@@ -108,11 +99,10 @@ http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/HK_open_tv_logo.jpg/200px-HK_open_tv_logo.jpg" tvg-id="5f5afc9eb373927c74da38bfc3e658e9" group-title="HONG KONG",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
+#EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="ViuTV" tvg-logo="https://viu.tv/assets/img/logo.png"  tvg-shift="0" group-title="HONG KONG",ViuTV
+http://104.233.176.70:13164/play.m3u8?token=wtKYU8v%2FY0%2BpVJVP5yBL1fXR&tid=gt&id=8
 # #EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="Viu TV 99 HK" tvg-logo="https://viu.tv/assets/img/logo.png" group-title="HONG KONG",ViuTV
 # http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-
-#EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="ViuTV" tvg-logo="https://viu.tv/assets/img/logo.png"  tvg-shift="+8" group-title="HONG KONG",ViuTV
-http://pull.scphsd.com/live/bd663455c008b54cef285563e7c07d44/playlist.m3u8?wsSession=9d360ff05c634b5b6dcabdb4-158548412794202&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://img.isuper.tv/live-tv/hk-tv/phtv-hongkong-live.jpg" group-title="HONG KONG",凤凰香港
 http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=8b7125c692389da69e056d3f73897627&txTime=16ecb504dfe
@@ -205,7 +195,7 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 
 # Christian Channels
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png" tvg-shift="+8" group-title="CHRISTIAN",創世電視台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/91/Creation-tv_logo.png" tvg-shift="0" group-title="CHRISTIAN",創世電視台
 https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
 #https://klive-a.akamaihd.net/dc-0/live/hls/p/2050161/e/1_k5i4l96e/sd/6000/t/5V7cw-w4PGPKM_UnuQdQlA/index-s32.m3u8
 
