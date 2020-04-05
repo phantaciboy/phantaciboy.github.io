@@ -84,7 +84,7 @@ http://ter.zgsgllive.ksmobile.net/yolo/02c4dd10996016be805f0a22cab6d724/playlist
 http://ter.zgsgllive.ksmobile.net/yolo/c750a8196a7ee406b57c2497a8cb48b0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
-http://ter.zgsgllive.ksmobile.net/yolo/dd6d8037fd63d006b2cbdd1b38e07630/playlist.m3u8
+http://ter.zgsgllive.ksmobile.net/yolo/de9119784763a4573976afae29efb24f/playlist.m3u8?wsSession=cea0fa77b192dcf1f585cb3e-158610213173563&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-Pearl.png" group-title="HONG KONG",明珠台
 http://stream.guihet.com/tv/116.php?id=12
 
@@ -100,7 +100,7 @@ http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="ViuTV" tvg-logo="https://viu.tv/assets/img/logo.png"  tvg-shift="0" group-title="HONG KONG",ViuTV
-http://104.233.176.70:13164/play.m3u8?token=lY6dVJf9MEepVJVM4CRP2vDS&tid=gt&id=8
+http://ter.zgsgllive.ksmobile.net/yolo/d97514f378102a9671a20675649b1bbc/playlist.m3u8?wsSession=cea0fa77b192dcf1f585cb3e-158610213173563&wsIPSercert=9954a0d2e715b69701320b6d55d36837&wsMonitor=0
 # #EXTINF:-1 tvg-id="ViuTV99.hk" tvg-name="Viu TV 99 HK" tvg-logo="https://viu.tv/assets/img/logo.png" group-title="HONG KONG",ViuTV
 # http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 
